@@ -1,0 +1,13 @@
+
+AUDITORIA DE INGESTA
+--------------------
+
+API: https://jsonplaceholder.typicode.com/posts
+
+Fecha: 2026-08-31 23:00:24
+
+Registros obtenidos del API: 100
+Registros guardados en SQLite: 100
+
+Resultado:
+INTEGRIDAD OK

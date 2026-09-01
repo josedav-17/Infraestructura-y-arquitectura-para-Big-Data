@@ -1,0 +1,41 @@
+name: Ingestion
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ejecutar:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Descargar proyecto
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar librerias
+        run: pip install requests pandas openpyxl
+
+      - name: Ejecutar programa
+        run: python src/ingestion.py
+
+      - name: Revisar archivos
+        run: |
+          test -f src/db/ingestion.db
+          test -f src/xlsx/ingestion.xlsx
+          test -f src/static/auditoria/ingestion.txt
+
+      - name: Guardar evidencias
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados
+          path: |
+            src/db/ingestion.db
+            src/xlsx/ingestion.xlsx
+            src/static/auditoria/ingestion.txt
