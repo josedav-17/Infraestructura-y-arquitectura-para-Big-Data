@@ -1,3 +1,8 @@
+# EA1. Ingestión de Datos desde un API 
+## JOSE DAVID CARDONA MAZO 
+## UNIVERSIDAD DIGITAL DE ANTIOQUIA - 2026
+
+
 # Proyecto de Ingesta de Datos desde API
 
 ## 1. Descripción
