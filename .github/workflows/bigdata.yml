@@ -1,4 +1,4 @@
-name: Ingesta Datos
+name: Pipeline Big Data Ingesta y Limpieza
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-ingestion:
+  run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,11 +22,17 @@ jobs:
         pip install --upgrade pip
         pip install -e .
 
-    - name: Run ingestion
+    - name: Run Ingestion (Actividad 1)
       env:
         MONGO_URI: ${{ secrets.MONGO_URI }}
       run: |
         python src/ingestion.py
+
+    - name: Run Processing and Cleaning (Actividad 2)
+      env:
+        MONGO_URI: ${{ secrets.MONGO_URI }}
+      run: |
+        python src/processing.py
 
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
@@ -34,4 +40,6 @@ jobs:
         name: evidencias
         path: |
           src/xlsx/ingestion.xlsx
+          src/xlsx/cleaned_data.xlsx
           src/static/auditoria/ingestion.txt
+          src/static/auditoria/cleaning_report.txt

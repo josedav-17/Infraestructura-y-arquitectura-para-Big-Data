@@ -1,0 +1,7 @@
+README.md
+setup.py
+ingestion_bigdata.egg-info/PKG-INFO
+ingestion_bigdata.egg-info/SOURCES.txt
+ingestion_bigdata.egg-info/dependency_links.txt
+ingestion_bigdata.egg-info/requires.txt
+ingestion_bigdata.egg-info/top_level.txt

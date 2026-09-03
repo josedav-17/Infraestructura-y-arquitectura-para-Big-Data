@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ingestion_bigdata
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: pymongo
+Requires-Dist: openpyxl
+Dynamic: requires-dist
