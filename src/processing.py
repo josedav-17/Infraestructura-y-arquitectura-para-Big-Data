@@ -91,6 +91,7 @@ def main():
         f.write(f"   - Total registros limpios: {final_count}\n")
         f.write("   - Estado de calidad: LIMPIO Y REGLAMENTADO\n")
 
+    print(f"Limpieza finalizada. Registros procesados: {final_count}")
     client.close()
 
 if __name__ == "__main__":
