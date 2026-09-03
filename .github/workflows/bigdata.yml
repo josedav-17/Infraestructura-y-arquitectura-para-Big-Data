@@ -1,41 +1,37 @@
-name: Ingestion
+name: Ingesta Datos
 
 on:
   push:
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
-  ejecutar:
-
+  run-ingestion:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v4
 
-      - name: Descargar proyecto
-        uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-      - name: Instalar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -e .
 
-      - name: Instalar librerias
-        run: pip install requests pandas openpyxl
+    - name: Run ingestion
+      env:
+        MONGO_URI: ${{ secrets.MONGO_URI }}
+      run: |
+        python src/ingestion.py
 
-      - name: Ejecutar programa
-        run: python src/ingestion.py
-
-      - name: Revisar archivos
-        run: |
-          test -f src/db/ingestion.db
-          test -f src/xlsx/ingestion.xlsx
-          test -f src/static/auditoria/ingestion.txt
-
-      - name: Guardar evidencias
-        uses: actions/upload-artifact@v4
-        with:
-          name: resultados
-          path: |
-            src/db/ingestion.db
-            src/xlsx/ingestion.xlsx
-            src/static/auditoria/ingestion.txt
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: evidencias
+        path: |
+          src/xlsx/ingestion.xlsx
+          src/static/auditoria/ingestion.txt

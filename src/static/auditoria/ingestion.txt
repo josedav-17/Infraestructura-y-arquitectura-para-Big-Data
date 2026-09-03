@@ -1,13 +1,6 @@
-
-AUDITORIA DE INGESTA
---------------------
-
-API: https://jsonplaceholder.typicode.com/posts
-
-Fecha: 2026-08-31 23:00:24
-
-Registros obtenidos del API: 100
-Registros guardados en SQLite: 100
-
-Resultado:
-INTEGRIDAD OK
+AUDITORIA DE INGESTION BIG DATA
+Fecha ejecucion: 2026-09-03 05:44:34.464846
+Registros extraidos API: 100
+Registros unicos procesados: 100
+Registros persistidos Mongo: 100
+Estado validacion: OK
