@@ -73,10 +73,10 @@ def main():
         coincidencias = df_final[col_ref].notna().sum()
         logs.append(f"{nombre}: {len(df_f)} registros leidos, {coincidencias} coincidencias.")
 
-    num_cols = df_final.select_dtypes(include=['float64', 'int64']).columns
+    num_cols = df_final.select_dtypes(include=['number']).columns
     df_final[num_cols] = df_final[num_cols].fillna(0.0)
 
-    obj_cols = df_final.select_dtypes(include=['object', 'string', 'str']).columns
+    obj_cols = df_final.select_dtypes(exclude=['number']).columns
     df_final[obj_cols] = df_final[obj_cols].fillna("No Aplica")
 
     df_final.to_sql("productos_enriquecidos", conn, if_exists="replace", index=False)
