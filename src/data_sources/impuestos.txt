@@ -1,0 +1,5001 @@
+code|impuesto_porcentaje|categoria_fiscal
+770000100000|5.0|Lácteos
+770000100001|0.0|Canasta Básica
+770000100002|19.0|Lácteos
+770000100003|10.0|Lácteos
+770000100004|5.0|Snacks
+770000100005|10.0|Lácteos
+770000100006|0.0|Alimentos Procesados
+770000100007|19.0|Bebidas Azucaradas
+770000100008|19.0|Canasta Básica
+770000100009|19.0|Alimentos Procesados
+770000100010|19.0|Canasta Básica
+770000100011|5.0|Bebidas Azucaradas
+770000100012|10.0|Lácteos
+770000100013|19.0|Snacks
+770000100014|5.0|Bebidas Azucaradas
+770000100015|5.0|Lácteos
+770000100016|19.0|Snacks
+770000100017|0.0|Alimentos Procesados
+770000100018|0.0|Snacks
+770000100019|10.0|Bebidas Azucaradas
+770000100020|5.0|Bebidas Azucaradas
+770000100021|0.0|Snacks
+770000100022|5.0|Snacks
+770000100023|10.0|Alimentos Procesados
+770000100024|10.0|Canasta Básica
+770000100025|10.0|Alimentos Procesados
+770000100026|10.0|Alimentos Procesados
+770000100027|0.0|Canasta Básica
+770000100028|19.0|Lácteos
+770000100029|5.0|Lácteos
+770000100030|10.0|Snacks
+770000100031|10.0|Alimentos Procesados
+770000100032|19.0|Bebidas Azucaradas
+770000100033|19.0|Snacks
+770000100034|19.0|Snacks
+770000100035|10.0|Snacks
+770000100036|19.0|Bebidas Azucaradas
+770000100037|10.0|Bebidas Azucaradas
+770000100038|5.0|Bebidas Azucaradas
+770000100039|10.0|Lácteos
+770000100040|5.0|Snacks
+770000100041|5.0|Canasta Básica
+770000100042|5.0|Bebidas Azucaradas
+770000100043|0.0|Lácteos
+770000100044|5.0|Lácteos
+770000100045|0.0|Snacks
+770000100046|10.0|Alimentos Procesados
+770000100047|10.0|Snacks
+770000100048|19.0|Canasta Básica
+770000100049|5.0|Bebidas Azucaradas
+770000100050|0.0|Bebidas Azucaradas
+770000100051|19.0|Alimentos Procesados
+770000100052|10.0|Snacks
+770000100053|0.0|Alimentos Procesados
+770000100054|5.0|Snacks
+770000100055|0.0|Bebidas Azucaradas
+770000100056|19.0|Canasta Básica
+770000100057|5.0|Canasta Básica
+770000100058|5.0|Snacks
+770000100059|0.0|Bebidas Azucaradas
+770000100060|19.0|Lácteos
+770000100061|5.0|Canasta Básica
+770000100062|19.0|Lácteos
+770000100063|5.0|Lácteos
+770000100064|5.0|Snacks
+770000100065|0.0|Lácteos
+770000100066|19.0|Bebidas Azucaradas
+770000100067|5.0|Snacks
+770000100068|10.0|Alimentos Procesados
+770000100069|5.0|Snacks
+770000100070|19.0|Bebidas Azucaradas
+770000100071|5.0|Snacks
+770000100072|19.0|Lácteos
+770000100073|0.0|Alimentos Procesados
+770000100074|19.0|Lácteos
+770000100075|10.0|Snacks
+770000100076|5.0|Snacks
+770000100077|0.0|Bebidas Azucaradas
+770000100078|10.0|Canasta Básica
+770000100079|0.0|Canasta Básica
+770000100080|10.0|Snacks
+770000100081|0.0|Alimentos Procesados
+770000100082|10.0|Bebidas Azucaradas
+770000100083|19.0|Snacks
+770000100084|0.0|Snacks
+770000100085|0.0|Lácteos
+770000100086|5.0|Canasta Básica
+770000100087|19.0|Alimentos Procesados
+770000100088|5.0|Alimentos Procesados
+770000100089|0.0|Bebidas Azucaradas
+770000100090|10.0|Bebidas Azucaradas
+770000100091|5.0|Bebidas Azucaradas
+770000100092|0.0|Snacks
+770000100093|5.0|Bebidas Azucaradas
+770000100094|0.0|Lácteos
+770000100095|0.0|Snacks
+770000100096|19.0|Bebidas Azucaradas
+770000100097|0.0|Lácteos
+770000100098|19.0|Canasta Básica
+770000100099|10.0|Lácteos
+770000100100|0.0|Snacks
+770000100101|5.0|Snacks
+770000100102|0.0|Lácteos
+770000100103|10.0|Lácteos
+770000100104|19.0|Canasta Básica
+770000100105|19.0|Alimentos Procesados
+770000100106|19.0|Canasta Básica
+770000100107|5.0|Snacks
+770000100108|0.0|Canasta Básica
+770000100109|0.0|Lácteos
+770000100110|0.0|Lácteos
+770000100111|19.0|Snacks
+770000100112|5.0|Snacks
+770000100113|10.0|Bebidas Azucaradas
+770000100114|19.0|Alimentos Procesados
+770000100115|0.0|Bebidas Azucaradas
+770000100116|0.0|Lácteos
+770000100117|19.0|Alimentos Procesados
+770000100118|5.0|Snacks
+770000100119|0.0|Lácteos
+770000100120|5.0|Alimentos Procesados
+770000100121|10.0|Bebidas Azucaradas
+770000100122|19.0|Alimentos Procesados
+770000100123|0.0|Lácteos
+770000100124|10.0|Lácteos
+770000100125|0.0|Alimentos Procesados
+770000100126|5.0|Canasta Básica
+770000100127|5.0|Canasta Básica
+770000100128|19.0|Canasta Básica
+770000100129|5.0|Lácteos
+770000100130|10.0|Alimentos Procesados
+770000100131|19.0|Alimentos Procesados
+770000100132|10.0|Canasta Básica
+770000100133|10.0|Lácteos
+770000100134|19.0|Snacks
+770000100135|10.0|Alimentos Procesados
+770000100136|5.0|Snacks
+770000100137|0.0|Alimentos Procesados
+770000100138|19.0|Bebidas Azucaradas
+770000100139|5.0|Alimentos Procesados
+770000100140|10.0|Snacks
+770000100141|5.0|Canasta Básica
+770000100142|0.0|Alimentos Procesados
+770000100143|10.0|Canasta Básica
+770000100144|10.0|Bebidas Azucaradas
+770000100145|19.0|Alimentos Procesados
+770000100146|10.0|Canasta Básica
+770000100147|19.0|Snacks
+770000100148|19.0|Snacks
+770000100149|10.0|Canasta Básica
+770000100150|5.0|Bebidas Azucaradas
+770000100151|5.0|Canasta Básica
+770000100152|19.0|Canasta Básica
+770000100153|5.0|Bebidas Azucaradas
+770000100154|19.0|Lácteos
+770000100155|19.0|Alimentos Procesados
+770000100156|19.0|Snacks
+770000100157|0.0|Canasta Básica
+770000100158|0.0|Alimentos Procesados
+770000100159|10.0|Lácteos
+770000100160|10.0|Snacks
+770000100161|5.0|Bebidas Azucaradas
+770000100162|5.0|Bebidas Azucaradas
+770000100163|0.0|Snacks
+770000100164|19.0|Snacks
+770000100165|5.0|Snacks
+770000100166|10.0|Alimentos Procesados
+770000100167|10.0|Snacks
+770000100168|5.0|Lácteos
+770000100169|5.0|Lácteos
+770000100170|10.0|Alimentos Procesados
+770000100171|19.0|Bebidas Azucaradas
+770000100172|0.0|Snacks
+770000100173|10.0|Alimentos Procesados
+770000100174|5.0|Alimentos Procesados
+770000100175|10.0|Snacks
+770000100176|10.0|Alimentos Procesados
+770000100177|10.0|Snacks
+770000100178|19.0|Canasta Básica
+770000100179|5.0|Alimentos Procesados
+770000100180|10.0|Lácteos
+770000100181|19.0|Snacks
+770000100182|0.0|Snacks
+770000100183|19.0|Snacks
+770000100184|19.0|Snacks
+770000100185|0.0|Alimentos Procesados
+770000100186|19.0|Bebidas Azucaradas
+770000100187|5.0|Canasta Básica
+770000100188|5.0|Alimentos Procesados
+770000100189|19.0|Snacks
+770000100190|5.0|Alimentos Procesados
+770000100191|5.0|Snacks
+770000100192|10.0|Alimentos Procesados
+770000100193|19.0|Snacks
+770000200194|19.0|Lácteos
+770000200195|10.0|Snacks
+770000200196|5.0|Bebidas Azucaradas
+770000200197|19.0|Alimentos Procesados
+770000200198|19.0|Alimentos Procesados
+770000200199|0.0|Bebidas Azucaradas
+770000200200|19.0|Snacks
+770000200201|0.0|Alimentos Procesados
+770000200202|5.0|Alimentos Procesados
+770000200203|10.0|Lácteos
+770000200204|5.0|Canasta Básica
+770000200205|19.0|Canasta Básica
+770000200206|19.0|Lácteos
+770000200207|10.0|Canasta Básica
+770000200208|19.0|Lácteos
+770000200209|19.0|Bebidas Azucaradas
+770000200210|10.0|Lácteos
+770000200211|10.0|Lácteos
+770000200212|19.0|Snacks
+770000200213|0.0|Bebidas Azucaradas
+770000200214|10.0|Alimentos Procesados
+770000200215|10.0|Snacks
+770000200216|5.0|Bebidas Azucaradas
+770000200217|10.0|Lácteos
+770000200218|19.0|Alimentos Procesados
+770000200219|19.0|Lácteos
+770000200220|19.0|Snacks
+770000200221|0.0|Alimentos Procesados
+770000200222|0.0|Bebidas Azucaradas
+770000200223|0.0|Bebidas Azucaradas
+770000200224|5.0|Snacks
+770000200225|10.0|Bebidas Azucaradas
+770000200226|5.0|Canasta Básica
+770000200227|0.0|Alimentos Procesados
+770000200228|0.0|Canasta Básica
+770000200229|0.0|Bebidas Azucaradas
+770000200230|5.0|Canasta Básica
+770000200231|5.0|Bebidas Azucaradas
+770000200232|19.0|Lácteos
+770000200233|0.0|Bebidas Azucaradas
+770000200234|5.0|Snacks
+770000200235|5.0|Canasta Básica
+770000200236|0.0|Bebidas Azucaradas
+770000200237|19.0|Canasta Básica
+770000200238|10.0|Canasta Básica
+770000200239|10.0|Lácteos
+770000200240|19.0|Canasta Básica
+770000200241|19.0|Snacks
+770000200242|10.0|Bebidas Azucaradas
+770000200243|10.0|Bebidas Azucaradas
+770000200244|19.0|Bebidas Azucaradas
+770000200245|0.0|Canasta Básica
+770000200246|5.0|Bebidas Azucaradas
+770000200247|10.0|Canasta Básica
+770000200248|0.0|Alimentos Procesados
+770000200249|5.0|Bebidas Azucaradas
+770000200250|5.0|Bebidas Azucaradas
+770000200251|0.0|Bebidas Azucaradas
+770000200252|10.0|Canasta Básica
+770000200253|0.0|Lácteos
+770000200254|19.0|Canasta Básica
+770000200255|0.0|Bebidas Azucaradas
+770000200256|5.0|Snacks
+770000200257|19.0|Alimentos Procesados
+770000200258|10.0|Snacks
+770000200259|5.0|Bebidas Azucaradas
+770000200260|10.0|Lácteos
+770000200261|5.0|Canasta Básica
+770000200262|10.0|Canasta Básica
+770000200263|5.0|Canasta Básica
+770000200264|0.0|Lácteos
+770000200265|19.0|Canasta Básica
+770000200266|0.0|Bebidas Azucaradas
+770000200267|10.0|Canasta Básica
+770000200268|5.0|Snacks
+770000200269|5.0|Canasta Básica
+770000200270|5.0|Snacks
+770000200271|5.0|Alimentos Procesados
+770000200272|19.0|Bebidas Azucaradas
+770000200273|19.0|Alimentos Procesados
+770000200274|0.0|Snacks
+770000200275|19.0|Alimentos Procesados
+770000200276|5.0|Bebidas Azucaradas
+770000200277|0.0|Snacks
+770000200278|5.0|Snacks
+770000200279|10.0|Canasta Básica
+770000200280|19.0|Bebidas Azucaradas
+770000200281|0.0|Snacks
+770000200282|10.0|Canasta Básica
+770000200283|10.0|Canasta Básica
+770000200284|0.0|Bebidas Azucaradas
+770000200285|5.0|Canasta Básica
+770000200286|10.0|Lácteos
+770000200287|0.0|Lácteos
+770000200288|0.0|Bebidas Azucaradas
+770000200289|19.0|Alimentos Procesados
+770000200290|19.0|Alimentos Procesados
+770000200291|10.0|Snacks
+770000200292|0.0|Lácteos
+770000200293|0.0|Canasta Básica
+770000200294|19.0|Bebidas Azucaradas
+770000200295|0.0|Lácteos
+770000200296|19.0|Alimentos Procesados
+770000200297|5.0|Snacks
+770000200298|19.0|Snacks
+770000200299|0.0|Lácteos
+770000200300|19.0|Bebidas Azucaradas
+770000200301|5.0|Lácteos
+770000200302|19.0|Lácteos
+770000200303|0.0|Alimentos Procesados
+770000200304|10.0|Canasta Básica
+770000200305|5.0|Alimentos Procesados
+770000200306|19.0|Canasta Básica
+770000200307|0.0|Bebidas Azucaradas
+770000200308|10.0|Alimentos Procesados
+770000200309|10.0|Snacks
+770000200310|5.0|Lácteos
+770000200311|19.0|Snacks
+770000200312|5.0|Alimentos Procesados
+770000200313|19.0|Lácteos
+770000200314|0.0|Bebidas Azucaradas
+770000200315|19.0|Lácteos
+770000200316|19.0|Snacks
+770000200317|0.0|Bebidas Azucaradas
+770000200318|5.0|Alimentos Procesados
+770000200319|10.0|Canasta Básica
+770000200320|10.0|Alimentos Procesados
+770000200321|10.0|Snacks
+770000200322|10.0|Alimentos Procesados
+770000200323|0.0|Bebidas Azucaradas
+770000200324|0.0|Alimentos Procesados
+770000200325|19.0|Bebidas Azucaradas
+770000200326|10.0|Lácteos
+770000200327|10.0|Snacks
+770000200328|5.0|Bebidas Azucaradas
+770000200329|10.0|Alimentos Procesados
+770000200330|5.0|Alimentos Procesados
+770000200331|19.0|Snacks
+770000200332|5.0|Alimentos Procesados
+770000200333|5.0|Alimentos Procesados
+770000200334|5.0|Bebidas Azucaradas
+770000200335|19.0|Lácteos
+770000200336|19.0|Snacks
+770000200337|0.0|Canasta Básica
+770000200338|0.0|Canasta Básica
+770000200339|10.0|Snacks
+770000200340|10.0|Alimentos Procesados
+770000200341|19.0|Lácteos
+770000200342|0.0|Snacks
+770000200343|10.0|Canasta Básica
+770000200344|0.0|Snacks
+770000200345|10.0|Lácteos
+770000200346|10.0|Bebidas Azucaradas
+770000200347|10.0|Canasta Básica
+770000200348|10.0|Alimentos Procesados
+770000200349|0.0|Lácteos
+770000200350|19.0|Bebidas Azucaradas
+770000200351|0.0|Canasta Básica
+770000200352|19.0|Snacks
+770000200353|10.0|Canasta Básica
+770000200354|5.0|Alimentos Procesados
+770000200355|5.0|Bebidas Azucaradas
+770000200356|5.0|Lácteos
+770000200357|0.0|Lácteos
+770000200358|10.0|Bebidas Azucaradas
+770000200359|5.0|Lácteos
+770000200360|5.0|Snacks
+770000200361|19.0|Lácteos
+770000200362|0.0|Canasta Básica
+770000200363|0.0|Alimentos Procesados
+770000200364|19.0|Alimentos Procesados
+770000200365|0.0|Snacks
+770000200366|10.0|Lácteos
+770000200367|10.0|Alimentos Procesados
+770000200368|10.0|Canasta Básica
+770000200369|10.0|Snacks
+770000200370|0.0|Lácteos
+770000200371|5.0|Bebidas Azucaradas
+770000200372|10.0|Lácteos
+770000200373|10.0|Bebidas Azucaradas
+770000200374|10.0|Lácteos
+770000200375|0.0|Snacks
+770000200376|10.0|Lácteos
+770000200377|19.0|Snacks
+770000200378|10.0|Bebidas Azucaradas
+770000200379|10.0|Canasta Básica
+770000200380|0.0|Alimentos Procesados
+770000200381|0.0|Bebidas Azucaradas
+770000200382|0.0|Bebidas Azucaradas
+770000200383|10.0|Snacks
+770000200384|5.0|Canasta Básica
+770000200385|19.0|Bebidas Azucaradas
+770000200386|0.0|Alimentos Procesados
+770000200387|10.0|Snacks
+770000300388|0.0|Snacks
+770000300389|0.0|Lácteos
+770000300390|5.0|Alimentos Procesados
+770000300391|19.0|Canasta Básica
+770000300392|10.0|Canasta Básica
+770000300393|5.0|Alimentos Procesados
+770000300394|19.0|Canasta Básica
+770000300395|10.0|Canasta Básica
+770000300396|0.0|Snacks
+770000300397|0.0|Alimentos Procesados
+770000300398|0.0|Canasta Básica
+770000300399|5.0|Lácteos
+770000300400|0.0|Canasta Básica
+770000300401|0.0|Lácteos
+770000300402|5.0|Canasta Básica
+770000300403|0.0|Bebidas Azucaradas
+770000300404|0.0|Snacks
+770000300405|5.0|Lácteos
+770000300406|10.0|Snacks
+770000300407|5.0|Bebidas Azucaradas
+770000300408|5.0|Lácteos
+770000300409|10.0|Bebidas Azucaradas
+770000300410|5.0|Snacks
+770000300411|19.0|Bebidas Azucaradas
+770000300412|10.0|Alimentos Procesados
+770000300413|5.0|Snacks
+770000300414|10.0|Lácteos
+770000300415|5.0|Snacks
+770000300416|0.0|Canasta Básica
+770000300417|0.0|Lácteos
+770000300418|5.0|Lácteos
+770000300419|5.0|Alimentos Procesados
+770000300420|19.0|Snacks
+770000300421|10.0|Alimentos Procesados
+770000300422|19.0|Alimentos Procesados
+770000300423|10.0|Lácteos
+770000300424|0.0|Canasta Básica
+770000300425|5.0|Bebidas Azucaradas
+770000300426|5.0|Lácteos
+770000300427|5.0|Snacks
+770000300428|0.0|Alimentos Procesados
+770000300429|0.0|Lácteos
+770000300430|0.0|Snacks
+770000300431|19.0|Snacks
+770000300432|0.0|Snacks
+770000300433|5.0|Bebidas Azucaradas
+770000300434|19.0|Alimentos Procesados
+770000300435|0.0|Canasta Básica
+770000300436|10.0|Bebidas Azucaradas
+770000300437|10.0|Lácteos
+770000300438|19.0|Lácteos
+770000300439|0.0|Lácteos
+770000300440|0.0|Bebidas Azucaradas
+770000300441|19.0|Lácteos
+770000300442|0.0|Lácteos
+770000300443|19.0|Bebidas Azucaradas
+770000300444|19.0|Bebidas Azucaradas
+770000300445|0.0|Bebidas Azucaradas
+770000300446|19.0|Bebidas Azucaradas
+770000300447|10.0|Canasta Básica
+770000300448|0.0|Alimentos Procesados
+770000300449|0.0|Canasta Básica
+770000300450|0.0|Canasta Básica
+770000300451|5.0|Bebidas Azucaradas
+770000300452|5.0|Canasta Básica
+770000300453|19.0|Lácteos
+770000300454|19.0|Snacks
+770000300455|19.0|Canasta Básica
+770000300456|5.0|Lácteos
+770000300457|0.0|Alimentos Procesados
+770000300458|10.0|Lácteos
+770000300459|0.0|Canasta Básica
+770000300460|19.0|Alimentos Procesados
+770000300461|10.0|Bebidas Azucaradas
+770000300462|19.0|Snacks
+770000300463|0.0|Canasta Básica
+770000300464|5.0|Canasta Básica
+770000300465|0.0|Bebidas Azucaradas
+770000300466|5.0|Lácteos
+770000300467|19.0|Canasta Básica
+770000300468|10.0|Alimentos Procesados
+770000300469|5.0|Canasta Básica
+770000300470|0.0|Alimentos Procesados
+770000300471|19.0|Snacks
+770000300472|19.0|Lácteos
+770000300473|5.0|Snacks
+770000300474|5.0|Bebidas Azucaradas
+770000300475|0.0|Alimentos Procesados
+770000300476|0.0|Snacks
+770000300477|10.0|Snacks
+770000300478|10.0|Alimentos Procesados
+770000300479|0.0|Lácteos
+770000300480|0.0|Snacks
+770000300481|10.0|Canasta Básica
+770000300482|5.0|Snacks
+770000300483|0.0|Canasta Básica
+770000300484|0.0|Canasta Básica
+770000300485|0.0|Canasta Básica
+770000300486|0.0|Canasta Básica
+770000300487|10.0|Lácteos
+770000300488|5.0|Alimentos Procesados
+770000300489|10.0|Alimentos Procesados
+770000300490|0.0|Snacks
+770000300491|5.0|Snacks
+770000300492|10.0|Lácteos
+770000300493|10.0|Lácteos
+770000300494|5.0|Alimentos Procesados
+770000300495|0.0|Alimentos Procesados
+770000300496|19.0|Canasta Básica
+770000300497|19.0|Bebidas Azucaradas
+770000300498|0.0|Snacks
+770000300499|5.0|Lácteos
+770000300500|0.0|Bebidas Azucaradas
+770000300501|10.0|Lácteos
+770000300502|5.0|Canasta Básica
+770000300503|0.0|Snacks
+770000300504|19.0|Lácteos
+770000300505|0.0|Snacks
+770000300506|5.0|Canasta Básica
+770000300507|5.0|Alimentos Procesados
+770000300508|5.0|Lácteos
+770000300509|0.0|Canasta Básica
+770000300510|10.0|Snacks
+770000300511|0.0|Lácteos
+770000300512|19.0|Alimentos Procesados
+770000300513|10.0|Bebidas Azucaradas
+770000300514|0.0|Lácteos
+770000300515|19.0|Alimentos Procesados
+770000300516|19.0|Bebidas Azucaradas
+770000300517|5.0|Lácteos
+770000300518|19.0|Snacks
+770000300519|19.0|Snacks
+770000300520|0.0|Snacks
+770000300521|0.0|Snacks
+770000300522|10.0|Alimentos Procesados
+770000300523|5.0|Lácteos
+770000300524|19.0|Lácteos
+770000300525|5.0|Lácteos
+770000300526|0.0|Bebidas Azucaradas
+770000300527|0.0|Bebidas Azucaradas
+770000300528|19.0|Bebidas Azucaradas
+770000300529|19.0|Canasta Básica
+770000300530|0.0|Snacks
+770000300531|0.0|Lácteos
+770000300532|10.0|Lácteos
+770000300533|10.0|Lácteos
+770000300534|5.0|Bebidas Azucaradas
+770000300535|19.0|Snacks
+770000300536|19.0|Snacks
+770000300537|0.0|Snacks
+770000300538|5.0|Lácteos
+770000300539|0.0|Lácteos
+770000300540|10.0|Bebidas Azucaradas
+770000300541|19.0|Snacks
+770000300542|0.0|Snacks
+770000300543|19.0|Canasta Básica
+770000300544|10.0|Canasta Básica
+770000300545|5.0|Snacks
+770000300546|10.0|Snacks
+770000300547|10.0|Canasta Básica
+770000300548|10.0|Canasta Básica
+770000300549|19.0|Canasta Básica
+770000300550|0.0|Canasta Básica
+770000300551|10.0|Canasta Básica
+770000300552|10.0|Lácteos
+770000300553|0.0|Snacks
+770000300554|0.0|Lácteos
+770000300555|0.0|Snacks
+770000300556|10.0|Bebidas Azucaradas
+770000300557|10.0|Alimentos Procesados
+770000300558|5.0|Bebidas Azucaradas
+770000300559|10.0|Lácteos
+770000300560|10.0|Alimentos Procesados
+770000300561|5.0|Bebidas Azucaradas
+770000300562|19.0|Bebidas Azucaradas
+770000300563|19.0|Alimentos Procesados
+770000300564|19.0|Snacks
+770000300565|19.0|Alimentos Procesados
+770000300566|19.0|Bebidas Azucaradas
+770000300567|5.0|Alimentos Procesados
+770000300568|0.0|Lácteos
+770000300569|19.0|Snacks
+770000300570|10.0|Bebidas Azucaradas
+770000300571|19.0|Alimentos Procesados
+770000300572|5.0|Canasta Básica
+770000300573|0.0|Lácteos
+770000300574|19.0|Lácteos
+770000300575|0.0|Lácteos
+770000300576|0.0|Alimentos Procesados
+770000300577|0.0|Lácteos
+770000300578|0.0|Snacks
+770000300579|10.0|Bebidas Azucaradas
+770000300580|19.0|Alimentos Procesados
+770000300581|19.0|Bebidas Azucaradas
+770000400582|10.0|Bebidas Azucaradas
+770000400583|5.0|Snacks
+770000400584|0.0|Bebidas Azucaradas
+770000400585|10.0|Alimentos Procesados
+770000400586|0.0|Snacks
+770000400587|0.0|Lácteos
+770000400588|10.0|Bebidas Azucaradas
+770000400589|0.0|Alimentos Procesados
+770000400590|19.0|Lácteos
+770000400591|0.0|Snacks
+770000400592|10.0|Canasta Básica
+770000400593|0.0|Lácteos
+770000400594|19.0|Snacks
+770000400595|5.0|Canasta Básica
+770000400596|19.0|Lácteos
+770000400597|10.0|Lácteos
+770000400598|19.0|Lácteos
+770000400599|0.0|Snacks
+770000400600|10.0|Bebidas Azucaradas
+770000400601|5.0|Snacks
+770000400602|0.0|Bebidas Azucaradas
+770000400603|0.0|Snacks
+770000400604|10.0|Canasta Básica
+770000400605|10.0|Canasta Básica
+770000400606|19.0|Alimentos Procesados
+770000400607|10.0|Alimentos Procesados
+770000400608|19.0|Bebidas Azucaradas
+770000400609|10.0|Alimentos Procesados
+770000400610|10.0|Alimentos Procesados
+770000400611|10.0|Lácteos
+770000400612|0.0|Bebidas Azucaradas
+770000400613|0.0|Snacks
+770000400614|10.0|Alimentos Procesados
+770000400615|5.0|Alimentos Procesados
+770000400616|5.0|Snacks
+770000400617|10.0|Snacks
+770000400618|5.0|Lácteos
+770000400619|5.0|Alimentos Procesados
+770000400620|19.0|Snacks
+770000400621|19.0|Lácteos
+770000400622|19.0|Snacks
+770000400623|0.0|Canasta Básica
+770000400624|19.0|Snacks
+770000400625|0.0|Alimentos Procesados
+770000400626|0.0|Lácteos
+770000400627|5.0|Bebidas Azucaradas
+770000400628|19.0|Alimentos Procesados
+770000400629|5.0|Snacks
+770000400630|19.0|Bebidas Azucaradas
+770000400631|0.0|Canasta Básica
+770000400632|10.0|Snacks
+770000400633|10.0|Snacks
+770000400634|5.0|Lácteos
+770000400635|5.0|Lácteos
+770000400636|5.0|Snacks
+770000400637|19.0|Bebidas Azucaradas
+770000400638|10.0|Canasta Básica
+770000400639|19.0|Snacks
+770000400640|5.0|Lácteos
+770000400641|0.0|Canasta Básica
+770000400642|0.0|Canasta Básica
+770000400643|0.0|Snacks
+770000400644|10.0|Lácteos
+770000400645|10.0|Lácteos
+770000400646|10.0|Snacks
+770000400647|0.0|Lácteos
+770000400648|0.0|Bebidas Azucaradas
+770000400649|5.0|Lácteos
+770000400650|19.0|Lácteos
+770000400651|19.0|Alimentos Procesados
+770000400652|5.0|Canasta Básica
+770000400653|0.0|Lácteos
+770000400654|10.0|Canasta Básica
+770000400655|0.0|Alimentos Procesados
+770000400656|5.0|Snacks
+770000400657|10.0|Alimentos Procesados
+770000400658|0.0|Lácteos
+770000400659|19.0|Alimentos Procesados
+770000400660|5.0|Snacks
+770000400661|0.0|Bebidas Azucaradas
+770000400662|10.0|Alimentos Procesados
+770000400663|5.0|Snacks
+770000400664|19.0|Alimentos Procesados
+770000400665|19.0|Snacks
+770000400666|19.0|Canasta Básica
+770000400667|0.0|Lácteos
+770000400668|19.0|Canasta Básica
+770000400669|5.0|Bebidas Azucaradas
+770000400670|5.0|Canasta Básica
+770000400671|10.0|Snacks
+770000400672|19.0|Alimentos Procesados
+770000400673|0.0|Alimentos Procesados
+770000400674|19.0|Lácteos
+770000400675|5.0|Snacks
+770000400676|5.0|Lácteos
+770000400677|19.0|Canasta Básica
+770000400678|0.0|Snacks
+770000400679|5.0|Bebidas Azucaradas
+770000400680|19.0|Lácteos
+770000400681|19.0|Lácteos
+770000400682|0.0|Lácteos
+770000400683|19.0|Snacks
+770000400684|10.0|Alimentos Procesados
+770000400685|19.0|Canasta Básica
+770000400686|19.0|Bebidas Azucaradas
+770000400687|19.0|Bebidas Azucaradas
+770000400688|10.0|Alimentos Procesados
+770000400689|5.0|Bebidas Azucaradas
+770000400690|10.0|Snacks
+770000400691|10.0|Snacks
+770000400692|19.0|Lácteos
+770000400693|5.0|Canasta Básica
+770000400694|5.0|Snacks
+770000400695|19.0|Lácteos
+770000400696|0.0|Alimentos Procesados
+770000400697|10.0|Lácteos
+770000400698|10.0|Snacks
+770000400699|5.0|Snacks
+770000400700|5.0|Bebidas Azucaradas
+770000400701|19.0|Alimentos Procesados
+770000400702|5.0|Lácteos
+770000400703|10.0|Alimentos Procesados
+770000400704|0.0|Alimentos Procesados
+770000400705|0.0|Lácteos
+770000400706|0.0|Snacks
+770000400707|0.0|Alimentos Procesados
+770000400708|19.0|Snacks
+770000400709|10.0|Canasta Básica
+770000400710|5.0|Canasta Básica
+770000400711|10.0|Snacks
+770000400712|10.0|Snacks
+770000400713|10.0|Canasta Básica
+770000400714|5.0|Canasta Básica
+770000400715|5.0|Bebidas Azucaradas
+770000400716|5.0|Bebidas Azucaradas
+770000400717|5.0|Lácteos
+770000400718|10.0|Lácteos
+770000400719|5.0|Alimentos Procesados
+770000400720|0.0|Bebidas Azucaradas
+770000400721|5.0|Canasta Básica
+770000400722|10.0|Lácteos
+770000400723|19.0|Bebidas Azucaradas
+770000400724|5.0|Snacks
+770000400725|5.0|Lácteos
+770000400726|0.0|Lácteos
+770000400727|10.0|Lácteos
+770000400728|19.0|Canasta Básica
+770000400729|0.0|Bebidas Azucaradas
+770000400730|19.0|Lácteos
+770000400731|5.0|Snacks
+770000400732|19.0|Bebidas Azucaradas
+770000400733|19.0|Bebidas Azucaradas
+770000400734|5.0|Snacks
+770000400735|10.0|Snacks
+770000400736|19.0|Snacks
+770000400737|0.0|Alimentos Procesados
+770000400738|5.0|Lácteos
+770000400739|10.0|Alimentos Procesados
+770000400740|0.0|Lácteos
+770000400741|5.0|Bebidas Azucaradas
+770000400742|10.0|Alimentos Procesados
+770000400743|19.0|Snacks
+770000400744|5.0|Bebidas Azucaradas
+770000400745|10.0|Snacks
+770000400746|5.0|Snacks
+770000400747|5.0|Snacks
+770000400748|10.0|Snacks
+770000400749|10.0|Bebidas Azucaradas
+770000400750|5.0|Alimentos Procesados
+770000400751|0.0|Alimentos Procesados
+770000400752|5.0|Canasta Básica
+770000400753|0.0|Canasta Básica
+770000400754|5.0|Lácteos
+770000400755|10.0|Lácteos
+770000400756|5.0|Bebidas Azucaradas
+770000400757|0.0|Bebidas Azucaradas
+770000400758|10.0|Bebidas Azucaradas
+770000400759|19.0|Bebidas Azucaradas
+770000400760|10.0|Lácteos
+770000400761|5.0|Snacks
+770000400762|0.0|Snacks
+770000400763|19.0|Bebidas Azucaradas
+770000400764|0.0|Snacks
+770000400765|0.0|Alimentos Procesados
+770000400766|5.0|Snacks
+770000400767|10.0|Bebidas Azucaradas
+770000400768|10.0|Snacks
+770000400769|5.0|Bebidas Azucaradas
+770000400770|10.0|Bebidas Azucaradas
+770000400771|10.0|Lácteos
+770000400772|5.0|Canasta Básica
+770000400773|19.0|Snacks
+770000400774|10.0|Snacks
+770000400775|5.0|Canasta Básica
+770000500776|19.0|Lácteos
+770000500777|5.0|Canasta Básica
+770000500778|0.0|Canasta Básica
+770000500779|5.0|Lácteos
+770000500780|10.0|Canasta Básica
+770000500781|5.0|Canasta Básica
+770000500782|5.0|Canasta Básica
+770000500783|19.0|Bebidas Azucaradas
+770000500784|10.0|Alimentos Procesados
+770000500785|0.0|Snacks
+770000500786|5.0|Alimentos Procesados
+770000500787|0.0|Bebidas Azucaradas
+770000500788|19.0|Lácteos
+770000500789|0.0|Alimentos Procesados
+770000500790|10.0|Canasta Básica
+770000500791|19.0|Alimentos Procesados
+770000500792|0.0|Canasta Básica
+770000500793|19.0|Canasta Básica
+770000500794|19.0|Bebidas Azucaradas
+770000500795|19.0|Bebidas Azucaradas
+770000500796|5.0|Alimentos Procesados
+770000500797|10.0|Lácteos
+770000500798|10.0|Lácteos
+770000500799|10.0|Alimentos Procesados
+770000500800|5.0|Lácteos
+770000500801|0.0|Snacks
+770000500802|5.0|Alimentos Procesados
+770000500803|19.0|Lácteos
+770000500804|19.0|Alimentos Procesados
+770000500805|5.0|Bebidas Azucaradas
+770000500806|10.0|Lácteos
+770000500807|19.0|Canasta Básica
+770000500808|5.0|Canasta Básica
+770000500809|5.0|Canasta Básica
+770000500810|10.0|Snacks
+770000500811|19.0|Alimentos Procesados
+770000500812|19.0|Canasta Básica
+770000500813|0.0|Canasta Básica
+770000500814|5.0|Lácteos
+770000500815|10.0|Lácteos
+770000500816|10.0|Canasta Básica
+770000500817|5.0|Lácteos
+770000500818|5.0|Alimentos Procesados
+770000500819|0.0|Canasta Básica
+770000500820|5.0|Lácteos
+770000500821|0.0|Canasta Básica
+770000500822|19.0|Canasta Básica
+770000500823|19.0|Alimentos Procesados
+770000500824|0.0|Snacks
+770000500825|19.0|Lácteos
+770000500826|0.0|Alimentos Procesados
+770000500827|10.0|Bebidas Azucaradas
+770000500828|19.0|Canasta Básica
+770000500829|10.0|Alimentos Procesados
+770000500830|5.0|Canasta Básica
+770000500831|19.0|Bebidas Azucaradas
+770000500832|0.0|Lácteos
+770000500833|0.0|Lácteos
+770000500834|19.0|Snacks
+770000500835|0.0|Snacks
+770000500836|19.0|Canasta Básica
+770000500837|0.0|Alimentos Procesados
+770000500838|0.0|Bebidas Azucaradas
+770000500839|5.0|Alimentos Procesados
+770000500840|10.0|Snacks
+770000500841|10.0|Lácteos
+770000500842|5.0|Lácteos
+770000500843|5.0|Snacks
+770000500844|19.0|Lácteos
+770000500845|5.0|Bebidas Azucaradas
+770000500846|19.0|Alimentos Procesados
+770000500847|0.0|Alimentos Procesados
+770000500848|0.0|Canasta Básica
+770000500849|5.0|Canasta Básica
+770000500850|19.0|Alimentos Procesados
+770000500851|10.0|Canasta Básica
+770000500852|0.0|Bebidas Azucaradas
+770000500853|10.0|Alimentos Procesados
+770000500854|10.0|Snacks
+770000500855|5.0|Alimentos Procesados
+770000500856|5.0|Bebidas Azucaradas
+770000500857|19.0|Canasta Básica
+770000500858|0.0|Alimentos Procesados
+770000500859|5.0|Alimentos Procesados
+770000500860|10.0|Lácteos
+770000500861|5.0|Lácteos
+770000500862|5.0|Canasta Básica
+770000500863|10.0|Canasta Básica
+770000500864|10.0|Alimentos Procesados
+770000500865|10.0|Alimentos Procesados
+770000500866|10.0|Snacks
+770000500867|5.0|Bebidas Azucaradas
+770000500868|0.0|Alimentos Procesados
+770000500869|5.0|Bebidas Azucaradas
+770000500870|19.0|Alimentos Procesados
+770000500871|5.0|Alimentos Procesados
+770000500872|10.0|Snacks
+770000500873|10.0|Alimentos Procesados
+770000500874|0.0|Alimentos Procesados
+770000500875|19.0|Snacks
+770000500876|5.0|Canasta Básica
+770000500877|5.0|Bebidas Azucaradas
+770000500878|10.0|Canasta Básica
+770000500879|0.0|Snacks
+770000500880|19.0|Bebidas Azucaradas
+770000500881|19.0|Canasta Básica
+770000500882|5.0|Snacks
+770000500883|19.0|Alimentos Procesados
+770000500884|0.0|Canasta Básica
+770000500885|0.0|Bebidas Azucaradas
+770000500886|10.0|Lácteos
+770000500887|0.0|Lácteos
+770000500888|0.0|Alimentos Procesados
+770000500889|10.0|Snacks
+770000500890|0.0|Alimentos Procesados
+770000500891|19.0|Bebidas Azucaradas
+770000500892|10.0|Alimentos Procesados
+770000500893|19.0|Alimentos Procesados
+770000500894|0.0|Bebidas Azucaradas
+770000500895|19.0|Canasta Básica
+770000500896|5.0|Snacks
+770000500897|19.0|Bebidas Azucaradas
+770000500898|5.0|Lácteos
+770000500899|10.0|Alimentos Procesados
+770000500900|0.0|Lácteos
+770000500901|5.0|Alimentos Procesados
+770000500902|5.0|Bebidas Azucaradas
+770000500903|19.0|Bebidas Azucaradas
+770000500904|10.0|Lácteos
+770000500905|5.0|Bebidas Azucaradas
+770000500906|10.0|Bebidas Azucaradas
+770000500907|0.0|Bebidas Azucaradas
+770000500908|19.0|Alimentos Procesados
+770000500909|19.0|Alimentos Procesados
+770000500910|5.0|Bebidas Azucaradas
+770000500911|10.0|Lácteos
+770000500912|19.0|Lácteos
+770000500913|5.0|Lácteos
+770000500914|0.0|Alimentos Procesados
+770000500915|10.0|Bebidas Azucaradas
+770000500916|0.0|Lácteos
+770000500917|10.0|Bebidas Azucaradas
+770000500918|10.0|Lácteos
+770000500919|0.0|Snacks
+770000500920|10.0|Alimentos Procesados
+770000500921|19.0|Alimentos Procesados
+770000500922|0.0|Lácteos
+770000500923|19.0|Alimentos Procesados
+770000500924|10.0|Bebidas Azucaradas
+770000500925|10.0|Canasta Básica
+770000500926|0.0|Alimentos Procesados
+770000500927|10.0|Lácteos
+770000500928|19.0|Alimentos Procesados
+770000500929|5.0|Lácteos
+770000500930|5.0|Canasta Básica
+770000500931|0.0|Lácteos
+770000500932|19.0|Lácteos
+770000500933|10.0|Canasta Básica
+770000500934|0.0|Alimentos Procesados
+770000500935|5.0|Lácteos
+770000500936|19.0|Canasta Básica
+770000500937|19.0|Lácteos
+770000500938|10.0|Snacks
+770000500939|10.0|Bebidas Azucaradas
+770000500940|10.0|Lácteos
+770000500941|19.0|Canasta Básica
+770000500942|0.0|Alimentos Procesados
+770000500943|0.0|Bebidas Azucaradas
+770000500944|5.0|Canasta Básica
+770000500945|19.0|Canasta Básica
+770000500946|5.0|Alimentos Procesados
+770000500947|19.0|Alimentos Procesados
+770000500948|19.0|Alimentos Procesados
+770000500949|19.0|Bebidas Azucaradas
+770000500950|5.0|Canasta Básica
+770000500951|5.0|Lácteos
+770000500952|0.0|Lácteos
+770000500953|5.0|Snacks
+770000500954|19.0|Snacks
+770000500955|19.0|Lácteos
+770000500956|0.0|Bebidas Azucaradas
+770000500957|19.0|Alimentos Procesados
+770000500958|19.0|Canasta Básica
+770000500959|10.0|Canasta Básica
+770000500960|10.0|Alimentos Procesados
+770000500961|5.0|Alimentos Procesados
+770000500962|0.0|Lácteos
+770000500963|10.0|Lácteos
+770000500964|5.0|Lácteos
+770000500965|10.0|Canasta Básica
+770000500966|10.0|Lácteos
+770000500967|10.0|Canasta Básica
+770000500968|0.0|Lácteos
+770000500969|19.0|Snacks
+770000600970|10.0|Lácteos
+770000600971|0.0|Canasta Básica
+770000600972|19.0|Snacks
+770000600973|10.0|Bebidas Azucaradas
+770000600974|5.0|Snacks
+770000600975|5.0|Snacks
+770000600976|19.0|Bebidas Azucaradas
+770000600977|19.0|Canasta Básica
+770000600978|10.0|Canasta Básica
+770000600979|10.0|Alimentos Procesados
+770000600980|19.0|Alimentos Procesados
+770000600981|10.0|Snacks
+770000600982|5.0|Snacks
+770000600983|19.0|Lácteos
+770000600984|19.0|Alimentos Procesados
+770000600985|19.0|Lácteos
+770000600986|5.0|Alimentos Procesados
+770000600987|0.0|Bebidas Azucaradas
+770000600988|5.0|Canasta Básica
+770000600989|10.0|Canasta Básica
+770000600990|5.0|Snacks
+770000600991|19.0|Snacks
+770000600992|0.0|Canasta Básica
+770000600993|19.0|Lácteos
+770000600994|5.0|Lácteos
+770000600995|5.0|Canasta Básica
+770000600996|5.0|Snacks
+770000600997|10.0|Bebidas Azucaradas
+770000600998|0.0|Lácteos
+770000600999|5.0|Canasta Básica
+770000601000|5.0|Alimentos Procesados
+770000601001|19.0|Snacks
+770000601002|10.0|Alimentos Procesados
+770000601003|10.0|Lácteos
+770000601004|0.0|Canasta Básica
+770000601005|19.0|Snacks
+770000601006|19.0|Bebidas Azucaradas
+770000601007|5.0|Lácteos
+770000601008|5.0|Snacks
+770000601009|0.0|Canasta Básica
+770000601010|0.0|Canasta Básica
+770000601011|10.0|Bebidas Azucaradas
+770000601012|19.0|Lácteos
+770000601013|19.0|Bebidas Azucaradas
+770000601014|5.0|Lácteos
+770000601015|0.0|Alimentos Procesados
+770000601016|10.0|Canasta Básica
+770000601017|19.0|Bebidas Azucaradas
+770000601018|0.0|Snacks
+770000601019|10.0|Alimentos Procesados
+770000601020|5.0|Alimentos Procesados
+770000601021|5.0|Bebidas Azucaradas
+770000601022|10.0|Canasta Básica
+770000601023|0.0|Bebidas Azucaradas
+770000601024|5.0|Alimentos Procesados
+770000601025|10.0|Lácteos
+770000601026|5.0|Lácteos
+770000601027|5.0|Canasta Básica
+770000601028|0.0|Alimentos Procesados
+770000601029|5.0|Bebidas Azucaradas
+770000601030|0.0|Lácteos
+770000601031|10.0|Alimentos Procesados
+770000601032|19.0|Canasta Básica
+770000601033|19.0|Alimentos Procesados
+770000601034|19.0|Bebidas Azucaradas
+770000601035|10.0|Lácteos
+770000601036|19.0|Canasta Básica
+770000601037|10.0|Lácteos
+770000601038|0.0|Lácteos
+770000601039|0.0|Bebidas Azucaradas
+770000601040|5.0|Canasta Básica
+770000601041|5.0|Lácteos
+770000601042|5.0|Canasta Básica
+770000601043|19.0|Canasta Básica
+770000601044|10.0|Alimentos Procesados
+770000601045|5.0|Bebidas Azucaradas
+770000601046|19.0|Alimentos Procesados
+770000601047|5.0|Bebidas Azucaradas
+770000601048|10.0|Canasta Básica
+770000601049|10.0|Canasta Básica
+770000601050|0.0|Alimentos Procesados
+770000601051|5.0|Alimentos Procesados
+770000601052|0.0|Snacks
+770000601053|5.0|Lácteos
+770000601054|19.0|Canasta Básica
+770000601055|0.0|Snacks
+770000601056|19.0|Lácteos
+770000601057|10.0|Canasta Básica
+770000601058|19.0|Canasta Básica
+770000601059|19.0|Lácteos
+770000601060|5.0|Alimentos Procesados
+770000601061|10.0|Alimentos Procesados
+770000601062|19.0|Canasta Básica
+770000601063|0.0|Bebidas Azucaradas
+770000601064|0.0|Bebidas Azucaradas
+770000601065|5.0|Lácteos
+770000601066|19.0|Alimentos Procesados
+770000601067|19.0|Canasta Básica
+770000601068|5.0|Lácteos
+770000601069|19.0|Snacks
+770000601070|19.0|Lácteos
+770000601071|10.0|Snacks
+770000601072|5.0|Lácteos
+770000601073|19.0|Lácteos
+770000601074|19.0|Canasta Básica
+770000601075|19.0|Snacks
+770000601076|10.0|Snacks
+770000601077|10.0|Alimentos Procesados
+770000601078|10.0|Canasta Básica
+770000601079|5.0|Snacks
+770000601080|0.0|Bebidas Azucaradas
+770000601081|5.0|Bebidas Azucaradas
+770000601082|10.0|Lácteos
+770000601083|5.0|Canasta Básica
+770000601084|19.0|Lácteos
+770000601085|0.0|Bebidas Azucaradas
+770000601086|0.0|Bebidas Azucaradas
+770000601087|0.0|Lácteos
+770000601088|0.0|Alimentos Procesados
+770000601089|5.0|Canasta Básica
+770000601090|10.0|Snacks
+770000601091|10.0|Snacks
+770000601092|10.0|Bebidas Azucaradas
+770000601093|10.0|Snacks
+770000601094|0.0|Canasta Básica
+770000601095|10.0|Lácteos
+770000601096|0.0|Lácteos
+770000601097|19.0|Snacks
+770000601098|19.0|Lácteos
+770000601099|19.0|Canasta Básica
+770000601100|0.0|Lácteos
+770000601101|19.0|Lácteos
+770000601102|5.0|Canasta Básica
+770000601103|5.0|Bebidas Azucaradas
+770000601104|0.0|Lácteos
+770000601105|5.0|Alimentos Procesados
+770000601106|19.0|Lácteos
+770000601107|0.0|Bebidas Azucaradas
+770000601108|5.0|Bebidas Azucaradas
+770000601109|10.0|Snacks
+770000601110|5.0|Canasta Básica
+770000601111|5.0|Snacks
+770000601112|19.0|Alimentos Procesados
+770000601113|10.0|Snacks
+770000601114|19.0|Lácteos
+770000601115|10.0|Bebidas Azucaradas
+770000601116|0.0|Canasta Básica
+770000601117|19.0|Bebidas Azucaradas
+770000601118|5.0|Snacks
+770000601119|0.0|Canasta Básica
+770000601120|10.0|Canasta Básica
+770000601121|5.0|Lácteos
+770000601122|0.0|Bebidas Azucaradas
+770000601123|0.0|Canasta Básica
+770000601124|10.0|Alimentos Procesados
+770000601125|19.0|Canasta Básica
+770000601126|5.0|Alimentos Procesados
+770000601127|0.0|Bebidas Azucaradas
+770000601128|19.0|Alimentos Procesados
+770000601129|0.0|Alimentos Procesados
+770000601130|0.0|Canasta Básica
+770000601131|0.0|Bebidas Azucaradas
+770000601132|5.0|Canasta Básica
+770000601133|10.0|Snacks
+770000601134|0.0|Lácteos
+770000601135|0.0|Lácteos
+770000601136|19.0|Canasta Básica
+770000601137|5.0|Canasta Básica
+770000601138|5.0|Alimentos Procesados
+770000601139|10.0|Alimentos Procesados
+770000601140|0.0|Snacks
+770000601141|5.0|Lácteos
+770000601142|0.0|Alimentos Procesados
+770000601143|0.0|Lácteos
+770000601144|10.0|Lácteos
+770000601145|10.0|Bebidas Azucaradas
+770000601146|5.0|Snacks
+770000601147|0.0|Snacks
+770000601148|10.0|Lácteos
+770000601149|5.0|Bebidas Azucaradas
+770000601150|10.0|Canasta Básica
+770000601151|19.0|Bebidas Azucaradas
+770000601152|10.0|Alimentos Procesados
+770000601153|5.0|Bebidas Azucaradas
+770000601154|19.0|Bebidas Azucaradas
+770000601155|19.0|Bebidas Azucaradas
+770000601156|0.0|Snacks
+770000601157|0.0|Alimentos Procesados
+770000601158|5.0|Canasta Básica
+770000601159|5.0|Canasta Básica
+770000601160|10.0|Snacks
+770000601161|10.0|Snacks
+770000601162|5.0|Lácteos
+770000601163|19.0|Bebidas Azucaradas
+770000701164|19.0|Bebidas Azucaradas
+770000701165|5.0|Canasta Básica
+770000701166|5.0|Snacks
+770000701167|19.0|Bebidas Azucaradas
+770000701168|19.0|Bebidas Azucaradas
+770000701169|5.0|Lácteos
+770000701170|19.0|Canasta Básica
+770000701171|10.0|Snacks
+770000701172|5.0|Snacks
+770000701173|10.0|Bebidas Azucaradas
+770000701174|0.0|Alimentos Procesados
+770000701175|5.0|Alimentos Procesados
+770000701176|19.0|Bebidas Azucaradas
+770000701177|0.0|Canasta Básica
+770000701178|19.0|Alimentos Procesados
+770000701179|10.0|Alimentos Procesados
+770000701180|10.0|Canasta Básica
+770000701181|0.0|Snacks
+770000701182|5.0|Snacks
+770000701183|10.0|Snacks
+770000701184|10.0|Alimentos Procesados
+770000701185|5.0|Lácteos
+770000701186|19.0|Bebidas Azucaradas
+770000701187|10.0|Snacks
+770000701188|5.0|Lácteos
+770000701189|0.0|Bebidas Azucaradas
+770000701190|0.0|Canasta Básica
+770000701191|19.0|Alimentos Procesados
+770000701192|19.0|Canasta Básica
+770000701193|19.0|Snacks
+770000701194|10.0|Alimentos Procesados
+770000701195|0.0|Canasta Básica
+770000701196|5.0|Bebidas Azucaradas
+770000701197|10.0|Bebidas Azucaradas
+770000701198|5.0|Bebidas Azucaradas
+770000701199|10.0|Snacks
+770000701200|19.0|Bebidas Azucaradas
+770000701201|19.0|Alimentos Procesados
+770000701202|5.0|Lácteos
+770000701203|19.0|Snacks
+770000701204|0.0|Lácteos
+770000701205|0.0|Canasta Básica
+770000701206|0.0|Alimentos Procesados
+770000701207|19.0|Bebidas Azucaradas
+770000701208|10.0|Canasta Básica
+770000701209|19.0|Bebidas Azucaradas
+770000701210|10.0|Lácteos
+770000701211|10.0|Snacks
+770000701212|0.0|Snacks
+770000701213|0.0|Canasta Básica
+770000701214|19.0|Lácteos
+770000701215|19.0|Canasta Básica
+770000701216|19.0|Canasta Básica
+770000701217|0.0|Bebidas Azucaradas
+770000701218|0.0|Snacks
+770000701219|5.0|Lácteos
+770000701220|19.0|Alimentos Procesados
+770000701221|10.0|Canasta Básica
+770000701222|19.0|Alimentos Procesados
+770000701223|19.0|Snacks
+770000701224|5.0|Lácteos
+770000701225|10.0|Lácteos
+770000701226|0.0|Alimentos Procesados
+770000701227|0.0|Bebidas Azucaradas
+770000701228|0.0|Snacks
+770000701229|10.0|Bebidas Azucaradas
+770000701230|10.0|Lácteos
+770000701231|10.0|Alimentos Procesados
+770000701232|10.0|Alimentos Procesados
+770000701233|0.0|Bebidas Azucaradas
+770000701234|5.0|Canasta Básica
+770000701235|10.0|Bebidas Azucaradas
+770000701236|19.0|Lácteos
+770000701237|0.0|Alimentos Procesados
+770000701238|0.0|Snacks
+770000701239|5.0|Lácteos
+770000701240|19.0|Bebidas Azucaradas
+770000701241|0.0|Lácteos
+770000701242|10.0|Snacks
+770000701243|0.0|Alimentos Procesados
+770000701244|5.0|Bebidas Azucaradas
+770000701245|5.0|Alimentos Procesados
+770000701246|19.0|Alimentos Procesados
+770000701247|10.0|Lácteos
+770000701248|5.0|Alimentos Procesados
+770000701249|10.0|Alimentos Procesados
+770000701250|0.0|Alimentos Procesados
+770000701251|19.0|Lácteos
+770000701252|0.0|Alimentos Procesados
+770000701253|5.0|Alimentos Procesados
+770000701254|19.0|Alimentos Procesados
+770000701255|19.0|Alimentos Procesados
+770000701256|19.0|Bebidas Azucaradas
+770000701257|5.0|Canasta Básica
+770000701258|0.0|Bebidas Azucaradas
+770000701259|0.0|Lácteos
+770000701260|0.0|Bebidas Azucaradas
+770000701261|10.0|Lácteos
+770000701262|10.0|Alimentos Procesados
+770000701263|5.0|Lácteos
+770000701264|19.0|Snacks
+770000701265|10.0|Bebidas Azucaradas
+770000701266|5.0|Lácteos
+770000701267|5.0|Bebidas Azucaradas
+770000701268|5.0|Alimentos Procesados
+770000701269|0.0|Canasta Básica
+770000701270|5.0|Canasta Básica
+770000701271|5.0|Canasta Básica
+770000701272|5.0|Canasta Básica
+770000701273|5.0|Alimentos Procesados
+770000701274|19.0|Snacks
+770000701275|0.0|Snacks
+770000701276|5.0|Lácteos
+770000701277|0.0|Snacks
+770000701278|10.0|Bebidas Azucaradas
+770000701279|5.0|Lácteos
+770000701280|0.0|Canasta Básica
+770000701281|10.0|Snacks
+770000701282|0.0|Snacks
+770000701283|19.0|Lácteos
+770000701284|0.0|Bebidas Azucaradas
+770000701285|10.0|Snacks
+770000701286|0.0|Alimentos Procesados
+770000701287|5.0|Snacks
+770000701288|0.0|Canasta Básica
+770000701289|5.0|Lácteos
+770000701290|10.0|Lácteos
+770000701291|10.0|Alimentos Procesados
+770000701292|19.0|Canasta Básica
+770000701293|10.0|Lácteos
+770000701294|19.0|Snacks
+770000701295|19.0|Canasta Básica
+770000701296|10.0|Snacks
+770000701297|10.0|Bebidas Azucaradas
+770000701298|19.0|Alimentos Procesados
+770000701299|19.0|Canasta Básica
+770000701300|5.0|Lácteos
+770000701301|5.0|Snacks
+770000701302|10.0|Lácteos
+770000701303|19.0|Lácteos
+770000701304|5.0|Snacks
+770000701305|10.0|Bebidas Azucaradas
+770000701306|10.0|Alimentos Procesados
+770000701307|19.0|Bebidas Azucaradas
+770000701308|5.0|Canasta Básica
+770000701309|5.0|Canasta Básica
+770000701310|5.0|Bebidas Azucaradas
+770000701311|0.0|Bebidas Azucaradas
+770000701312|10.0|Lácteos
+770000701313|10.0|Alimentos Procesados
+770000701314|5.0|Snacks
+770000701315|10.0|Bebidas Azucaradas
+770000701316|19.0|Canasta Básica
+770000701317|0.0|Canasta Básica
+770000701318|5.0|Bebidas Azucaradas
+770000701319|5.0|Snacks
+770000701320|5.0|Snacks
+770000701321|10.0|Bebidas Azucaradas
+770000701322|19.0|Lácteos
+770000701323|19.0|Lácteos
+770000701324|5.0|Snacks
+770000701325|19.0|Bebidas Azucaradas
+770000701326|19.0|Bebidas Azucaradas
+770000701327|0.0|Canasta Básica
+770000701328|0.0|Alimentos Procesados
+770000701329|19.0|Bebidas Azucaradas
+770000701330|10.0|Bebidas Azucaradas
+770000701331|19.0|Alimentos Procesados
+770000701332|5.0|Snacks
+770000701333|0.0|Bebidas Azucaradas
+770000701334|19.0|Canasta Básica
+770000701335|10.0|Lácteos
+770000701336|0.0|Snacks
+770000701337|0.0|Alimentos Procesados
+770000701338|10.0|Bebidas Azucaradas
+770000701339|5.0|Alimentos Procesados
+770000701340|5.0|Lácteos
+770000701341|0.0|Lácteos
+770000701342|19.0|Lácteos
+770000701343|5.0|Canasta Básica
+770000701344|10.0|Lácteos
+770000701345|5.0|Snacks
+770000701346|10.0|Snacks
+770000701347|0.0|Bebidas Azucaradas
+770000701348|5.0|Bebidas Azucaradas
+770000701349|19.0|Canasta Básica
+770000701350|5.0|Canasta Básica
+770000701351|5.0|Canasta Básica
+770000701352|10.0|Snacks
+770000701353|5.0|Lácteos
+770000701354|19.0|Alimentos Procesados
+770000701355|19.0|Bebidas Azucaradas
+770000701356|0.0|Alimentos Procesados
+770000701357|5.0|Canasta Básica
+770000801358|0.0|Alimentos Procesados
+770000801359|19.0|Snacks
+770000801360|10.0|Lácteos
+770000801361|19.0|Lácteos
+770000801362|10.0|Lácteos
+770000801363|0.0|Canasta Básica
+770000801364|5.0|Lácteos
+770000801365|5.0|Snacks
+770000801366|5.0|Alimentos Procesados
+770000801367|0.0|Bebidas Azucaradas
+770000801368|10.0|Alimentos Procesados
+770000801369|19.0|Alimentos Procesados
+770000801370|5.0|Lácteos
+770000801371|0.0|Canasta Básica
+770000801372|5.0|Bebidas Azucaradas
+770000801373|5.0|Alimentos Procesados
+770000801374|5.0|Snacks
+770000801375|5.0|Bebidas Azucaradas
+770000801376|10.0|Snacks
+770000801377|19.0|Snacks
+770000801378|10.0|Bebidas Azucaradas
+770000801379|10.0|Snacks
+770000801380|10.0|Lácteos
+770000801381|5.0|Canasta Básica
+770000801382|5.0|Lácteos
+770000801383|5.0|Canasta Básica
+770000801384|10.0|Alimentos Procesados
+770000801385|5.0|Lácteos
+770000801386|10.0|Bebidas Azucaradas
+770000801387|10.0|Canasta Básica
+770000801388|0.0|Snacks
+770000801389|0.0|Bebidas Azucaradas
+770000801390|19.0|Snacks
+770000801391|19.0|Snacks
+770000801392|5.0|Alimentos Procesados
+770000801393|19.0|Alimentos Procesados
+770000801394|19.0|Canasta Básica
+770000801395|0.0|Lácteos
+770000801396|10.0|Bebidas Azucaradas
+770000801397|5.0|Snacks
+770000801398|5.0|Snacks
+770000801399|19.0|Bebidas Azucaradas
+770000801400|19.0|Lácteos
+770000801401|10.0|Alimentos Procesados
+770000801402|19.0|Snacks
+770000801403|5.0|Lácteos
+770000801404|10.0|Bebidas Azucaradas
+770000801405|0.0|Snacks
+770000801406|10.0|Bebidas Azucaradas
+770000801407|10.0|Canasta Básica
+770000801408|0.0|Alimentos Procesados
+770000801409|0.0|Lácteos
+770000801410|10.0|Bebidas Azucaradas
+770000801411|0.0|Bebidas Azucaradas
+770000801412|10.0|Canasta Básica
+770000801413|5.0|Snacks
+770000801414|5.0|Bebidas Azucaradas
+770000801415|10.0|Alimentos Procesados
+770000801416|5.0|Bebidas Azucaradas
+770000801417|0.0|Canasta Básica
+770000801418|10.0|Snacks
+770000801419|0.0|Lácteos
+770000801420|0.0|Lácteos
+770000801421|19.0|Snacks
+770000801422|5.0|Canasta Básica
+770000801423|0.0|Bebidas Azucaradas
+770000801424|5.0|Bebidas Azucaradas
+770000801425|0.0|Snacks
+770000801426|19.0|Bebidas Azucaradas
+770000801427|0.0|Alimentos Procesados
+770000801428|5.0|Alimentos Procesados
+770000801429|0.0|Alimentos Procesados
+770000801430|10.0|Alimentos Procesados
+770000801431|19.0|Snacks
+770000801432|0.0|Canasta Básica
+770000801433|5.0|Canasta Básica
+770000801434|5.0|Lácteos
+770000801435|19.0|Lácteos
+770000801436|10.0|Bebidas Azucaradas
+770000801437|0.0|Lácteos
+770000801438|0.0|Alimentos Procesados
+770000801439|5.0|Lácteos
+770000801440|10.0|Snacks
+770000801441|19.0|Snacks
+770000801442|5.0|Bebidas Azucaradas
+770000801443|5.0|Bebidas Azucaradas
+770000801444|0.0|Bebidas Azucaradas
+770000801445|5.0|Alimentos Procesados
+770000801446|19.0|Lácteos
+770000801447|0.0|Bebidas Azucaradas
+770000801448|5.0|Alimentos Procesados
+770000801449|10.0|Alimentos Procesados
+770000801450|5.0|Bebidas Azucaradas
+770000801451|10.0|Bebidas Azucaradas
+770000801452|19.0|Snacks
+770000801453|19.0|Alimentos Procesados
+770000801454|5.0|Snacks
+770000801455|19.0|Snacks
+770000801456|0.0|Lácteos
+770000801457|19.0|Snacks
+770000801458|10.0|Canasta Básica
+770000801459|5.0|Lácteos
+770000801460|5.0|Lácteos
+770000801461|10.0|Alimentos Procesados
+770000801462|19.0|Snacks
+770000801463|10.0|Canasta Básica
+770000801464|10.0|Bebidas Azucaradas
+770000801465|0.0|Canasta Básica
+770000801466|0.0|Snacks
+770000801467|10.0|Bebidas Azucaradas
+770000801468|0.0|Canasta Básica
+770000801469|19.0|Bebidas Azucaradas
+770000801470|0.0|Snacks
+770000801471|5.0|Canasta Básica
+770000801472|5.0|Bebidas Azucaradas
+770000801473|0.0|Alimentos Procesados
+770000801474|5.0|Lácteos
+770000801475|10.0|Alimentos Procesados
+770000801476|10.0|Alimentos Procesados
+770000801477|10.0|Lácteos
+770000801478|10.0|Snacks
+770000801479|10.0|Snacks
+770000801480|0.0|Bebidas Azucaradas
+770000801481|10.0|Snacks
+770000801482|5.0|Lácteos
+770000801483|10.0|Canasta Básica
+770000801484|10.0|Lácteos
+770000801485|5.0|Bebidas Azucaradas
+770000801486|0.0|Canasta Básica
+770000801487|10.0|Bebidas Azucaradas
+770000801488|10.0|Lácteos
+770000801489|0.0|Snacks
+770000801490|0.0|Bebidas Azucaradas
+770000801491|19.0|Snacks
+770000801492|10.0|Lácteos
+770000801493|10.0|Lácteos
+770000801494|19.0|Bebidas Azucaradas
+770000801495|5.0|Bebidas Azucaradas
+770000801496|5.0|Lácteos
+770000801497|0.0|Lácteos
+770000801498|0.0|Bebidas Azucaradas
+770000801499|19.0|Alimentos Procesados
+770000801500|0.0|Alimentos Procesados
+770000801501|19.0|Alimentos Procesados
+770000801502|19.0|Lácteos
+770000801503|0.0|Canasta Básica
+770000801504|0.0|Snacks
+770000801505|0.0|Snacks
+770000801506|0.0|Bebidas Azucaradas
+770000801507|0.0|Lácteos
+770000801508|5.0|Snacks
+770000801509|5.0|Canasta Básica
+770000801510|19.0|Lácteos
+770000801511|0.0|Snacks
+770000801512|0.0|Canasta Básica
+770000801513|0.0|Alimentos Procesados
+770000801514|0.0|Canasta Básica
+770000801515|19.0|Snacks
+770000801516|5.0|Alimentos Procesados
+770000801517|19.0|Snacks
+770000801518|10.0|Canasta Básica
+770000801519|19.0|Bebidas Azucaradas
+770000801520|5.0|Lácteos
+770000801521|5.0|Lácteos
+770000801522|5.0|Alimentos Procesados
+770000801523|10.0|Canasta Básica
+770000801524|0.0|Canasta Básica
+770000801525|0.0|Canasta Básica
+770000801526|10.0|Alimentos Procesados
+770000801527|0.0|Alimentos Procesados
+770000801528|5.0|Lácteos
+770000801529|10.0|Lácteos
+770000801530|0.0|Bebidas Azucaradas
+770000801531|0.0|Snacks
+770000801532|0.0|Alimentos Procesados
+770000801533|10.0|Snacks
+770000801534|5.0|Lácteos
+770000801535|19.0|Bebidas Azucaradas
+770000801536|19.0|Snacks
+770000801537|5.0|Lácteos
+770000801538|0.0|Snacks
+770000801539|5.0|Lácteos
+770000801540|0.0|Bebidas Azucaradas
+770000801541|0.0|Canasta Básica
+770000801542|19.0|Bebidas Azucaradas
+770000801543|5.0|Bebidas Azucaradas
+770000801544|0.0|Bebidas Azucaradas
+770000801545|5.0|Lácteos
+770000801546|10.0|Bebidas Azucaradas
+770000801547|5.0|Bebidas Azucaradas
+770000801548|0.0|Snacks
+770000801549|19.0|Alimentos Procesados
+770000801550|19.0|Alimentos Procesados
+770000801551|5.0|Alimentos Procesados
+770000901552|10.0|Canasta Básica
+770000901553|5.0|Alimentos Procesados
+770000901554|19.0|Lácteos
+770000901555|5.0|Canasta Básica
+770000901556|10.0|Bebidas Azucaradas
+770000901557|0.0|Alimentos Procesados
+770000901558|10.0|Snacks
+770000901559|0.0|Alimentos Procesados
+770000901560|19.0|Snacks
+770000901561|10.0|Alimentos Procesados
+770000901562|0.0|Snacks
+770000901563|5.0|Alimentos Procesados
+770000901564|0.0|Snacks
+770000901565|5.0|Canasta Básica
+770000901566|19.0|Snacks
+770000901567|0.0|Snacks
+770000901568|5.0|Lácteos
+770000901569|0.0|Snacks
+770000901570|19.0|Lácteos
+770000901571|10.0|Lácteos
+770000901572|10.0|Lácteos
+770000901573|5.0|Bebidas Azucaradas
+770000901574|10.0|Canasta Básica
+770000901575|10.0|Lácteos
+770000901576|19.0|Bebidas Azucaradas
+770000901577|5.0|Snacks
+770000901578|0.0|Bebidas Azucaradas
+770000901579|19.0|Alimentos Procesados
+770000901580|19.0|Snacks
+770000901581|0.0|Lácteos
+770000901582|10.0|Alimentos Procesados
+770000901583|0.0|Snacks
+770000901584|0.0|Alimentos Procesados
+770000901585|19.0|Canasta Básica
+770000901586|5.0|Snacks
+770000901587|10.0|Snacks
+770000901588|5.0|Bebidas Azucaradas
+770000901589|10.0|Canasta Básica
+770000901590|19.0|Alimentos Procesados
+770000901591|0.0|Canasta Básica
+770000901592|10.0|Canasta Básica
+770000901593|19.0|Lácteos
+770000901594|10.0|Bebidas Azucaradas
+770000901595|19.0|Alimentos Procesados
+770000901596|10.0|Bebidas Azucaradas
+770000901597|19.0|Bebidas Azucaradas
+770000901598|19.0|Lácteos
+770000901599|10.0|Canasta Básica
+770000901600|5.0|Bebidas Azucaradas
+770000901601|19.0|Lácteos
+770000901602|19.0|Canasta Básica
+770000901603|0.0|Canasta Básica
+770000901604|5.0|Alimentos Procesados
+770000901605|19.0|Bebidas Azucaradas
+770000901606|19.0|Bebidas Azucaradas
+770000901607|10.0|Alimentos Procesados
+770000901608|10.0|Snacks
+770000901609|0.0|Bebidas Azucaradas
+770000901610|0.0|Lácteos
+770000901611|19.0|Canasta Básica
+770000901612|10.0|Lácteos
+770000901613|0.0|Canasta Básica
+770000901614|19.0|Bebidas Azucaradas
+770000901615|19.0|Canasta Básica
+770000901616|19.0|Canasta Básica
+770000901617|0.0|Snacks
+770000901618|10.0|Canasta Básica
+770000901619|19.0|Alimentos Procesados
+770000901620|19.0|Alimentos Procesados
+770000901621|19.0|Bebidas Azucaradas
+770000901622|0.0|Lácteos
+770000901623|10.0|Bebidas Azucaradas
+770000901624|19.0|Lácteos
+770000901625|19.0|Canasta Básica
+770000901626|0.0|Canasta Básica
+770000901627|5.0|Snacks
+770000901628|0.0|Alimentos Procesados
+770000901629|0.0|Canasta Básica
+770000901630|5.0|Bebidas Azucaradas
+770000901631|0.0|Lácteos
+770000901632|0.0|Lácteos
+770000901633|10.0|Bebidas Azucaradas
+770000901634|19.0|Lácteos
+770000901635|19.0|Alimentos Procesados
+770000901636|10.0|Snacks
+770000901637|5.0|Snacks
+770000901638|10.0|Lácteos
+770000901639|0.0|Bebidas Azucaradas
+770000901640|19.0|Bebidas Azucaradas
+770000901641|19.0|Canasta Básica
+770000901642|0.0|Lácteos
+770000901643|5.0|Alimentos Procesados
+770000901644|10.0|Lácteos
+770000901645|19.0|Bebidas Azucaradas
+770000901646|19.0|Bebidas Azucaradas
+770000901647|0.0|Alimentos Procesados
+770000901648|19.0|Alimentos Procesados
+770000901649|10.0|Alimentos Procesados
+770000901650|19.0|Snacks
+770000901651|0.0|Alimentos Procesados
+770000901652|19.0|Alimentos Procesados
+770000901653|0.0|Alimentos Procesados
+770000901654|0.0|Bebidas Azucaradas
+770000901655|5.0|Alimentos Procesados
+770000901656|19.0|Canasta Básica
+770000901657|19.0|Canasta Básica
+770000901658|5.0|Canasta Básica
+770000901659|5.0|Canasta Básica
+770000901660|5.0|Bebidas Azucaradas
+770000901661|0.0|Snacks
+770000901662|10.0|Snacks
+770000901663|19.0|Bebidas Azucaradas
+770000901664|0.0|Bebidas Azucaradas
+770000901665|0.0|Snacks
+770000901666|10.0|Canasta Básica
+770000901667|19.0|Lácteos
+770000901668|10.0|Alimentos Procesados
+770000901669|0.0|Lácteos
+770000901670|19.0|Snacks
+770000901671|10.0|Lácteos
+770000901672|0.0|Lácteos
+770000901673|19.0|Canasta Básica
+770000901674|19.0|Snacks
+770000901675|19.0|Snacks
+770000901676|19.0|Canasta Básica
+770000901677|0.0|Bebidas Azucaradas
+770000901678|5.0|Canasta Básica
+770000901679|5.0|Snacks
+770000901680|10.0|Bebidas Azucaradas
+770000901681|0.0|Bebidas Azucaradas
+770000901682|19.0|Canasta Básica
+770000901683|5.0|Alimentos Procesados
+770000901684|0.0|Lácteos
+770000901685|5.0|Bebidas Azucaradas
+770000901686|19.0|Snacks
+770000901687|0.0|Snacks
+770000901688|0.0|Lácteos
+770000901689|10.0|Alimentos Procesados
+770000901690|10.0|Snacks
+770000901691|10.0|Canasta Básica
+770000901692|10.0|Bebidas Azucaradas
+770000901693|19.0|Snacks
+770000901694|10.0|Lácteos
+770000901695|0.0|Canasta Básica
+770000901696|5.0|Snacks
+770000901697|0.0|Alimentos Procesados
+770000901698|19.0|Alimentos Procesados
+770000901699|0.0|Bebidas Azucaradas
+770000901700|0.0|Bebidas Azucaradas
+770000901701|19.0|Snacks
+770000901702|0.0|Alimentos Procesados
+770000901703|0.0|Alimentos Procesados
+770000901704|10.0|Canasta Básica
+770000901705|10.0|Bebidas Azucaradas
+770000901706|0.0|Lácteos
+770000901707|10.0|Canasta Básica
+770000901708|19.0|Snacks
+770000901709|10.0|Lácteos
+770000901710|0.0|Lácteos
+770000901711|19.0|Snacks
+770000901712|0.0|Lácteos
+770000901713|10.0|Alimentos Procesados
+770000901714|0.0|Alimentos Procesados
+770000901715|19.0|Bebidas Azucaradas
+770000901716|10.0|Lácteos
+770000901717|5.0|Bebidas Azucaradas
+770000901718|10.0|Snacks
+770000901719|5.0|Bebidas Azucaradas
+770000901720|5.0|Lácteos
+770000901721|19.0|Lácteos
+770000901722|10.0|Lácteos
+770000901723|19.0|Bebidas Azucaradas
+770000901724|5.0|Bebidas Azucaradas
+770000901725|5.0|Snacks
+770000901726|0.0|Bebidas Azucaradas
+770000901727|5.0|Snacks
+770000901728|5.0|Bebidas Azucaradas
+770000901729|5.0|Snacks
+770000901730|19.0|Bebidas Azucaradas
+770000901731|19.0|Bebidas Azucaradas
+770000901732|0.0|Canasta Básica
+770000901733|10.0|Snacks
+770000901734|10.0|Bebidas Azucaradas
+770000901735|19.0|Snacks
+770000901736|0.0|Bebidas Azucaradas
+770000901737|0.0|Bebidas Azucaradas
+770000901738|10.0|Bebidas Azucaradas
+770000901739|0.0|Snacks
+770000901740|10.0|Bebidas Azucaradas
+770000901741|10.0|Bebidas Azucaradas
+770000901742|19.0|Canasta Básica
+770000901743|5.0|Canasta Básica
+770000901744|0.0|Canasta Básica
+770000901745|10.0|Bebidas Azucaradas
+770001001746|10.0|Bebidas Azucaradas
+770001001747|5.0|Lácteos
+770001001748|19.0|Snacks
+770001001749|0.0|Alimentos Procesados
+770001001750|19.0|Lácteos
+770001001751|5.0|Alimentos Procesados
+770001001752|19.0|Lácteos
+770001001753|5.0|Alimentos Procesados
+770001001754|10.0|Snacks
+770001001755|0.0|Canasta Básica
+770001001756|19.0|Alimentos Procesados
+770001001757|19.0|Canasta Básica
+770001001758|10.0|Canasta Básica
+770001001759|0.0|Canasta Básica
+770001001760|0.0|Alimentos Procesados
+770001001761|19.0|Lácteos
+770001001762|19.0|Snacks
+770001001763|0.0|Lácteos
+770001001764|0.0|Bebidas Azucaradas
+770001001765|19.0|Lácteos
+770001001766|5.0|Lácteos
+770001001767|19.0|Lácteos
+770001001768|0.0|Snacks
+770001001769|0.0|Alimentos Procesados
+770001001770|5.0|Canasta Básica
+770001001771|5.0|Lácteos
+770001001772|19.0|Lácteos
+770001001773|0.0|Alimentos Procesados
+770001001774|0.0|Bebidas Azucaradas
+770001001775|19.0|Lácteos
+770001001776|10.0|Alimentos Procesados
+770001001777|19.0|Lácteos
+770001001778|0.0|Canasta Básica
+770001001779|19.0|Lácteos
+770001001780|10.0|Lácteos
+770001001781|0.0|Bebidas Azucaradas
+770001001782|5.0|Canasta Básica
+770001001783|10.0|Bebidas Azucaradas
+770001001784|5.0|Bebidas Azucaradas
+770001001785|10.0|Canasta Básica
+770001001786|0.0|Alimentos Procesados
+770001001787|5.0|Alimentos Procesados
+770001001788|5.0|Canasta Básica
+770001001789|5.0|Bebidas Azucaradas
+770001001790|10.0|Alimentos Procesados
+770001001791|19.0|Canasta Básica
+770001001792|0.0|Bebidas Azucaradas
+770001001793|10.0|Bebidas Azucaradas
+770001001794|5.0|Bebidas Azucaradas
+770001001795|5.0|Lácteos
+770001001796|19.0|Bebidas Azucaradas
+770001001797|19.0|Bebidas Azucaradas
+770001001798|10.0|Snacks
+770001001799|10.0|Canasta Básica
+770001001800|5.0|Alimentos Procesados
+770001001801|10.0|Lácteos
+770001001802|0.0|Snacks
+770001001803|5.0|Bebidas Azucaradas
+770001001804|0.0|Lácteos
+770001001805|10.0|Lácteos
+770001001806|19.0|Canasta Básica
+770001001807|19.0|Snacks
+770001001808|5.0|Canasta Básica
+770001001809|10.0|Canasta Básica
+770001001810|5.0|Canasta Básica
+770001001811|10.0|Alimentos Procesados
+770001001812|5.0|Lácteos
+770001001813|19.0|Canasta Básica
+770001001814|10.0|Snacks
+770001001815|19.0|Snacks
+770001001816|10.0|Alimentos Procesados
+770001001817|5.0|Bebidas Azucaradas
+770001001818|19.0|Alimentos Procesados
+770001001819|10.0|Canasta Básica
+770001001820|19.0|Lácteos
+770001001821|10.0|Alimentos Procesados
+770001001822|10.0|Bebidas Azucaradas
+770001001823|5.0|Alimentos Procesados
+770001001824|5.0|Lácteos
+770001001825|10.0|Snacks
+770001001826|10.0|Canasta Básica
+770001001827|0.0|Lácteos
+770001001828|10.0|Bebidas Azucaradas
+770001001829|0.0|Canasta Básica
+770001001830|10.0|Bebidas Azucaradas
+770001001831|5.0|Snacks
+770001001832|5.0|Canasta Básica
+770001001833|0.0|Lácteos
+770001001834|5.0|Canasta Básica
+770001001835|0.0|Lácteos
+770001001836|10.0|Alimentos Procesados
+770001001837|0.0|Snacks
+770001001838|10.0|Alimentos Procesados
+770001001839|19.0|Canasta Básica
+770001001840|0.0|Lácteos
+770001001841|19.0|Canasta Básica
+770001001842|0.0|Alimentos Procesados
+770001001843|10.0|Alimentos Procesados
+770001001844|19.0|Bebidas Azucaradas
+770001001845|5.0|Lácteos
+770001001846|0.0|Alimentos Procesados
+770001001847|0.0|Canasta Básica
+770001001848|0.0|Lácteos
+770001001849|0.0|Alimentos Procesados
+770001001850|19.0|Alimentos Procesados
+770001001851|19.0|Snacks
+770001001852|0.0|Bebidas Azucaradas
+770001001853|10.0|Alimentos Procesados
+770001001854|0.0|Alimentos Procesados
+770001001855|0.0|Bebidas Azucaradas
+770001001856|10.0|Bebidas Azucaradas
+770001001857|19.0|Lácteos
+770001001858|0.0|Bebidas Azucaradas
+770001001859|19.0|Alimentos Procesados
+770001001860|0.0|Bebidas Azucaradas
+770001001861|19.0|Lácteos
+770001001862|5.0|Canasta Básica
+770001001863|5.0|Alimentos Procesados
+770001001864|10.0|Canasta Básica
+770001001865|0.0|Snacks
+770001001866|0.0|Bebidas Azucaradas
+770001001867|0.0|Snacks
+770001001868|5.0|Snacks
+770001001869|19.0|Bebidas Azucaradas
+770001001870|5.0|Alimentos Procesados
+770001001871|5.0|Alimentos Procesados
+770001001872|10.0|Snacks
+770001001873|0.0|Alimentos Procesados
+770001001874|19.0|Alimentos Procesados
+770001001875|5.0|Canasta Básica
+770001001876|19.0|Snacks
+770001001877|10.0|Lácteos
+770001001878|10.0|Snacks
+770001001879|19.0|Lácteos
+770001001880|19.0|Snacks
+770001001881|19.0|Lácteos
+770001001882|5.0|Canasta Básica
+770001001883|5.0|Bebidas Azucaradas
+770001001884|10.0|Canasta Básica
+770001001885|0.0|Alimentos Procesados
+770001001886|5.0|Snacks
+770001001887|10.0|Bebidas Azucaradas
+770001001888|0.0|Canasta Básica
+770001001889|19.0|Snacks
+770001001890|19.0|Lácteos
+770001001891|19.0|Bebidas Azucaradas
+770001001892|10.0|Canasta Básica
+770001001893|19.0|Bebidas Azucaradas
+770001001894|19.0|Alimentos Procesados
+770001001895|5.0|Snacks
+770001001896|0.0|Alimentos Procesados
+770001001897|0.0|Alimentos Procesados
+770001001898|19.0|Bebidas Azucaradas
+770001001899|19.0|Lácteos
+770001001900|5.0|Bebidas Azucaradas
+770001001901|5.0|Bebidas Azucaradas
+770001001902|10.0|Snacks
+770001001903|19.0|Canasta Básica
+770001001904|19.0|Snacks
+770001001905|5.0|Lácteos
+770001001906|19.0|Canasta Básica
+770001001907|5.0|Snacks
+770001001908|5.0|Canasta Básica
+770001001909|10.0|Canasta Básica
+770001001910|10.0|Alimentos Procesados
+770001001911|0.0|Canasta Básica
+770001001912|5.0|Snacks
+770001001913|5.0|Alimentos Procesados
+770001001914|19.0|Snacks
+770001001915|10.0|Lácteos
+770001001916|5.0|Canasta Básica
+770001001917|10.0|Alimentos Procesados
+770001001918|10.0|Snacks
+770001001919|0.0|Bebidas Azucaradas
+770001001920|5.0|Lácteos
+770001001921|0.0|Lácteos
+770001001922|5.0|Bebidas Azucaradas
+770001001923|10.0|Lácteos
+770001001924|0.0|Lácteos
+770001001925|0.0|Snacks
+770001001926|5.0|Snacks
+770001001927|5.0|Bebidas Azucaradas
+770001001928|0.0|Bebidas Azucaradas
+770001001929|19.0|Lácteos
+770001001930|10.0|Lácteos
+770001001931|5.0|Lácteos
+770001001932|5.0|Bebidas Azucaradas
+770001001933|0.0|Bebidas Azucaradas
+770001001934|5.0|Canasta Básica
+770001001935|5.0|Alimentos Procesados
+770001001936|19.0|Snacks
+770001001937|5.0|Bebidas Azucaradas
+770001001938|0.0|Alimentos Procesados
+770001001939|19.0|Canasta Básica
+770001101940|5.0|Canasta Básica
+770001101941|0.0|Alimentos Procesados
+770001101942|5.0|Canasta Básica
+770001101943|19.0|Canasta Básica
+770001101944|5.0|Canasta Básica
+770001101945|5.0|Canasta Básica
+770001101946|0.0|Alimentos Procesados
+770001101947|10.0|Lácteos
+770001101948|19.0|Lácteos
+770001101949|5.0|Snacks
+770001101950|5.0|Canasta Básica
+770001101951|0.0|Snacks
+770001101952|10.0|Canasta Básica
+770001101953|10.0|Lácteos
+770001101954|0.0|Bebidas Azucaradas
+770001101955|0.0|Lácteos
+770001101956|19.0|Lácteos
+770001101957|10.0|Lácteos
+770001101958|19.0|Bebidas Azucaradas
+770001101959|19.0|Snacks
+770001101960|0.0|Alimentos Procesados
+770001101961|5.0|Canasta Básica
+770001101962|10.0|Bebidas Azucaradas
+770001101963|10.0|Canasta Básica
+770001101964|19.0|Bebidas Azucaradas
+770001101965|10.0|Alimentos Procesados
+770001101966|0.0|Canasta Básica
+770001101967|0.0|Canasta Básica
+770001101968|5.0|Snacks
+770001101969|19.0|Lácteos
+770001101970|10.0|Alimentos Procesados
+770001101971|19.0|Lácteos
+770001101972|19.0|Lácteos
+770001101973|5.0|Alimentos Procesados
+770001101974|19.0|Canasta Básica
+770001101975|5.0|Lácteos
+770001101976|5.0|Snacks
+770001101977|5.0|Alimentos Procesados
+770001101978|5.0|Lácteos
+770001101979|0.0|Alimentos Procesados
+770001101980|5.0|Bebidas Azucaradas
+770001101981|0.0|Canasta Básica
+770001101982|5.0|Alimentos Procesados
+770001101983|0.0|Bebidas Azucaradas
+770001101984|19.0|Alimentos Procesados
+770001101985|19.0|Lácteos
+770001101986|5.0|Lácteos
+770001101987|0.0|Snacks
+770001101988|10.0|Lácteos
+770001101989|0.0|Bebidas Azucaradas
+770001101990|5.0|Alimentos Procesados
+770001101991|19.0|Bebidas Azucaradas
+770001101992|19.0|Bebidas Azucaradas
+770001101993|0.0|Snacks
+770001101994|10.0|Lácteos
+770001101995|5.0|Bebidas Azucaradas
+770001101996|0.0|Snacks
+770001101997|19.0|Lácteos
+770001101998|10.0|Bebidas Azucaradas
+770001101999|0.0|Lácteos
+770001102000|19.0|Snacks
+770001102001|10.0|Snacks
+770001102002|10.0|Lácteos
+770001102003|19.0|Canasta Básica
+770001102004|19.0|Alimentos Procesados
+770001102005|19.0|Alimentos Procesados
+770001102006|0.0|Alimentos Procesados
+770001102007|5.0|Canasta Básica
+770001102008|0.0|Canasta Básica
+770001102009|19.0|Snacks
+770001102010|5.0|Canasta Básica
+770001102011|5.0|Snacks
+770001102012|10.0|Lácteos
+770001102013|0.0|Snacks
+770001102014|10.0|Alimentos Procesados
+770001102015|5.0|Bebidas Azucaradas
+770001102016|19.0|Lácteos
+770001102017|19.0|Snacks
+770001102018|0.0|Lácteos
+770001102019|0.0|Lácteos
+770001102020|19.0|Alimentos Procesados
+770001102021|5.0|Snacks
+770001102022|19.0|Alimentos Procesados
+770001102023|10.0|Bebidas Azucaradas
+770001102024|10.0|Alimentos Procesados
+770001102025|19.0|Lácteos
+770001102026|19.0|Canasta Básica
+770001102027|0.0|Snacks
+770001102028|0.0|Canasta Básica
+770001102029|19.0|Alimentos Procesados
+770001102030|10.0|Snacks
+770001102031|5.0|Bebidas Azucaradas
+770001102032|5.0|Canasta Básica
+770001102033|0.0|Bebidas Azucaradas
+770001102034|19.0|Lácteos
+770001102035|10.0|Snacks
+770001102036|19.0|Snacks
+770001102037|5.0|Bebidas Azucaradas
+770001102038|5.0|Bebidas Azucaradas
+770001102039|5.0|Alimentos Procesados
+770001102040|5.0|Snacks
+770001102041|0.0|Lácteos
+770001102042|0.0|Bebidas Azucaradas
+770001102043|5.0|Snacks
+770001102044|10.0|Lácteos
+770001102045|19.0|Bebidas Azucaradas
+770001102046|0.0|Bebidas Azucaradas
+770001102047|10.0|Alimentos Procesados
+770001102048|5.0|Canasta Básica
+770001102049|5.0|Alimentos Procesados
+770001102050|10.0|Bebidas Azucaradas
+770001102051|10.0|Lácteos
+770001102052|10.0|Snacks
+770001102053|0.0|Alimentos Procesados
+770001102054|19.0|Bebidas Azucaradas
+770001102055|10.0|Snacks
+770001102056|19.0|Bebidas Azucaradas
+770001102057|19.0|Bebidas Azucaradas
+770001102058|10.0|Canasta Básica
+770001102059|5.0|Snacks
+770001102060|0.0|Alimentos Procesados
+770001102061|5.0|Lácteos
+770001102062|10.0|Alimentos Procesados
+770001102063|10.0|Alimentos Procesados
+770001102064|19.0|Canasta Básica
+770001102065|5.0|Alimentos Procesados
+770001102066|19.0|Canasta Básica
+770001102067|19.0|Canasta Básica
+770001102068|0.0|Lácteos
+770001102069|5.0|Alimentos Procesados
+770001102070|10.0|Alimentos Procesados
+770001102071|19.0|Bebidas Azucaradas
+770001102072|19.0|Snacks
+770001102073|0.0|Alimentos Procesados
+770001102074|5.0|Snacks
+770001102075|10.0|Bebidas Azucaradas
+770001102076|0.0|Snacks
+770001102077|5.0|Snacks
+770001102078|5.0|Alimentos Procesados
+770001102079|10.0|Canasta Básica
+770001102080|19.0|Bebidas Azucaradas
+770001102081|0.0|Snacks
+770001102082|5.0|Canasta Básica
+770001102083|0.0|Lácteos
+770001102084|10.0|Snacks
+770001102085|5.0|Canasta Básica
+770001102086|5.0|Canasta Básica
+770001102087|5.0|Bebidas Azucaradas
+770001102088|19.0|Alimentos Procesados
+770001102089|19.0|Bebidas Azucaradas
+770001102090|0.0|Lácteos
+770001102091|0.0|Snacks
+770001102092|10.0|Bebidas Azucaradas
+770001102093|5.0|Bebidas Azucaradas
+770001102094|10.0|Bebidas Azucaradas
+770001102095|0.0|Snacks
+770001102096|5.0|Bebidas Azucaradas
+770001102097|0.0|Canasta Básica
+770001102098|10.0|Bebidas Azucaradas
+770001102099|0.0|Canasta Básica
+770001102100|10.0|Bebidas Azucaradas
+770001102101|10.0|Alimentos Procesados
+770001102102|10.0|Alimentos Procesados
+770001102103|10.0|Snacks
+770001102104|10.0|Snacks
+770001102105|0.0|Alimentos Procesados
+770001102106|10.0|Alimentos Procesados
+770001102107|10.0|Lácteos
+770001102108|19.0|Bebidas Azucaradas
+770001102109|19.0|Alimentos Procesados
+770001102110|10.0|Snacks
+770001102111|0.0|Canasta Básica
+770001102112|19.0|Alimentos Procesados
+770001102113|0.0|Canasta Básica
+770001102114|10.0|Lácteos
+770001102115|19.0|Alimentos Procesados
+770001102116|19.0|Lácteos
+770001102117|19.0|Lácteos
+770001102118|5.0|Lácteos
+770001102119|0.0|Bebidas Azucaradas
+770001102120|10.0|Canasta Básica
+770001102121|19.0|Lácteos
+770001102122|5.0|Snacks
+770001102123|19.0|Bebidas Azucaradas
+770001102124|5.0|Lácteos
+770001102125|5.0|Snacks
+770001102126|19.0|Lácteos
+770001102127|0.0|Lácteos
+770001102128|10.0|Snacks
+770001102129|5.0|Lácteos
+770001102130|0.0|Lácteos
+770001102131|5.0|Alimentos Procesados
+770001102132|5.0|Snacks
+770001102133|10.0|Bebidas Azucaradas
+770001202134|5.0|Alimentos Procesados
+770001202135|0.0|Snacks
+770001202136|0.0|Bebidas Azucaradas
+770001202137|0.0|Bebidas Azucaradas
+770001202138|0.0|Alimentos Procesados
+770001202139|19.0|Canasta Básica
+770001202140|5.0|Snacks
+770001202141|10.0|Canasta Básica
+770001202142|10.0|Bebidas Azucaradas
+770001202143|5.0|Snacks
+770001202144|0.0|Lácteos
+770001202145|5.0|Snacks
+770001202146|5.0|Lácteos
+770001202147|19.0|Alimentos Procesados
+770001202148|19.0|Canasta Básica
+770001202149|19.0|Lácteos
+770001202150|10.0|Snacks
+770001202151|0.0|Bebidas Azucaradas
+770001202152|5.0|Canasta Básica
+770001202153|19.0|Lácteos
+770001202154|0.0|Snacks
+770001202155|0.0|Alimentos Procesados
+770001202156|19.0|Bebidas Azucaradas
+770001202157|10.0|Bebidas Azucaradas
+770001202158|5.0|Snacks
+770001202159|5.0|Alimentos Procesados
+770001202160|0.0|Lácteos
+770001202161|0.0|Alimentos Procesados
+770001202162|10.0|Snacks
+770001202163|19.0|Snacks
+770001202164|10.0|Snacks
+770001202165|5.0|Snacks
+770001202166|5.0|Alimentos Procesados
+770001202167|0.0|Lácteos
+770001202168|10.0|Alimentos Procesados
+770001202169|10.0|Canasta Básica
+770001202170|5.0|Alimentos Procesados
+770001202171|19.0|Canasta Básica
+770001202172|10.0|Bebidas Azucaradas
+770001202173|0.0|Canasta Básica
+770001202174|19.0|Alimentos Procesados
+770001202175|0.0|Alimentos Procesados
+770001202176|19.0|Alimentos Procesados
+770001202177|10.0|Lácteos
+770001202178|5.0|Bebidas Azucaradas
+770001202179|0.0|Snacks
+770001202180|0.0|Bebidas Azucaradas
+770001202181|10.0|Alimentos Procesados
+770001202182|19.0|Lácteos
+770001202183|0.0|Bebidas Azucaradas
+770001202184|19.0|Canasta Básica
+770001202185|19.0|Snacks
+770001202186|0.0|Alimentos Procesados
+770001202187|5.0|Snacks
+770001202188|19.0|Alimentos Procesados
+770001202189|0.0|Lácteos
+770001202190|19.0|Lácteos
+770001202191|19.0|Canasta Básica
+770001202192|0.0|Lácteos
+770001202193|19.0|Alimentos Procesados
+770001202194|0.0|Snacks
+770001202195|19.0|Lácteos
+770001202196|5.0|Bebidas Azucaradas
+770001202197|19.0|Lácteos
+770001202198|0.0|Snacks
+770001202199|19.0|Lácteos
+770001202200|5.0|Alimentos Procesados
+770001202201|5.0|Snacks
+770001202202|10.0|Lácteos
+770001202203|10.0|Alimentos Procesados
+770001202204|5.0|Alimentos Procesados
+770001202205|0.0|Lácteos
+770001202206|5.0|Canasta Básica
+770001202207|10.0|Bebidas Azucaradas
+770001202208|10.0|Canasta Básica
+770001202209|5.0|Alimentos Procesados
+770001202210|10.0|Bebidas Azucaradas
+770001202211|0.0|Snacks
+770001202212|0.0|Canasta Básica
+770001202213|19.0|Alimentos Procesados
+770001202214|5.0|Snacks
+770001202215|10.0|Alimentos Procesados
+770001202216|19.0|Bebidas Azucaradas
+770001202217|10.0|Snacks
+770001202218|5.0|Alimentos Procesados
+770001202219|19.0|Snacks
+770001202220|19.0|Lácteos
+770001202221|19.0|Snacks
+770001202222|5.0|Alimentos Procesados
+770001202223|0.0|Alimentos Procesados
+770001202224|19.0|Lácteos
+770001202225|5.0|Alimentos Procesados
+770001202226|5.0|Canasta Básica
+770001202227|19.0|Bebidas Azucaradas
+770001202228|0.0|Canasta Básica
+770001202229|0.0|Lácteos
+770001202230|5.0|Snacks
+770001202231|10.0|Alimentos Procesados
+770001202232|10.0|Canasta Básica
+770001202233|0.0|Lácteos
+770001202234|0.0|Canasta Básica
+770001202235|19.0|Alimentos Procesados
+770001202236|0.0|Canasta Básica
+770001202237|5.0|Bebidas Azucaradas
+770001202238|10.0|Canasta Básica
+770001202239|5.0|Canasta Básica
+770001202240|19.0|Lácteos
+770001202241|0.0|Alimentos Procesados
+770001202242|19.0|Alimentos Procesados
+770001202243|10.0|Canasta Básica
+770001202244|0.0|Canasta Básica
+770001202245|10.0|Snacks
+770001202246|10.0|Canasta Básica
+770001202247|10.0|Bebidas Azucaradas
+770001202248|0.0|Bebidas Azucaradas
+770001202249|0.0|Canasta Básica
+770001202250|10.0|Bebidas Azucaradas
+770001202251|0.0|Canasta Básica
+770001202252|10.0|Alimentos Procesados
+770001202253|19.0|Snacks
+770001202254|19.0|Canasta Básica
+770001202255|5.0|Canasta Básica
+770001202256|0.0|Bebidas Azucaradas
+770001202257|10.0|Alimentos Procesados
+770001202258|19.0|Bebidas Azucaradas
+770001202259|5.0|Bebidas Azucaradas
+770001202260|0.0|Snacks
+770001202261|0.0|Lácteos
+770001202262|10.0|Lácteos
+770001202263|10.0|Lácteos
+770001202264|0.0|Bebidas Azucaradas
+770001202265|0.0|Alimentos Procesados
+770001202266|5.0|Canasta Básica
+770001202267|5.0|Lácteos
+770001202268|0.0|Alimentos Procesados
+770001202269|5.0|Bebidas Azucaradas
+770001202270|5.0|Snacks
+770001202271|10.0|Lácteos
+770001202272|19.0|Snacks
+770001202273|19.0|Snacks
+770001202274|19.0|Bebidas Azucaradas
+770001202275|0.0|Bebidas Azucaradas
+770001202276|5.0|Snacks
+770001202277|0.0|Bebidas Azucaradas
+770001202278|0.0|Snacks
+770001202279|19.0|Alimentos Procesados
+770001202280|19.0|Bebidas Azucaradas
+770001202281|0.0|Snacks
+770001202282|10.0|Bebidas Azucaradas
+770001202283|19.0|Alimentos Procesados
+770001202284|10.0|Bebidas Azucaradas
+770001202285|0.0|Snacks
+770001202286|0.0|Canasta Básica
+770001202287|10.0|Alimentos Procesados
+770001202288|0.0|Canasta Básica
+770001202289|19.0|Bebidas Azucaradas
+770001202290|0.0|Bebidas Azucaradas
+770001202291|19.0|Canasta Básica
+770001202292|19.0|Bebidas Azucaradas
+770001202293|5.0|Bebidas Azucaradas
+770001202294|5.0|Alimentos Procesados
+770001202295|10.0|Canasta Básica
+770001202296|19.0|Bebidas Azucaradas
+770001202297|5.0|Bebidas Azucaradas
+770001202298|10.0|Lácteos
+770001202299|19.0|Canasta Básica
+770001202300|0.0|Lácteos
+770001202301|0.0|Canasta Básica
+770001202302|0.0|Bebidas Azucaradas
+770001202303|19.0|Bebidas Azucaradas
+770001202304|0.0|Bebidas Azucaradas
+770001202305|10.0|Lácteos
+770001202306|19.0|Alimentos Procesados
+770001202307|5.0|Snacks
+770001202308|0.0|Canasta Básica
+770001202309|10.0|Canasta Básica
+770001202310|10.0|Bebidas Azucaradas
+770001202311|10.0|Alimentos Procesados
+770001202312|5.0|Alimentos Procesados
+770001202313|0.0|Canasta Básica
+770001202314|5.0|Alimentos Procesados
+770001202315|10.0|Snacks
+770001202316|0.0|Canasta Básica
+770001202317|10.0|Lácteos
+770001202318|5.0|Bebidas Azucaradas
+770001202319|10.0|Bebidas Azucaradas
+770001202320|5.0|Lácteos
+770001202321|10.0|Lácteos
+770001202322|5.0|Snacks
+770001202323|19.0|Lácteos
+770001202324|0.0|Alimentos Procesados
+770001202325|5.0|Lácteos
+770001202326|10.0|Snacks
+770001202327|5.0|Alimentos Procesados
+770001302328|10.0|Canasta Básica
+770001302329|19.0|Lácteos
+770001302330|19.0|Alimentos Procesados
+770001302331|5.0|Lácteos
+770001302332|10.0|Snacks
+770001302333|0.0|Bebidas Azucaradas
+770001302334|5.0|Lácteos
+770001302335|10.0|Alimentos Procesados
+770001302336|5.0|Canasta Básica
+770001302337|5.0|Canasta Básica
+770001302338|19.0|Canasta Básica
+770001302339|10.0|Canasta Básica
+770001302340|19.0|Snacks
+770001302341|0.0|Snacks
+770001302342|5.0|Snacks
+770001302343|10.0|Bebidas Azucaradas
+770001302344|19.0|Canasta Básica
+770001302345|5.0|Snacks
+770001302346|5.0|Canasta Básica
+770001302347|10.0|Lácteos
+770001302348|5.0|Bebidas Azucaradas
+770001302349|10.0|Lácteos
+770001302350|19.0|Lácteos
+770001302351|5.0|Lácteos
+770001302352|0.0|Lácteos
+770001302353|10.0|Alimentos Procesados
+770001302354|0.0|Alimentos Procesados
+770001302355|10.0|Bebidas Azucaradas
+770001302356|0.0|Bebidas Azucaradas
+770001302357|5.0|Bebidas Azucaradas
+770001302358|0.0|Lácteos
+770001302359|10.0|Alimentos Procesados
+770001302360|5.0|Lácteos
+770001302361|0.0|Snacks
+770001302362|0.0|Bebidas Azucaradas
+770001302363|0.0|Bebidas Azucaradas
+770001302364|10.0|Canasta Básica
+770001302365|0.0|Alimentos Procesados
+770001302366|5.0|Lácteos
+770001302367|5.0|Canasta Básica
+770001302368|10.0|Alimentos Procesados
+770001302369|19.0|Bebidas Azucaradas
+770001302370|19.0|Lácteos
+770001302371|5.0|Canasta Básica
+770001302372|10.0|Canasta Básica
+770001302373|19.0|Bebidas Azucaradas
+770001302374|10.0|Alimentos Procesados
+770001302375|19.0|Lácteos
+770001302376|10.0|Bebidas Azucaradas
+770001302377|19.0|Alimentos Procesados
+770001302378|10.0|Bebidas Azucaradas
+770001302379|5.0|Bebidas Azucaradas
+770001302380|10.0|Canasta Básica
+770001302381|19.0|Snacks
+770001302382|19.0|Alimentos Procesados
+770001302383|10.0|Snacks
+770001302384|0.0|Lácteos
+770001302385|19.0|Snacks
+770001302386|5.0|Snacks
+770001302387|5.0|Lácteos
+770001302388|0.0|Bebidas Azucaradas
+770001302389|5.0|Alimentos Procesados
+770001302390|0.0|Lácteos
+770001302391|5.0|Alimentos Procesados
+770001302392|19.0|Canasta Básica
+770001302393|0.0|Bebidas Azucaradas
+770001302394|5.0|Canasta Básica
+770001302395|0.0|Snacks
+770001302396|5.0|Lácteos
+770001302397|0.0|Bebidas Azucaradas
+770001302398|0.0|Bebidas Azucaradas
+770001302399|5.0|Lácteos
+770001302400|5.0|Lácteos
+770001302401|10.0|Snacks
+770001302402|0.0|Canasta Básica
+770001302403|5.0|Snacks
+770001302404|10.0|Lácteos
+770001302405|10.0|Snacks
+770001302406|19.0|Bebidas Azucaradas
+770001302407|5.0|Bebidas Azucaradas
+770001302408|10.0|Lácteos
+770001302409|0.0|Bebidas Azucaradas
+770001302410|19.0|Snacks
+770001302411|19.0|Snacks
+770001302412|0.0|Lácteos
+770001302413|10.0|Snacks
+770001302414|10.0|Lácteos
+770001302415|19.0|Snacks
+770001302416|10.0|Snacks
+770001302417|0.0|Canasta Básica
+770001302418|10.0|Snacks
+770001302419|10.0|Snacks
+770001302420|19.0|Snacks
+770001302421|19.0|Alimentos Procesados
+770001302422|5.0|Lácteos
+770001302423|0.0|Lácteos
+770001302424|10.0|Bebidas Azucaradas
+770001302425|5.0|Lácteos
+770001302426|10.0|Canasta Básica
+770001302427|0.0|Alimentos Procesados
+770001302428|5.0|Bebidas Azucaradas
+770001302429|19.0|Lácteos
+770001302430|10.0|Canasta Básica
+770001302431|5.0|Canasta Básica
+770001302432|10.0|Canasta Básica
+770001302433|19.0|Alimentos Procesados
+770001302434|0.0|Bebidas Azucaradas
+770001302435|19.0|Canasta Básica
+770001302436|19.0|Bebidas Azucaradas
+770001302437|5.0|Snacks
+770001302438|0.0|Snacks
+770001302439|0.0|Alimentos Procesados
+770001302440|19.0|Lácteos
+770001302441|10.0|Canasta Básica
+770001302442|0.0|Bebidas Azucaradas
+770001302443|0.0|Lácteos
+770001302444|10.0|Lácteos
+770001302445|10.0|Snacks
+770001302446|10.0|Lácteos
+770001302447|10.0|Lácteos
+770001302448|0.0|Lácteos
+770001302449|19.0|Alimentos Procesados
+770001302450|19.0|Snacks
+770001302451|10.0|Bebidas Azucaradas
+770001302452|19.0|Snacks
+770001302453|5.0|Lácteos
+770001302454|19.0|Snacks
+770001302455|19.0|Alimentos Procesados
+770001302456|10.0|Bebidas Azucaradas
+770001302457|19.0|Lácteos
+770001302458|0.0|Canasta Básica
+770001302459|5.0|Bebidas Azucaradas
+770001302460|10.0|Lácteos
+770001302461|19.0|Canasta Básica
+770001302462|5.0|Canasta Básica
+770001302463|5.0|Canasta Básica
+770001302464|5.0|Snacks
+770001302465|10.0|Alimentos Procesados
+770001302466|0.0|Canasta Básica
+770001302467|5.0|Alimentos Procesados
+770001302468|0.0|Alimentos Procesados
+770001302469|5.0|Bebidas Azucaradas
+770001302470|5.0|Bebidas Azucaradas
+770001302471|5.0|Alimentos Procesados
+770001302472|10.0|Lácteos
+770001302473|0.0|Snacks
+770001302474|5.0|Alimentos Procesados
+770001302475|5.0|Snacks
+770001302476|5.0|Canasta Básica
+770001302477|10.0|Bebidas Azucaradas
+770001302478|19.0|Alimentos Procesados
+770001302479|19.0|Lácteos
+770001302480|10.0|Lácteos
+770001302481|19.0|Snacks
+770001302482|0.0|Alimentos Procesados
+770001302483|0.0|Bebidas Azucaradas
+770001302484|19.0|Snacks
+770001302485|0.0|Bebidas Azucaradas
+770001302486|0.0|Bebidas Azucaradas
+770001302487|5.0|Alimentos Procesados
+770001302488|0.0|Snacks
+770001302489|0.0|Alimentos Procesados
+770001302490|5.0|Lácteos
+770001302491|10.0|Lácteos
+770001302492|0.0|Canasta Básica
+770001302493|5.0|Canasta Básica
+770001302494|19.0|Lácteos
+770001302495|5.0|Canasta Básica
+770001302496|10.0|Alimentos Procesados
+770001302497|0.0|Bebidas Azucaradas
+770001302498|0.0|Snacks
+770001302499|10.0|Snacks
+770001302500|0.0|Snacks
+770001302501|5.0|Lácteos
+770001302502|10.0|Lácteos
+770001302503|19.0|Lácteos
+770001302504|19.0|Lácteos
+770001302505|0.0|Alimentos Procesados
+770001302506|5.0|Lácteos
+770001302507|19.0|Alimentos Procesados
+770001302508|0.0|Canasta Básica
+770001302509|19.0|Bebidas Azucaradas
+770001302510|10.0|Bebidas Azucaradas
+770001302511|10.0|Alimentos Procesados
+770001302512|5.0|Snacks
+770001302513|5.0|Bebidas Azucaradas
+770001302514|19.0|Canasta Básica
+770001302515|10.0|Bebidas Azucaradas
+770001302516|5.0|Snacks
+770001302517|5.0|Snacks
+770001302518|19.0|Lácteos
+770001302519|10.0|Canasta Básica
+770001302520|19.0|Snacks
+770001302521|10.0|Canasta Básica
+770001402522|0.0|Canasta Básica
+770001402523|0.0|Bebidas Azucaradas
+770001402524|10.0|Canasta Básica
+770001402525|10.0|Canasta Básica
+770001402526|10.0|Lácteos
+770001402527|19.0|Canasta Básica
+770001402528|10.0|Lácteos
+770001402529|5.0|Snacks
+770001402530|10.0|Canasta Básica
+770001402531|0.0|Canasta Básica
+770001402532|10.0|Canasta Básica
+770001402533|19.0|Canasta Básica
+770001402534|5.0|Lácteos
+770001402535|5.0|Alimentos Procesados
+770001402536|0.0|Lácteos
+770001402537|0.0|Bebidas Azucaradas
+770001402538|5.0|Canasta Básica
+770001402539|10.0|Snacks
+770001402540|19.0|Lácteos
+770001402541|0.0|Bebidas Azucaradas
+770001402542|5.0|Alimentos Procesados
+770001402543|5.0|Lácteos
+770001402544|5.0|Alimentos Procesados
+770001402545|5.0|Lácteos
+770001402546|0.0|Snacks
+770001402547|0.0|Snacks
+770001402548|0.0|Bebidas Azucaradas
+770001402549|5.0|Canasta Básica
+770001402550|0.0|Snacks
+770001402551|0.0|Alimentos Procesados
+770001402552|0.0|Snacks
+770001402553|19.0|Canasta Básica
+770001402554|19.0|Alimentos Procesados
+770001402555|0.0|Snacks
+770001402556|0.0|Snacks
+770001402557|10.0|Canasta Básica
+770001402558|5.0|Canasta Básica
+770001402559|5.0|Lácteos
+770001402560|10.0|Alimentos Procesados
+770001402561|19.0|Lácteos
+770001402562|5.0|Canasta Básica
+770001402563|0.0|Canasta Básica
+770001402564|10.0|Alimentos Procesados
+770001402565|0.0|Canasta Básica
+770001402566|0.0|Lácteos
+770001402567|19.0|Canasta Básica
+770001402568|5.0|Canasta Básica
+770001402569|0.0|Snacks
+770001402570|19.0|Canasta Básica
+770001402571|5.0|Alimentos Procesados
+770001402572|0.0|Snacks
+770001402573|10.0|Canasta Básica
+770001402574|5.0|Alimentos Procesados
+770001402575|19.0|Lácteos
+770001402576|19.0|Canasta Básica
+770001402577|10.0|Lácteos
+770001402578|19.0|Alimentos Procesados
+770001402579|19.0|Canasta Básica
+770001402580|0.0|Bebidas Azucaradas
+770001402581|0.0|Bebidas Azucaradas
+770001402582|19.0|Snacks
+770001402583|5.0|Lácteos
+770001402584|19.0|Bebidas Azucaradas
+770001402585|5.0|Snacks
+770001402586|0.0|Snacks
+770001402587|10.0|Snacks
+770001402588|5.0|Snacks
+770001402589|5.0|Alimentos Procesados
+770001402590|10.0|Bebidas Azucaradas
+770001402591|0.0|Bebidas Azucaradas
+770001402592|5.0|Alimentos Procesados
+770001402593|10.0|Lácteos
+770001402594|10.0|Alimentos Procesados
+770001402595|10.0|Canasta Básica
+770001402596|0.0|Bebidas Azucaradas
+770001402597|10.0|Alimentos Procesados
+770001402598|10.0|Alimentos Procesados
+770001402599|0.0|Bebidas Azucaradas
+770001402600|5.0|Snacks
+770001402601|10.0|Alimentos Procesados
+770001402602|10.0|Lácteos
+770001402603|10.0|Alimentos Procesados
+770001402604|0.0|Bebidas Azucaradas
+770001402605|19.0|Lácteos
+770001402606|0.0|Snacks
+770001402607|19.0|Lácteos
+770001402608|10.0|Snacks
+770001402609|19.0|Bebidas Azucaradas
+770001402610|5.0|Snacks
+770001402611|10.0|Lácteos
+770001402612|5.0|Lácteos
+770001402613|0.0|Alimentos Procesados
+770001402614|5.0|Snacks
+770001402615|19.0|Bebidas Azucaradas
+770001402616|0.0|Snacks
+770001402617|0.0|Bebidas Azucaradas
+770001402618|19.0|Canasta Básica
+770001402619|5.0|Snacks
+770001402620|0.0|Canasta Básica
+770001402621|10.0|Bebidas Azucaradas
+770001402622|10.0|Snacks
+770001402623|10.0|Alimentos Procesados
+770001402624|10.0|Bebidas Azucaradas
+770001402625|19.0|Alimentos Procesados
+770001402626|5.0|Lácteos
+770001402627|10.0|Lácteos
+770001402628|0.0|Bebidas Azucaradas
+770001402629|0.0|Alimentos Procesados
+770001402630|0.0|Snacks
+770001402631|5.0|Bebidas Azucaradas
+770001402632|5.0|Lácteos
+770001402633|10.0|Bebidas Azucaradas
+770001402634|19.0|Snacks
+770001402635|19.0|Lácteos
+770001402636|10.0|Snacks
+770001402637|5.0|Alimentos Procesados
+770001402638|10.0|Canasta Básica
+770001402639|10.0|Snacks
+770001402640|0.0|Bebidas Azucaradas
+770001402641|10.0|Canasta Básica
+770001402642|19.0|Bebidas Azucaradas
+770001402643|0.0|Lácteos
+770001402644|19.0|Lácteos
+770001402645|10.0|Lácteos
+770001402646|19.0|Alimentos Procesados
+770001402647|19.0|Canasta Básica
+770001402648|5.0|Snacks
+770001402649|19.0|Lácteos
+770001402650|0.0|Snacks
+770001402651|0.0|Canasta Básica
+770001402652|0.0|Snacks
+770001402653|19.0|Alimentos Procesados
+770001402654|0.0|Snacks
+770001402655|19.0|Canasta Básica
+770001402656|19.0|Snacks
+770001402657|0.0|Alimentos Procesados
+770001402658|0.0|Alimentos Procesados
+770001402659|19.0|Alimentos Procesados
+770001402660|19.0|Bebidas Azucaradas
+770001402661|10.0|Alimentos Procesados
+770001402662|5.0|Lácteos
+770001402663|5.0|Lácteos
+770001402664|0.0|Snacks
+770001402665|10.0|Lácteos
+770001402666|10.0|Alimentos Procesados
+770001402667|19.0|Snacks
+770001402668|19.0|Lácteos
+770001402669|19.0|Canasta Básica
+770001402670|5.0|Canasta Básica
+770001402671|0.0|Lácteos
+770001402672|0.0|Snacks
+770001402673|5.0|Snacks
+770001402674|0.0|Lácteos
+770001402675|19.0|Canasta Básica
+770001402676|5.0|Lácteos
+770001402677|10.0|Bebidas Azucaradas
+770001402678|10.0|Lácteos
+770001402679|5.0|Canasta Básica
+770001402680|10.0|Alimentos Procesados
+770001402681|10.0|Lácteos
+770001402682|5.0|Bebidas Azucaradas
+770001402683|10.0|Alimentos Procesados
+770001402684|10.0|Lácteos
+770001402685|19.0|Lácteos
+770001402686|5.0|Alimentos Procesados
+770001402687|0.0|Lácteos
+770001402688|5.0|Alimentos Procesados
+770001402689|0.0|Snacks
+770001402690|10.0|Canasta Básica
+770001402691|0.0|Lácteos
+770001402692|10.0|Alimentos Procesados
+770001402693|5.0|Canasta Básica
+770001402694|10.0|Snacks
+770001402695|0.0|Lácteos
+770001402696|5.0|Alimentos Procesados
+770001402697|19.0|Lácteos
+770001402698|5.0|Lácteos
+770001402699|0.0|Snacks
+770001402700|0.0|Bebidas Azucaradas
+770001402701|0.0|Canasta Básica
+770001402702|0.0|Bebidas Azucaradas
+770001402703|10.0|Alimentos Procesados
+770001402704|5.0|Canasta Básica
+770001402705|5.0|Canasta Básica
+770001402706|0.0|Alimentos Procesados
+770001402707|10.0|Lácteos
+770001402708|10.0|Lácteos
+770001402709|19.0|Bebidas Azucaradas
+770001402710|5.0|Canasta Básica
+770001402711|0.0|Lácteos
+770001402712|19.0|Alimentos Procesados
+770001402713|10.0|Snacks
+770001402714|0.0|Alimentos Procesados
+770001402715|0.0|Canasta Básica
+770001502716|19.0|Canasta Básica
+770001502717|0.0|Lácteos
+770001502718|10.0|Lácteos
+770001502719|10.0|Canasta Básica
+770001502720|10.0|Lácteos
+770001502721|19.0|Alimentos Procesados
+770001502722|0.0|Canasta Básica
+770001502723|5.0|Canasta Básica
+770001502724|10.0|Alimentos Procesados
+770001502725|0.0|Bebidas Azucaradas
+770001502726|19.0|Snacks
+770001502727|0.0|Snacks
+770001502728|10.0|Snacks
+770001502729|5.0|Lácteos
+770001502730|19.0|Bebidas Azucaradas
+770001502731|19.0|Canasta Básica
+770001502732|10.0|Alimentos Procesados
+770001502733|10.0|Lácteos
+770001502734|19.0|Canasta Básica
+770001502735|5.0|Alimentos Procesados
+770001502736|5.0|Alimentos Procesados
+770001502737|0.0|Canasta Básica
+770001502738|19.0|Alimentos Procesados
+770001502739|19.0|Lácteos
+770001502740|19.0|Canasta Básica
+770001502741|0.0|Lácteos
+770001502742|19.0|Canasta Básica
+770001502743|10.0|Bebidas Azucaradas
+770001502744|19.0|Lácteos
+770001502745|10.0|Bebidas Azucaradas
+770001502746|5.0|Snacks
+770001502747|5.0|Lácteos
+770001502748|5.0|Canasta Básica
+770001502749|5.0|Alimentos Procesados
+770001502750|19.0|Bebidas Azucaradas
+770001502751|5.0|Bebidas Azucaradas
+770001502752|19.0|Alimentos Procesados
+770001502753|10.0|Lácteos
+770001502754|19.0|Bebidas Azucaradas
+770001502755|5.0|Canasta Básica
+770001502756|5.0|Lácteos
+770001502757|5.0|Lácteos
+770001502758|10.0|Canasta Básica
+770001502759|5.0|Lácteos
+770001502760|5.0|Canasta Básica
+770001502761|5.0|Bebidas Azucaradas
+770001502762|5.0|Bebidas Azucaradas
+770001502763|19.0|Bebidas Azucaradas
+770001502764|0.0|Snacks
+770001502765|19.0|Snacks
+770001502766|10.0|Bebidas Azucaradas
+770001502767|0.0|Snacks
+770001502768|10.0|Lácteos
+770001502769|0.0|Alimentos Procesados
+770001502770|19.0|Snacks
+770001502771|10.0|Bebidas Azucaradas
+770001502772|0.0|Bebidas Azucaradas
+770001502773|10.0|Lácteos
+770001502774|5.0|Lácteos
+770001502775|19.0|Snacks
+770001502776|5.0|Snacks
+770001502777|19.0|Lácteos
+770001502778|19.0|Canasta Básica
+770001502779|0.0|Lácteos
+770001502780|0.0|Bebidas Azucaradas
+770001502781|0.0|Canasta Básica
+770001502782|19.0|Lácteos
+770001502783|10.0|Bebidas Azucaradas
+770001502784|19.0|Canasta Básica
+770001502785|0.0|Alimentos Procesados
+770001502786|0.0|Alimentos Procesados
+770001502787|0.0|Alimentos Procesados
+770001502788|19.0|Snacks
+770001502789|5.0|Snacks
+770001502790|0.0|Canasta Básica
+770001502791|10.0|Alimentos Procesados
+770001502792|10.0|Lácteos
+770001502793|5.0|Lácteos
+770001502794|10.0|Canasta Básica
+770001502795|0.0|Bebidas Azucaradas
+770001502796|19.0|Snacks
+770001502797|19.0|Lácteos
+770001502798|10.0|Snacks
+770001502799|0.0|Bebidas Azucaradas
+770001502800|10.0|Bebidas Azucaradas
+770001502801|10.0|Alimentos Procesados
+770001502802|19.0|Snacks
+770001502803|10.0|Lácteos
+770001502804|19.0|Bebidas Azucaradas
+770001502805|10.0|Canasta Básica
+770001502806|5.0|Canasta Básica
+770001502807|10.0|Canasta Básica
+770001502808|5.0|Snacks
+770001502809|0.0|Canasta Básica
+770001502810|19.0|Alimentos Procesados
+770001502811|19.0|Canasta Básica
+770001502812|10.0|Lácteos
+770001502813|0.0|Alimentos Procesados
+770001502814|10.0|Canasta Básica
+770001502815|19.0|Bebidas Azucaradas
+770001502816|5.0|Lácteos
+770001502817|19.0|Bebidas Azucaradas
+770001502818|10.0|Alimentos Procesados
+770001502819|5.0|Canasta Básica
+770001502820|5.0|Bebidas Azucaradas
+770001502821|10.0|Alimentos Procesados
+770001502822|19.0|Snacks
+770001502823|5.0|Bebidas Azucaradas
+770001502824|5.0|Snacks
+770001502825|19.0|Snacks
+770001502826|0.0|Alimentos Procesados
+770001502827|19.0|Canasta Básica
+770001502828|19.0|Canasta Básica
+770001502829|10.0|Canasta Básica
+770001502830|5.0|Lácteos
+770001502831|0.0|Canasta Básica
+770001502832|19.0|Bebidas Azucaradas
+770001502833|10.0|Bebidas Azucaradas
+770001502834|0.0|Bebidas Azucaradas
+770001502835|19.0|Canasta Básica
+770001502836|19.0|Canasta Básica
+770001502837|19.0|Canasta Básica
+770001502838|10.0|Alimentos Procesados
+770001502839|5.0|Canasta Básica
+770001502840|5.0|Canasta Básica
+770001502841|5.0|Snacks
+770001502842|10.0|Snacks
+770001502843|19.0|Lácteos
+770001502844|19.0|Snacks
+770001502845|0.0|Snacks
+770001502846|19.0|Alimentos Procesados
+770001502847|19.0|Canasta Básica
+770001502848|0.0|Snacks
+770001502849|19.0|Bebidas Azucaradas
+770001502850|19.0|Snacks
+770001502851|19.0|Canasta Básica
+770001502852|19.0|Snacks
+770001502853|0.0|Snacks
+770001502854|0.0|Bebidas Azucaradas
+770001502855|10.0|Lácteos
+770001502856|5.0|Canasta Básica
+770001502857|19.0|Bebidas Azucaradas
+770001502858|0.0|Lácteos
+770001502859|10.0|Alimentos Procesados
+770001502860|5.0|Canasta Básica
+770001502861|19.0|Alimentos Procesados
+770001502862|10.0|Alimentos Procesados
+770001502863|19.0|Alimentos Procesados
+770001502864|5.0|Alimentos Procesados
+770001502865|5.0|Canasta Básica
+770001502866|5.0|Canasta Básica
+770001502867|0.0|Lácteos
+770001502868|10.0|Alimentos Procesados
+770001502869|10.0|Snacks
+770001502870|19.0|Snacks
+770001502871|5.0|Snacks
+770001502872|0.0|Alimentos Procesados
+770001502873|5.0|Canasta Básica
+770001502874|10.0|Bebidas Azucaradas
+770001502875|5.0|Snacks
+770001502876|0.0|Snacks
+770001502877|19.0|Snacks
+770001502878|19.0|Alimentos Procesados
+770001502879|10.0|Bebidas Azucaradas
+770001502880|19.0|Canasta Básica
+770001502881|19.0|Lácteos
+770001502882|0.0|Canasta Básica
+770001502883|5.0|Snacks
+770001502884|10.0|Bebidas Azucaradas
+770001502885|10.0|Bebidas Azucaradas
+770001502886|0.0|Canasta Básica
+770001502887|0.0|Alimentos Procesados
+770001502888|19.0|Canasta Básica
+770001502889|19.0|Lácteos
+770001502890|10.0|Snacks
+770001502891|5.0|Canasta Básica
+770001502892|19.0|Lácteos
+770001502893|5.0|Alimentos Procesados
+770001502894|19.0|Alimentos Procesados
+770001502895|10.0|Bebidas Azucaradas
+770001502896|5.0|Canasta Básica
+770001502897|19.0|Snacks
+770001502898|10.0|Snacks
+770001502899|19.0|Alimentos Procesados
+770001502900|0.0|Alimentos Procesados
+770001502901|19.0|Snacks
+770001502902|5.0|Lácteos
+770001502903|5.0|Bebidas Azucaradas
+770001502904|5.0|Alimentos Procesados
+770001502905|10.0|Bebidas Azucaradas
+770001502906|10.0|Bebidas Azucaradas
+770001502907|5.0|Canasta Básica
+770001502908|0.0|Bebidas Azucaradas
+770001502909|5.0|Snacks
+770001602910|10.0|Bebidas Azucaradas
+770001602911|10.0|Bebidas Azucaradas
+770001602912|5.0|Canasta Básica
+770001602913|0.0|Bebidas Azucaradas
+770001602914|10.0|Lácteos
+770001602915|0.0|Lácteos
+770001602916|10.0|Alimentos Procesados
+770001602917|5.0|Alimentos Procesados
+770001602918|5.0|Alimentos Procesados
+770001602919|19.0|Alimentos Procesados
+770001602920|19.0|Bebidas Azucaradas
+770001602921|0.0|Alimentos Procesados
+770001602922|0.0|Lácteos
+770001602923|19.0|Alimentos Procesados
+770001602924|10.0|Bebidas Azucaradas
+770001602925|10.0|Snacks
+770001602926|5.0|Snacks
+770001602927|10.0|Snacks
+770001602928|0.0|Alimentos Procesados
+770001602929|19.0|Alimentos Procesados
+770001602930|19.0|Bebidas Azucaradas
+770001602931|10.0|Bebidas Azucaradas
+770001602932|10.0|Bebidas Azucaradas
+770001602933|10.0|Bebidas Azucaradas
+770001602934|10.0|Lácteos
+770001602935|5.0|Lácteos
+770001602936|10.0|Alimentos Procesados
+770001602937|0.0|Canasta Básica
+770001602938|5.0|Canasta Básica
+770001602939|19.0|Canasta Básica
+770001602940|19.0|Alimentos Procesados
+770001602941|5.0|Canasta Básica
+770001602942|10.0|Bebidas Azucaradas
+770001602943|0.0|Snacks
+770001602944|0.0|Snacks
+770001602945|10.0|Snacks
+770001602946|19.0|Snacks
+770001602947|19.0|Alimentos Procesados
+770001602948|19.0|Alimentos Procesados
+770001602949|10.0|Snacks
+770001602950|5.0|Alimentos Procesados
+770001602951|19.0|Canasta Básica
+770001602952|0.0|Alimentos Procesados
+770001602953|5.0|Bebidas Azucaradas
+770001602954|0.0|Bebidas Azucaradas
+770001602955|19.0|Bebidas Azucaradas
+770001602956|0.0|Snacks
+770001602957|5.0|Canasta Básica
+770001602958|5.0|Lácteos
+770001602959|5.0|Alimentos Procesados
+770001602960|5.0|Alimentos Procesados
+770001602961|0.0|Alimentos Procesados
+770001602962|19.0|Snacks
+770001602963|19.0|Bebidas Azucaradas
+770001602964|0.0|Lácteos
+770001602965|0.0|Lácteos
+770001602966|10.0|Lácteos
+770001602967|19.0|Bebidas Azucaradas
+770001602968|0.0|Snacks
+770001602969|10.0|Canasta Básica
+770001602970|10.0|Lácteos
+770001602971|10.0|Alimentos Procesados
+770001602972|10.0|Alimentos Procesados
+770001602973|19.0|Canasta Básica
+770001602974|0.0|Lácteos
+770001602975|0.0|Lácteos
+770001602976|10.0|Bebidas Azucaradas
+770001602977|10.0|Canasta Básica
+770001602978|0.0|Canasta Básica
+770001602979|19.0|Alimentos Procesados
+770001602980|0.0|Lácteos
+770001602981|10.0|Canasta Básica
+770001602982|10.0|Canasta Básica
+770001602983|5.0|Lácteos
+770001602984|5.0|Alimentos Procesados
+770001602985|19.0|Lácteos
+770001602986|0.0|Snacks
+770001602987|5.0|Canasta Básica
+770001602988|5.0|Snacks
+770001602989|5.0|Snacks
+770001602990|5.0|Canasta Básica
+770001602991|5.0|Alimentos Procesados
+770001602992|0.0|Snacks
+770001602993|0.0|Bebidas Azucaradas
+770001602994|10.0|Bebidas Azucaradas
+770001602995|19.0|Alimentos Procesados
+770001602996|0.0|Alimentos Procesados
+770001602997|5.0|Canasta Básica
+770001602998|19.0|Lácteos
+770001602999|19.0|Snacks
+770001603000|10.0|Bebidas Azucaradas
+770001603001|0.0|Canasta Básica
+770001603002|5.0|Canasta Básica
+770001603003|0.0|Canasta Básica
+770001603004|19.0|Alimentos Procesados
+770001603005|19.0|Lácteos
+770001603006|19.0|Alimentos Procesados
+770001603007|19.0|Bebidas Azucaradas
+770001603008|0.0|Canasta Básica
+770001603009|5.0|Snacks
+770001603010|10.0|Canasta Básica
+770001603011|5.0|Canasta Básica
+770001603012|10.0|Bebidas Azucaradas
+770001603013|19.0|Bebidas Azucaradas
+770001603014|0.0|Alimentos Procesados
+770001603015|0.0|Alimentos Procesados
+770001603016|19.0|Snacks
+770001603017|19.0|Lácteos
+770001603018|5.0|Bebidas Azucaradas
+770001603019|10.0|Snacks
+770001603020|10.0|Snacks
+770001603021|5.0|Snacks
+770001603022|10.0|Alimentos Procesados
+770001603023|0.0|Lácteos
+770001603024|19.0|Alimentos Procesados
+770001603025|10.0|Canasta Básica
+770001603026|5.0|Snacks
+770001603027|10.0|Alimentos Procesados
+770001603028|0.0|Bebidas Azucaradas
+770001603029|0.0|Lácteos
+770001603030|19.0|Canasta Básica
+770001603031|0.0|Snacks
+770001603032|10.0|Lácteos
+770001603033|19.0|Lácteos
+770001603034|19.0|Bebidas Azucaradas
+770001603035|5.0|Canasta Básica
+770001603036|19.0|Snacks
+770001603037|19.0|Bebidas Azucaradas
+770001603038|5.0|Bebidas Azucaradas
+770001603039|5.0|Alimentos Procesados
+770001603040|19.0|Bebidas Azucaradas
+770001603041|0.0|Lácteos
+770001603042|5.0|Lácteos
+770001603043|0.0|Snacks
+770001603044|0.0|Alimentos Procesados
+770001603045|10.0|Lácteos
+770001603046|10.0|Lácteos
+770001603047|0.0|Bebidas Azucaradas
+770001603048|10.0|Lácteos
+770001603049|10.0|Alimentos Procesados
+770001603050|19.0|Alimentos Procesados
+770001603051|19.0|Snacks
+770001603052|19.0|Lácteos
+770001603053|0.0|Alimentos Procesados
+770001603054|19.0|Snacks
+770001603055|19.0|Lácteos
+770001603056|10.0|Bebidas Azucaradas
+770001603057|5.0|Bebidas Azucaradas
+770001603058|19.0|Canasta Básica
+770001603059|19.0|Alimentos Procesados
+770001603060|10.0|Lácteos
+770001603061|10.0|Lácteos
+770001603062|19.0|Alimentos Procesados
+770001603063|5.0|Bebidas Azucaradas
+770001603064|5.0|Alimentos Procesados
+770001603065|10.0|Bebidas Azucaradas
+770001603066|19.0|Lácteos
+770001603067|5.0|Canasta Básica
+770001603068|5.0|Alimentos Procesados
+770001603069|5.0|Bebidas Azucaradas
+770001603070|5.0|Bebidas Azucaradas
+770001603071|19.0|Bebidas Azucaradas
+770001603072|0.0|Canasta Básica
+770001603073|5.0|Canasta Básica
+770001603074|5.0|Lácteos
+770001603075|0.0|Lácteos
+770001603076|5.0|Canasta Básica
+770001603077|5.0|Snacks
+770001603078|19.0|Canasta Básica
+770001603079|10.0|Lácteos
+770001603080|0.0|Snacks
+770001603081|10.0|Lácteos
+770001603082|10.0|Lácteos
+770001603083|10.0|Canasta Básica
+770001603084|0.0|Snacks
+770001603085|19.0|Canasta Básica
+770001603086|10.0|Lácteos
+770001603087|19.0|Canasta Básica
+770001603088|10.0|Alimentos Procesados
+770001603089|10.0|Bebidas Azucaradas
+770001603090|5.0|Canasta Básica
+770001603091|19.0|Snacks
+770001603092|10.0|Bebidas Azucaradas
+770001603093|0.0|Snacks
+770001603094|5.0|Snacks
+770001603095|5.0|Canasta Básica
+770001603096|19.0|Lácteos
+770001603097|0.0|Canasta Básica
+770001603098|5.0|Bebidas Azucaradas
+770001603099|5.0|Canasta Básica
+770001603100|10.0|Alimentos Procesados
+770001603101|19.0|Snacks
+770001603102|0.0|Snacks
+770001603103|19.0|Bebidas Azucaradas
+770001703104|0.0|Alimentos Procesados
+770001703105|10.0|Snacks
+770001703106|19.0|Bebidas Azucaradas
+770001703107|5.0|Alimentos Procesados
+770001703108|5.0|Bebidas Azucaradas
+770001703109|19.0|Canasta Básica
+770001703110|19.0|Canasta Básica
+770001703111|10.0|Snacks
+770001703112|10.0|Snacks
+770001703113|10.0|Lácteos
+770001703114|0.0|Alimentos Procesados
+770001703115|19.0|Lácteos
+770001703116|10.0|Alimentos Procesados
+770001703117|19.0|Lácteos
+770001703118|10.0|Snacks
+770001703119|0.0|Bebidas Azucaradas
+770001703120|5.0|Bebidas Azucaradas
+770001703121|10.0|Snacks
+770001703122|0.0|Bebidas Azucaradas
+770001703123|5.0|Snacks
+770001703124|10.0|Canasta Básica
+770001703125|5.0|Bebidas Azucaradas
+770001703126|0.0|Canasta Básica
+770001703127|19.0|Lácteos
+770001703128|5.0|Alimentos Procesados
+770001703129|19.0|Snacks
+770001703130|10.0|Lácteos
+770001703131|19.0|Bebidas Azucaradas
+770001703132|19.0|Snacks
+770001703133|10.0|Canasta Básica
+770001703134|5.0|Bebidas Azucaradas
+770001703135|10.0|Snacks
+770001703136|10.0|Bebidas Azucaradas
+770001703137|10.0|Bebidas Azucaradas
+770001703138|0.0|Snacks
+770001703139|19.0|Lácteos
+770001703140|19.0|Lácteos
+770001703141|0.0|Snacks
+770001703142|19.0|Snacks
+770001703143|10.0|Lácteos
+770001703144|10.0|Snacks
+770001703145|0.0|Lácteos
+770001703146|0.0|Bebidas Azucaradas
+770001703147|19.0|Snacks
+770001703148|0.0|Snacks
+770001703149|5.0|Snacks
+770001703150|5.0|Canasta Básica
+770001703151|10.0|Snacks
+770001703152|5.0|Lácteos
+770001703153|10.0|Canasta Básica
+770001703154|5.0|Bebidas Azucaradas
+770001703155|10.0|Bebidas Azucaradas
+770001703156|10.0|Canasta Básica
+770001703157|19.0|Snacks
+770001703158|10.0|Lácteos
+770001703159|5.0|Bebidas Azucaradas
+770001703160|10.0|Snacks
+770001703161|19.0|Lácteos
+770001703162|5.0|Bebidas Azucaradas
+770001703163|10.0|Lácteos
+770001703164|19.0|Alimentos Procesados
+770001703165|10.0|Bebidas Azucaradas
+770001703166|10.0|Alimentos Procesados
+770001703167|19.0|Lácteos
+770001703168|5.0|Alimentos Procesados
+770001703169|19.0|Alimentos Procesados
+770001703170|10.0|Bebidas Azucaradas
+770001703171|19.0|Canasta Básica
+770001703172|19.0|Bebidas Azucaradas
+770001703173|10.0|Snacks
+770001703174|5.0|Snacks
+770001703175|19.0|Alimentos Procesados
+770001703176|0.0|Bebidas Azucaradas
+770001703177|10.0|Lácteos
+770001703178|19.0|Canasta Básica
+770001703179|10.0|Canasta Básica
+770001703180|10.0|Bebidas Azucaradas
+770001703181|10.0|Canasta Básica
+770001703182|0.0|Bebidas Azucaradas
+770001703183|19.0|Alimentos Procesados
+770001703184|19.0|Bebidas Azucaradas
+770001703185|0.0|Bebidas Azucaradas
+770001703186|0.0|Snacks
+770001703187|0.0|Alimentos Procesados
+770001703188|10.0|Snacks
+770001703189|10.0|Lácteos
+770001703190|0.0|Bebidas Azucaradas
+770001703191|5.0|Lácteos
+770001703192|0.0|Canasta Básica
+770001703193|5.0|Canasta Básica
+770001703194|5.0|Bebidas Azucaradas
+770001703195|0.0|Lácteos
+770001703196|5.0|Bebidas Azucaradas
+770001703197|19.0|Bebidas Azucaradas
+770001703198|10.0|Lácteos
+770001703199|5.0|Alimentos Procesados
+770001703200|0.0|Alimentos Procesados
+770001703201|19.0|Lácteos
+770001703202|19.0|Lácteos
+770001703203|10.0|Bebidas Azucaradas
+770001703204|19.0|Lácteos
+770001703205|19.0|Snacks
+770001703206|5.0|Alimentos Procesados
+770001703207|10.0|Snacks
+770001703208|0.0|Snacks
+770001703209|0.0|Snacks
+770001703210|5.0|Canasta Básica
+770001703211|5.0|Lácteos
+770001703212|19.0|Bebidas Azucaradas
+770001703213|19.0|Lácteos
+770001703214|19.0|Lácteos
+770001703215|10.0|Alimentos Procesados
+770001703216|19.0|Snacks
+770001703217|0.0|Canasta Básica
+770001703218|0.0|Bebidas Azucaradas
+770001703219|0.0|Lácteos
+770001703220|0.0|Canasta Básica
+770001703221|19.0|Snacks
+770001703222|10.0|Canasta Básica
+770001703223|0.0|Alimentos Procesados
+770001703224|19.0|Snacks
+770001703225|5.0|Bebidas Azucaradas
+770001703226|19.0|Alimentos Procesados
+770001703227|5.0|Lácteos
+770001703228|10.0|Bebidas Azucaradas
+770001703229|10.0|Lácteos
+770001703230|0.0|Canasta Básica
+770001703231|19.0|Lácteos
+770001703232|19.0|Canasta Básica
+770001703233|0.0|Snacks
+770001703234|0.0|Snacks
+770001703235|5.0|Canasta Básica
+770001703236|5.0|Canasta Básica
+770001703237|5.0|Alimentos Procesados
+770001703238|19.0|Canasta Básica
+770001703239|5.0|Snacks
+770001703240|5.0|Lácteos
+770001703241|5.0|Canasta Básica
+770001703242|0.0|Bebidas Azucaradas
+770001703243|19.0|Snacks
+770001703244|10.0|Canasta Básica
+770001703245|5.0|Canasta Básica
+770001703246|0.0|Bebidas Azucaradas
+770001703247|19.0|Canasta Básica
+770001703248|5.0|Lácteos
+770001703249|10.0|Bebidas Azucaradas
+770001703250|5.0|Alimentos Procesados
+770001703251|0.0|Lácteos
+770001703252|5.0|Bebidas Azucaradas
+770001703253|19.0|Snacks
+770001703254|10.0|Alimentos Procesados
+770001703255|10.0|Alimentos Procesados
+770001703256|5.0|Bebidas Azucaradas
+770001703257|0.0|Bebidas Azucaradas
+770001703258|5.0|Lácteos
+770001703259|19.0|Alimentos Procesados
+770001703260|0.0|Alimentos Procesados
+770001703261|10.0|Canasta Básica
+770001703262|0.0|Alimentos Procesados
+770001703263|10.0|Alimentos Procesados
+770001703264|5.0|Canasta Básica
+770001703265|5.0|Lácteos
+770001703266|0.0|Alimentos Procesados
+770001703267|0.0|Bebidas Azucaradas
+770001703268|10.0|Snacks
+770001703269|19.0|Snacks
+770001703270|10.0|Canasta Básica
+770001703271|0.0|Snacks
+770001703272|0.0|Snacks
+770001703273|5.0|Canasta Básica
+770001703274|5.0|Bebidas Azucaradas
+770001703275|10.0|Canasta Básica
+770001703276|5.0|Bebidas Azucaradas
+770001703277|0.0|Bebidas Azucaradas
+770001703278|0.0|Alimentos Procesados
+770001703279|5.0|Snacks
+770001703280|0.0|Alimentos Procesados
+770001703281|19.0|Lácteos
+770001703282|0.0|Alimentos Procesados
+770001703283|5.0|Lácteos
+770001703284|19.0|Alimentos Procesados
+770001703285|5.0|Snacks
+770001703286|10.0|Snacks
+770001703287|10.0|Alimentos Procesados
+770001703288|5.0|Canasta Básica
+770001703289|10.0|Lácteos
+770001703290|0.0|Lácteos
+770001703291|19.0|Alimentos Procesados
+770001703292|5.0|Bebidas Azucaradas
+770001703293|0.0|Lácteos
+770001703294|0.0|Alimentos Procesados
+770001703295|10.0|Canasta Básica
+770001703296|0.0|Snacks
+770001703297|0.0|Canasta Básica
+770001803298|10.0|Canasta Básica
+770001803299|19.0|Alimentos Procesados
+770001803300|10.0|Canasta Básica
+770001803301|0.0|Lácteos
+770001803302|19.0|Alimentos Procesados
+770001803303|0.0|Lácteos
+770001803304|0.0|Canasta Básica
+770001803305|19.0|Lácteos
+770001803306|10.0|Lácteos
+770001803307|10.0|Lácteos
+770001803308|0.0|Canasta Básica
+770001803309|10.0|Canasta Básica
+770001803310|10.0|Lácteos
+770001803311|0.0|Snacks
+770001803312|0.0|Snacks
+770001803313|10.0|Canasta Básica
+770001803314|19.0|Snacks
+770001803315|19.0|Canasta Básica
+770001803316|19.0|Alimentos Procesados
+770001803317|0.0|Canasta Básica
+770001803318|5.0|Canasta Básica
+770001803319|10.0|Bebidas Azucaradas
+770001803320|0.0|Snacks
+770001803321|10.0|Bebidas Azucaradas
+770001803322|5.0|Alimentos Procesados
+770001803323|5.0|Alimentos Procesados
+770001803324|5.0|Lácteos
+770001803325|5.0|Canasta Básica
+770001803326|10.0|Canasta Básica
+770001803327|19.0|Alimentos Procesados
+770001803328|10.0|Lácteos
+770001803329|19.0|Lácteos
+770001803330|5.0|Lácteos
+770001803331|0.0|Canasta Básica
+770001803332|5.0|Alimentos Procesados
+770001803333|0.0|Lácteos
+770001803334|0.0|Canasta Básica
+770001803335|19.0|Snacks
+770001803336|19.0|Lácteos
+770001803337|5.0|Snacks
+770001803338|5.0|Canasta Básica
+770001803339|10.0|Bebidas Azucaradas
+770001803340|19.0|Bebidas Azucaradas
+770001803341|10.0|Lácteos
+770001803342|5.0|Lácteos
+770001803343|10.0|Canasta Básica
+770001803344|10.0|Lácteos
+770001803345|19.0|Bebidas Azucaradas
+770001803346|5.0|Canasta Básica
+770001803347|19.0|Alimentos Procesados
+770001803348|19.0|Snacks
+770001803349|10.0|Canasta Básica
+770001803350|19.0|Canasta Básica
+770001803351|19.0|Lácteos
+770001803352|5.0|Snacks
+770001803353|0.0|Bebidas Azucaradas
+770001803354|19.0|Canasta Básica
+770001803355|5.0|Snacks
+770001803356|10.0|Alimentos Procesados
+770001803357|19.0|Canasta Básica
+770001803358|5.0|Alimentos Procesados
+770001803359|5.0|Canasta Básica
+770001803360|10.0|Alimentos Procesados
+770001803361|19.0|Alimentos Procesados
+770001803362|19.0|Bebidas Azucaradas
+770001803363|19.0|Alimentos Procesados
+770001803364|19.0|Bebidas Azucaradas
+770001803365|5.0|Snacks
+770001803366|10.0|Bebidas Azucaradas
+770001803367|0.0|Lácteos
+770001803368|10.0|Alimentos Procesados
+770001803369|19.0|Canasta Básica
+770001803370|0.0|Alimentos Procesados
+770001803371|5.0|Canasta Básica
+770001803372|0.0|Canasta Básica
+770001803373|0.0|Lácteos
+770001803374|0.0|Snacks
+770001803375|0.0|Alimentos Procesados
+770001803376|5.0|Canasta Básica
+770001803377|19.0|Bebidas Azucaradas
+770001803378|19.0|Lácteos
+770001803379|19.0|Alimentos Procesados
+770001803380|10.0|Alimentos Procesados
+770001803381|10.0|Alimentos Procesados
+770001803382|19.0|Lácteos
+770001803383|5.0|Bebidas Azucaradas
+770001803384|0.0|Canasta Básica
+770001803385|5.0|Canasta Básica
+770001803386|5.0|Canasta Básica
+770001803387|19.0|Alimentos Procesados
+770001803388|19.0|Canasta Básica
+770001803389|0.0|Snacks
+770001803390|19.0|Bebidas Azucaradas
+770001803391|0.0|Lácteos
+770001803392|0.0|Lácteos
+770001803393|5.0|Lácteos
+770001803394|10.0|Lácteos
+770001803395|10.0|Snacks
+770001803396|19.0|Alimentos Procesados
+770001803397|19.0|Canasta Básica
+770001803398|5.0|Lácteos
+770001803399|10.0|Lácteos
+770001803400|0.0|Lácteos
+770001803401|5.0|Bebidas Azucaradas
+770001803402|10.0|Bebidas Azucaradas
+770001803403|10.0|Lácteos
+770001803404|19.0|Bebidas Azucaradas
+770001803405|10.0|Snacks
+770001803406|0.0|Bebidas Azucaradas
+770001803407|5.0|Bebidas Azucaradas
+770001803408|0.0|Bebidas Azucaradas
+770001803409|10.0|Snacks
+770001803410|0.0|Alimentos Procesados
+770001803411|0.0|Lácteos
+770001803412|5.0|Snacks
+770001803413|10.0|Lácteos
+770001803414|0.0|Snacks
+770001803415|10.0|Alimentos Procesados
+770001803416|5.0|Snacks
+770001803417|0.0|Snacks
+770001803418|19.0|Canasta Básica
+770001803419|19.0|Bebidas Azucaradas
+770001803420|0.0|Snacks
+770001803421|0.0|Alimentos Procesados
+770001803422|10.0|Lácteos
+770001803423|5.0|Lácteos
+770001803424|10.0|Snacks
+770001803425|5.0|Canasta Básica
+770001803426|0.0|Lácteos
+770001803427|10.0|Canasta Básica
+770001803428|5.0|Bebidas Azucaradas
+770001803429|19.0|Canasta Básica
+770001803430|19.0|Lácteos
+770001803431|19.0|Alimentos Procesados
+770001803432|5.0|Alimentos Procesados
+770001803433|10.0|Canasta Básica
+770001803434|0.0|Alimentos Procesados
+770001803435|10.0|Alimentos Procesados
+770001803436|19.0|Alimentos Procesados
+770001803437|19.0|Lácteos
+770001803438|0.0|Snacks
+770001803439|0.0|Lácteos
+770001803440|19.0|Canasta Básica
+770001803441|10.0|Alimentos Procesados
+770001803442|5.0|Lácteos
+770001803443|5.0|Alimentos Procesados
+770001803444|19.0|Canasta Básica
+770001803445|19.0|Canasta Básica
+770001803446|10.0|Bebidas Azucaradas
+770001803447|19.0|Canasta Básica
+770001803448|0.0|Canasta Básica
+770001803449|0.0|Bebidas Azucaradas
+770001803450|5.0|Alimentos Procesados
+770001803451|5.0|Lácteos
+770001803452|19.0|Bebidas Azucaradas
+770001803453|0.0|Canasta Básica
+770001803454|19.0|Snacks
+770001803455|19.0|Bebidas Azucaradas
+770001803456|10.0|Alimentos Procesados
+770001803457|5.0|Lácteos
+770001803458|5.0|Lácteos
+770001803459|10.0|Lácteos
+770001803460|19.0|Bebidas Azucaradas
+770001803461|19.0|Canasta Básica
+770001803462|19.0|Bebidas Azucaradas
+770001803463|10.0|Bebidas Azucaradas
+770001803464|10.0|Alimentos Procesados
+770001803465|0.0|Alimentos Procesados
+770001803466|5.0|Lácteos
+770001803467|5.0|Canasta Básica
+770001803468|10.0|Alimentos Procesados
+770001803469|0.0|Bebidas Azucaradas
+770001803470|0.0|Canasta Básica
+770001803471|5.0|Snacks
+770001803472|0.0|Bebidas Azucaradas
+770001803473|10.0|Lácteos
+770001803474|19.0|Bebidas Azucaradas
+770001803475|10.0|Alimentos Procesados
+770001803476|10.0|Snacks
+770001803477|19.0|Canasta Básica
+770001803478|19.0|Bebidas Azucaradas
+770001803479|10.0|Alimentos Procesados
+770001803480|19.0|Lácteos
+770001803481|0.0|Canasta Básica
+770001803482|0.0|Alimentos Procesados
+770001803483|19.0|Alimentos Procesados
+770001803484|10.0|Snacks
+770001803485|5.0|Alimentos Procesados
+770001803486|0.0|Lácteos
+770001803487|19.0|Snacks
+770001803488|19.0|Snacks
+770001803489|0.0|Lácteos
+770001803490|10.0|Bebidas Azucaradas
+770001803491|19.0|Alimentos Procesados
+770001903492|5.0|Alimentos Procesados
+770001903493|10.0|Bebidas Azucaradas
+770001903494|10.0|Bebidas Azucaradas
+770001903495|10.0|Canasta Básica
+770001903496|5.0|Snacks
+770001903497|5.0|Alimentos Procesados
+770001903498|0.0|Bebidas Azucaradas
+770001903499|19.0|Alimentos Procesados
+770001903500|0.0|Snacks
+770001903501|5.0|Lácteos
+770001903502|5.0|Alimentos Procesados
+770001903503|19.0|Snacks
+770001903504|5.0|Lácteos
+770001903505|19.0|Alimentos Procesados
+770001903506|19.0|Canasta Básica
+770001903507|5.0|Canasta Básica
+770001903508|10.0|Bebidas Azucaradas
+770001903509|5.0|Snacks
+770001903510|0.0|Lácteos
+770001903511|0.0|Lácteos
+770001903512|0.0|Canasta Básica
+770001903513|19.0|Canasta Básica
+770001903514|5.0|Canasta Básica
+770001903515|19.0|Canasta Básica
+770001903516|5.0|Bebidas Azucaradas
+770001903517|10.0|Bebidas Azucaradas
+770001903518|5.0|Bebidas Azucaradas
+770001903519|19.0|Snacks
+770001903520|10.0|Canasta Básica
+770001903521|5.0|Alimentos Procesados
+770001903522|5.0|Bebidas Azucaradas
+770001903523|5.0|Snacks
+770001903524|19.0|Canasta Básica
+770001903525|0.0|Alimentos Procesados
+770001903526|5.0|Bebidas Azucaradas
+770001903527|10.0|Lácteos
+770001903528|19.0|Lácteos
+770001903529|10.0|Snacks
+770001903530|10.0|Canasta Básica
+770001903531|0.0|Lácteos
+770001903532|10.0|Bebidas Azucaradas
+770001903533|10.0|Lácteos
+770001903534|19.0|Canasta Básica
+770001903535|5.0|Lácteos
+770001903536|19.0|Canasta Básica
+770001903537|5.0|Canasta Básica
+770001903538|10.0|Alimentos Procesados
+770001903539|10.0|Bebidas Azucaradas
+770001903540|19.0|Canasta Básica
+770001903541|19.0|Bebidas Azucaradas
+770001903542|10.0|Snacks
+770001903543|0.0|Snacks
+770001903544|10.0|Bebidas Azucaradas
+770001903545|10.0|Lácteos
+770001903546|0.0|Bebidas Azucaradas
+770001903547|10.0|Lácteos
+770001903548|0.0|Bebidas Azucaradas
+770001903549|10.0|Lácteos
+770001903550|0.0|Alimentos Procesados
+770001903551|5.0|Bebidas Azucaradas
+770001903552|19.0|Lácteos
+770001903553|0.0|Alimentos Procesados
+770001903554|5.0|Canasta Básica
+770001903555|5.0|Bebidas Azucaradas
+770001903556|19.0|Canasta Básica
+770001903557|5.0|Canasta Básica
+770001903558|10.0|Alimentos Procesados
+770001903559|5.0|Canasta Básica
+770001903560|0.0|Lácteos
+770001903561|19.0|Lácteos
+770001903562|5.0|Snacks
+770001903563|19.0|Alimentos Procesados
+770001903564|0.0|Snacks
+770001903565|10.0|Bebidas Azucaradas
+770001903566|10.0|Lácteos
+770001903567|0.0|Canasta Básica
+770001903568|10.0|Canasta Básica
+770001903569|5.0|Canasta Básica
+770001903570|19.0|Canasta Básica
+770001903571|10.0|Snacks
+770001903572|19.0|Bebidas Azucaradas
+770001903573|0.0|Lácteos
+770001903574|5.0|Bebidas Azucaradas
+770001903575|19.0|Lácteos
+770001903576|5.0|Bebidas Azucaradas
+770001903577|0.0|Canasta Básica
+770001903578|10.0|Canasta Básica
+770001903579|5.0|Canasta Básica
+770001903580|10.0|Canasta Básica
+770001903581|5.0|Snacks
+770001903582|19.0|Lácteos
+770001903583|10.0|Bebidas Azucaradas
+770001903584|0.0|Lácteos
+770001903585|5.0|Bebidas Azucaradas
+770001903586|10.0|Canasta Básica
+770001903587|5.0|Alimentos Procesados
+770001903588|5.0|Alimentos Procesados
+770001903589|10.0|Snacks
+770001903590|0.0|Canasta Básica
+770001903591|19.0|Lácteos
+770001903592|19.0|Alimentos Procesados
+770001903593|5.0|Bebidas Azucaradas
+770001903594|0.0|Lácteos
+770001903595|0.0|Lácteos
+770001903596|10.0|Canasta Básica
+770001903597|10.0|Canasta Básica
+770001903598|19.0|Canasta Básica
+770001903599|10.0|Snacks
+770001903600|0.0|Snacks
+770001903601|5.0|Lácteos
+770001903602|10.0|Lácteos
+770001903603|10.0|Lácteos
+770001903604|19.0|Bebidas Azucaradas
+770001903605|5.0|Bebidas Azucaradas
+770001903606|19.0|Lácteos
+770001903607|10.0|Canasta Básica
+770001903608|19.0|Snacks
+770001903609|10.0|Canasta Básica
+770001903610|5.0|Snacks
+770001903611|19.0|Bebidas Azucaradas
+770001903612|19.0|Snacks
+770001903613|5.0|Lácteos
+770001903614|5.0|Snacks
+770001903615|19.0|Bebidas Azucaradas
+770001903616|19.0|Bebidas Azucaradas
+770001903617|10.0|Bebidas Azucaradas
+770001903618|5.0|Snacks
+770001903619|5.0|Canasta Básica
+770001903620|5.0|Lácteos
+770001903621|5.0|Snacks
+770001903622|0.0|Lácteos
+770001903623|5.0|Bebidas Azucaradas
+770001903624|10.0|Snacks
+770001903625|0.0|Lácteos
+770001903626|0.0|Canasta Básica
+770001903627|0.0|Lácteos
+770001903628|10.0|Lácteos
+770001903629|0.0|Canasta Básica
+770001903630|0.0|Lácteos
+770001903631|19.0|Snacks
+770001903632|10.0|Canasta Básica
+770001903633|0.0|Lácteos
+770001903634|10.0|Snacks
+770001903635|19.0|Lácteos
+770001903636|10.0|Bebidas Azucaradas
+770001903637|19.0|Snacks
+770001903638|0.0|Bebidas Azucaradas
+770001903639|5.0|Bebidas Azucaradas
+770001903640|5.0|Bebidas Azucaradas
+770001903641|5.0|Snacks
+770001903642|5.0|Snacks
+770001903643|10.0|Bebidas Azucaradas
+770001903644|5.0|Bebidas Azucaradas
+770001903645|19.0|Snacks
+770001903646|0.0|Alimentos Procesados
+770001903647|19.0|Bebidas Azucaradas
+770001903648|5.0|Snacks
+770001903649|19.0|Lácteos
+770001903650|0.0|Alimentos Procesados
+770001903651|5.0|Lácteos
+770001903652|0.0|Bebidas Azucaradas
+770001903653|5.0|Bebidas Azucaradas
+770001903654|0.0|Canasta Básica
+770001903655|0.0|Snacks
+770001903656|10.0|Snacks
+770001903657|10.0|Bebidas Azucaradas
+770001903658|5.0|Canasta Básica
+770001903659|5.0|Snacks
+770001903660|19.0|Snacks
+770001903661|0.0|Lácteos
+770001903662|10.0|Canasta Básica
+770001903663|19.0|Canasta Básica
+770001903664|0.0|Bebidas Azucaradas
+770001903665|5.0|Lácteos
+770001903666|10.0|Snacks
+770001903667|19.0|Snacks
+770001903668|5.0|Alimentos Procesados
+770001903669|0.0|Lácteos
+770001903670|0.0|Canasta Básica
+770001903671|5.0|Canasta Básica
+770001903672|10.0|Lácteos
+770001903673|19.0|Alimentos Procesados
+770001903674|0.0|Bebidas Azucaradas
+770001903675|0.0|Snacks
+770001903676|0.0|Alimentos Procesados
+770001903677|5.0|Snacks
+770001903678|10.0|Alimentos Procesados
+770001903679|10.0|Lácteos
+770001903680|19.0|Alimentos Procesados
+770001903681|0.0|Lácteos
+770001903682|10.0|Lácteos
+770001903683|19.0|Canasta Básica
+770001903684|5.0|Canasta Básica
+770001903685|19.0|Bebidas Azucaradas
+770002003686|5.0|Bebidas Azucaradas
+770002003687|10.0|Canasta Básica
+770002003688|0.0|Alimentos Procesados
+770002003689|0.0|Bebidas Azucaradas
+770002003690|5.0|Canasta Básica
+770002003691|0.0|Alimentos Procesados
+770002003692|10.0|Bebidas Azucaradas
+770002003693|10.0|Snacks
+770002003694|19.0|Snacks
+770002003695|19.0|Snacks
+770002003696|0.0|Snacks
+770002003697|19.0|Alimentos Procesados
+770002003698|0.0|Alimentos Procesados
+770002003699|0.0|Alimentos Procesados
+770002003700|19.0|Snacks
+770002003701|5.0|Canasta Básica
+770002003702|19.0|Lácteos
+770002003703|5.0|Snacks
+770002003704|5.0|Alimentos Procesados
+770002003705|19.0|Snacks
+770002003706|0.0|Lácteos
+770002003707|10.0|Canasta Básica
+770002003708|0.0|Lácteos
+770002003709|10.0|Canasta Básica
+770002003710|10.0|Snacks
+770002003711|5.0|Lácteos
+770002003712|0.0|Canasta Básica
+770002003713|19.0|Canasta Básica
+770002003714|5.0|Snacks
+770002003715|19.0|Canasta Básica
+770002003716|10.0|Snacks
+770002003717|10.0|Alimentos Procesados
+770002003718|10.0|Snacks
+770002003719|0.0|Lácteos
+770002003720|0.0|Bebidas Azucaradas
+770002003721|10.0|Alimentos Procesados
+770002003722|5.0|Bebidas Azucaradas
+770002003723|5.0|Alimentos Procesados
+770002003724|19.0|Snacks
+770002003725|10.0|Snacks
+770002003726|19.0|Alimentos Procesados
+770002003727|10.0|Alimentos Procesados
+770002003728|0.0|Alimentos Procesados
+770002003729|5.0|Snacks
+770002003730|19.0|Canasta Básica
+770002003731|5.0|Canasta Básica
+770002003732|10.0|Snacks
+770002003733|0.0|Alimentos Procesados
+770002003734|5.0|Bebidas Azucaradas
+770002003735|5.0|Canasta Básica
+770002003736|5.0|Bebidas Azucaradas
+770002003737|0.0|Bebidas Azucaradas
+770002003738|10.0|Lácteos
+770002003739|19.0|Alimentos Procesados
+770002003740|19.0|Snacks
+770002003741|0.0|Alimentos Procesados
+770002003742|5.0|Snacks
+770002003743|5.0|Alimentos Procesados
+770002003744|19.0|Snacks
+770002003745|0.0|Lácteos
+770002003746|5.0|Snacks
+770002003747|0.0|Snacks
+770002003748|0.0|Canasta Básica
+770002003749|0.0|Snacks
+770002003750|19.0|Alimentos Procesados
+770002003751|5.0|Canasta Básica
+770002003752|5.0|Alimentos Procesados
+770002003753|5.0|Bebidas Azucaradas
+770002003754|10.0|Snacks
+770002003755|19.0|Alimentos Procesados
+770002003756|5.0|Bebidas Azucaradas
+770002003757|5.0|Snacks
+770002003758|19.0|Alimentos Procesados
+770002003759|19.0|Snacks
+770002003760|10.0|Alimentos Procesados
+770002003761|10.0|Snacks
+770002003762|0.0|Canasta Básica
+770002003763|5.0|Alimentos Procesados
+770002003764|0.0|Bebidas Azucaradas
+770002003765|5.0|Canasta Básica
+770002003766|19.0|Alimentos Procesados
+770002003767|0.0|Snacks
+770002003768|19.0|Snacks
+770002003769|10.0|Bebidas Azucaradas
+770002003770|10.0|Alimentos Procesados
+770002003771|19.0|Snacks
+770002003772|5.0|Lácteos
+770002003773|0.0|Bebidas Azucaradas
+770002003774|10.0|Bebidas Azucaradas
+770002003775|10.0|Bebidas Azucaradas
+770002003776|5.0|Alimentos Procesados
+770002003777|19.0|Snacks
+770002003778|0.0|Canasta Básica
+770002003779|10.0|Canasta Básica
+770002003780|5.0|Bebidas Azucaradas
+770002003781|10.0|Canasta Básica
+770002003782|19.0|Canasta Básica
+770002003783|10.0|Snacks
+770002003784|0.0|Canasta Básica
+770002003785|5.0|Bebidas Azucaradas
+770002003786|5.0|Alimentos Procesados
+770002003787|5.0|Bebidas Azucaradas
+770002003788|5.0|Canasta Básica
+770002003789|10.0|Snacks
+770002003790|0.0|Lácteos
+770002003791|19.0|Bebidas Azucaradas
+770002003792|10.0|Canasta Básica
+770002003793|10.0|Canasta Básica
+770002003794|5.0|Bebidas Azucaradas
+770002003795|10.0|Bebidas Azucaradas
+770002003796|19.0|Lácteos
+770002003797|10.0|Alimentos Procesados
+770002003798|0.0|Bebidas Azucaradas
+770002003799|10.0|Snacks
+770002003800|0.0|Bebidas Azucaradas
+770002003801|10.0|Snacks
+770002003802|19.0|Alimentos Procesados
+770002003803|19.0|Alimentos Procesados
+770002003804|10.0|Canasta Básica
+770002003805|5.0|Alimentos Procesados
+770002003806|5.0|Alimentos Procesados
+770002003807|0.0|Bebidas Azucaradas
+770002003808|10.0|Canasta Básica
+770002003809|5.0|Canasta Básica
+770002003810|5.0|Canasta Básica
+770002003811|10.0|Lácteos
+770002003812|10.0|Snacks
+770002003813|0.0|Alimentos Procesados
+770002003814|10.0|Lácteos
+770002003815|10.0|Alimentos Procesados
+770002003816|10.0|Snacks
+770002003817|5.0|Bebidas Azucaradas
+770002003818|19.0|Canasta Básica
+770002003819|19.0|Alimentos Procesados
+770002003820|19.0|Snacks
+770002003821|0.0|Canasta Básica
+770002003822|19.0|Snacks
+770002003823|19.0|Alimentos Procesados
+770002003824|0.0|Lácteos
+770002003825|0.0|Canasta Básica
+770002003826|5.0|Alimentos Procesados
+770002003827|10.0|Bebidas Azucaradas
+770002003828|5.0|Alimentos Procesados
+770002003829|0.0|Bebidas Azucaradas
+770002003830|5.0|Snacks
+770002003831|10.0|Alimentos Procesados
+770002003832|5.0|Lácteos
+770002003833|19.0|Canasta Básica
+770002003834|5.0|Lácteos
+770002003835|19.0|Lácteos
+770002003836|0.0|Bebidas Azucaradas
+770002003837|10.0|Snacks
+770002003838|19.0|Snacks
+770002003839|19.0|Canasta Básica
+770002003840|5.0|Lácteos
+770002003841|10.0|Canasta Básica
+770002003842|5.0|Canasta Básica
+770002003843|5.0|Bebidas Azucaradas
+770002003844|10.0|Lácteos
+770002003845|10.0|Alimentos Procesados
+770002003846|10.0|Lácteos
+770002003847|19.0|Alimentos Procesados
+770002003848|10.0|Bebidas Azucaradas
+770002003849|19.0|Canasta Básica
+770002003850|10.0|Lácteos
+770002003851|19.0|Lácteos
+770002003852|10.0|Canasta Básica
+770002003853|5.0|Lácteos
+770002003854|19.0|Lácteos
+770002003855|10.0|Canasta Básica
+770002003856|5.0|Lácteos
+770002003857|10.0|Bebidas Azucaradas
+770002003858|5.0|Snacks
+770002003859|10.0|Bebidas Azucaradas
+770002003860|0.0|Alimentos Procesados
+770002003861|0.0|Alimentos Procesados
+770002003862|0.0|Snacks
+770002003863|0.0|Alimentos Procesados
+770002003864|19.0|Lácteos
+770002003865|5.0|Bebidas Azucaradas
+770002003866|19.0|Snacks
+770002003867|0.0|Bebidas Azucaradas
+770002003868|19.0|Lácteos
+770002003869|5.0|Bebidas Azucaradas
+770002003870|19.0|Snacks
+770002003871|5.0|Bebidas Azucaradas
+770002003872|10.0|Snacks
+770002003873|0.0|Lácteos
+770002003874|5.0|Canasta Básica
+770002003875|0.0|Lácteos
+770002003876|5.0|Canasta Básica
+770002003877|0.0|Canasta Básica
+770002003878|19.0|Bebidas Azucaradas
+770002003879|0.0|Canasta Básica
+770002103880|10.0|Alimentos Procesados
+770002103881|10.0|Canasta Básica
+770002103882|0.0|Canasta Básica
+770002103883|5.0|Canasta Básica
+770002103884|19.0|Lácteos
+770002103885|0.0|Lácteos
+770002103886|10.0|Lácteos
+770002103887|19.0|Snacks
+770002103888|10.0|Alimentos Procesados
+770002103889|10.0|Lácteos
+770002103890|0.0|Alimentos Procesados
+770002103891|0.0|Canasta Básica
+770002103892|10.0|Alimentos Procesados
+770002103893|5.0|Lácteos
+770002103894|0.0|Alimentos Procesados
+770002103895|5.0|Alimentos Procesados
+770002103896|0.0|Snacks
+770002103897|0.0|Snacks
+770002103898|10.0|Lácteos
+770002103899|19.0|Snacks
+770002103900|0.0|Lácteos
+770002103901|0.0|Lácteos
+770002103902|10.0|Canasta Básica
+770002103903|0.0|Snacks
+770002103904|10.0|Snacks
+770002103905|0.0|Canasta Básica
+770002103906|5.0|Snacks
+770002103907|19.0|Snacks
+770002103908|5.0|Snacks
+770002103909|10.0|Lácteos
+770002103910|5.0|Alimentos Procesados
+770002103911|0.0|Canasta Básica
+770002103912|0.0|Bebidas Azucaradas
+770002103913|0.0|Canasta Básica
+770002103914|19.0|Alimentos Procesados
+770002103915|0.0|Canasta Básica
+770002103916|0.0|Bebidas Azucaradas
+770002103917|10.0|Alimentos Procesados
+770002103918|5.0|Bebidas Azucaradas
+770002103919|19.0|Canasta Básica
+770002103920|0.0|Canasta Básica
+770002103921|0.0|Lácteos
+770002103922|0.0|Lácteos
+770002103923|0.0|Lácteos
+770002103924|0.0|Canasta Básica
+770002103925|19.0|Lácteos
+770002103926|0.0|Lácteos
+770002103927|0.0|Snacks
+770002103928|0.0|Bebidas Azucaradas
+770002103929|0.0|Bebidas Azucaradas
+770002103930|19.0|Lácteos
+770002103931|10.0|Snacks
+770002103932|5.0|Canasta Básica
+770002103933|19.0|Bebidas Azucaradas
+770002103934|19.0|Snacks
+770002103935|19.0|Bebidas Azucaradas
+770002103936|5.0|Snacks
+770002103937|5.0|Canasta Básica
+770002103938|10.0|Canasta Básica
+770002103939|19.0|Snacks
+770002103940|5.0|Lácteos
+770002103941|0.0|Snacks
+770002103942|0.0|Alimentos Procesados
+770002103943|10.0|Lácteos
+770002103944|10.0|Bebidas Azucaradas
+770002103945|10.0|Canasta Básica
+770002103946|0.0|Bebidas Azucaradas
+770002103947|0.0|Canasta Básica
+770002103948|0.0|Bebidas Azucaradas
+770002103949|0.0|Alimentos Procesados
+770002103950|5.0|Alimentos Procesados
+770002103951|10.0|Canasta Básica
+770002103952|10.0|Alimentos Procesados
+770002103953|0.0|Alimentos Procesados
+770002103954|5.0|Bebidas Azucaradas
+770002103955|10.0|Bebidas Azucaradas
+770002103956|19.0|Snacks
+770002103957|0.0|Canasta Básica
+770002103958|10.0|Bebidas Azucaradas
+770002103959|10.0|Bebidas Azucaradas
+770002103960|10.0|Bebidas Azucaradas
+770002103961|5.0|Lácteos
+770002103962|10.0|Bebidas Azucaradas
+770002103963|10.0|Alimentos Procesados
+770002103964|5.0|Canasta Básica
+770002103965|19.0|Alimentos Procesados
+770002103966|10.0|Snacks
+770002103967|0.0|Snacks
+770002103968|5.0|Snacks
+770002103969|19.0|Bebidas Azucaradas
+770002103970|19.0|Lácteos
+770002103971|10.0|Lácteos
+770002103972|0.0|Alimentos Procesados
+770002103973|0.0|Canasta Básica
+770002103974|0.0|Snacks
+770002103975|19.0|Snacks
+770002103976|10.0|Snacks
+770002103977|19.0|Snacks
+770002103978|5.0|Alimentos Procesados
+770002103979|19.0|Canasta Básica
+770002103980|10.0|Lácteos
+770002103981|10.0|Lácteos
+770002103982|5.0|Snacks
+770002103983|0.0|Bebidas Azucaradas
+770002103984|10.0|Canasta Básica
+770002103985|10.0|Snacks
+770002103986|19.0|Snacks
+770002103987|5.0|Bebidas Azucaradas
+770002103988|5.0|Snacks
+770002103989|0.0|Bebidas Azucaradas
+770002103990|10.0|Canasta Básica
+770002103991|5.0|Canasta Básica
+770002103992|5.0|Alimentos Procesados
+770002103993|0.0|Lácteos
+770002103994|0.0|Alimentos Procesados
+770002103995|5.0|Bebidas Azucaradas
+770002103996|5.0|Alimentos Procesados
+770002103997|10.0|Alimentos Procesados
+770002103998|5.0|Bebidas Azucaradas
+770002103999|10.0|Snacks
+770002104000|0.0|Bebidas Azucaradas
+770002104001|0.0|Snacks
+770002104002|19.0|Canasta Básica
+770002104003|0.0|Alimentos Procesados
+770002104004|19.0|Alimentos Procesados
+770002104005|0.0|Snacks
+770002104006|10.0|Canasta Básica
+770002104007|0.0|Bebidas Azucaradas
+770002104008|10.0|Snacks
+770002104009|5.0|Canasta Básica
+770002104010|5.0|Canasta Básica
+770002104011|0.0|Snacks
+770002104012|19.0|Snacks
+770002104013|0.0|Lácteos
+770002104014|10.0|Alimentos Procesados
+770002104015|0.0|Snacks
+770002104016|0.0|Canasta Básica
+770002104017|19.0|Snacks
+770002104018|10.0|Snacks
+770002104019|10.0|Bebidas Azucaradas
+770002104020|19.0|Bebidas Azucaradas
+770002104021|19.0|Alimentos Procesados
+770002104022|10.0|Canasta Básica
+770002104023|19.0|Alimentos Procesados
+770002104024|19.0|Snacks
+770002104025|10.0|Snacks
+770002104026|19.0|Lácteos
+770002104027|0.0|Lácteos
+770002104028|10.0|Canasta Básica
+770002104029|10.0|Canasta Básica
+770002104030|19.0|Alimentos Procesados
+770002104031|5.0|Snacks
+770002104032|19.0|Alimentos Procesados
+770002104033|5.0|Bebidas Azucaradas
+770002104034|5.0|Bebidas Azucaradas
+770002104035|5.0|Snacks
+770002104036|10.0|Alimentos Procesados
+770002104037|5.0|Lácteos
+770002104038|10.0|Canasta Básica
+770002104039|5.0|Alimentos Procesados
+770002104040|0.0|Alimentos Procesados
+770002104041|10.0|Snacks
+770002104042|10.0|Alimentos Procesados
+770002104043|19.0|Snacks
+770002104044|19.0|Bebidas Azucaradas
+770002104045|5.0|Alimentos Procesados
+770002104046|10.0|Bebidas Azucaradas
+770002104047|0.0|Canasta Básica
+770002104048|0.0|Lácteos
+770002104049|19.0|Canasta Básica
+770002104050|0.0|Alimentos Procesados
+770002104051|5.0|Bebidas Azucaradas
+770002104052|10.0|Snacks
+770002104053|10.0|Alimentos Procesados
+770002104054|0.0|Lácteos
+770002104055|0.0|Lácteos
+770002104056|10.0|Alimentos Procesados
+770002104057|0.0|Alimentos Procesados
+770002104058|5.0|Canasta Básica
+770002104059|10.0|Lácteos
+770002104060|10.0|Bebidas Azucaradas
+770002104061|0.0|Snacks
+770002104062|19.0|Snacks
+770002104063|0.0|Canasta Básica
+770002104064|19.0|Canasta Básica
+770002104065|0.0|Snacks
+770002104066|19.0|Canasta Básica
+770002104067|19.0|Alimentos Procesados
+770002104068|5.0|Alimentos Procesados
+770002104069|10.0|Bebidas Azucaradas
+770002104070|10.0|Bebidas Azucaradas
+770002104071|19.0|Bebidas Azucaradas
+770002104072|0.0|Alimentos Procesados
+770002104073|5.0|Bebidas Azucaradas
+770002204074|10.0|Alimentos Procesados
+770002204075|10.0|Snacks
+770002204076|0.0|Lácteos
+770002204077|0.0|Alimentos Procesados
+770002204078|10.0|Snacks
+770002204079|19.0|Lácteos
+770002204080|0.0|Snacks
+770002204081|10.0|Canasta Básica
+770002204082|10.0|Canasta Básica
+770002204083|5.0|Lácteos
+770002204084|0.0|Bebidas Azucaradas
+770002204085|10.0|Lácteos
+770002204086|19.0|Lácteos
+770002204087|5.0|Alimentos Procesados
+770002204088|10.0|Snacks
+770002204089|10.0|Canasta Básica
+770002204090|10.0|Bebidas Azucaradas
+770002204091|10.0|Snacks
+770002204092|10.0|Canasta Básica
+770002204093|10.0|Alimentos Procesados
+770002204094|0.0|Lácteos
+770002204095|5.0|Bebidas Azucaradas
+770002204096|10.0|Alimentos Procesados
+770002204097|5.0|Canasta Básica
+770002204098|10.0|Snacks
+770002204099|0.0|Canasta Básica
+770002204100|0.0|Bebidas Azucaradas
+770002204101|10.0|Snacks
+770002204102|10.0|Alimentos Procesados
+770002204103|19.0|Bebidas Azucaradas
+770002204104|5.0|Alimentos Procesados
+770002204105|0.0|Alimentos Procesados
+770002204106|5.0|Lácteos
+770002204107|0.0|Lácteos
+770002204108|19.0|Alimentos Procesados
+770002204109|5.0|Canasta Básica
+770002204110|0.0|Alimentos Procesados
+770002204111|19.0|Bebidas Azucaradas
+770002204112|5.0|Lácteos
+770002204113|19.0|Canasta Básica
+770002204114|5.0|Canasta Básica
+770002204115|19.0|Canasta Básica
+770002204116|5.0|Alimentos Procesados
+770002204117|0.0|Bebidas Azucaradas
+770002204118|10.0|Snacks
+770002204119|5.0|Alimentos Procesados
+770002204120|5.0|Snacks
+770002204121|19.0|Lácteos
+770002204122|5.0|Lácteos
+770002204123|5.0|Lácteos
+770002204124|0.0|Bebidas Azucaradas
+770002204125|19.0|Canasta Básica
+770002204126|19.0|Snacks
+770002204127|0.0|Snacks
+770002204128|19.0|Lácteos
+770002204129|0.0|Canasta Básica
+770002204130|19.0|Bebidas Azucaradas
+770002204131|0.0|Snacks
+770002204132|5.0|Snacks
+770002204133|5.0|Snacks
+770002204134|5.0|Bebidas Azucaradas
+770002204135|0.0|Snacks
+770002204136|0.0|Bebidas Azucaradas
+770002204137|0.0|Alimentos Procesados
+770002204138|0.0|Alimentos Procesados
+770002204139|0.0|Lácteos
+770002204140|10.0|Bebidas Azucaradas
+770002204141|10.0|Bebidas Azucaradas
+770002204142|19.0|Canasta Básica
+770002204143|0.0|Canasta Básica
+770002204144|5.0|Canasta Básica
+770002204145|10.0|Bebidas Azucaradas
+770002204146|10.0|Bebidas Azucaradas
+770002204147|10.0|Canasta Básica
+770002204148|10.0|Bebidas Azucaradas
+770002204149|5.0|Canasta Básica
+770002204150|19.0|Bebidas Azucaradas
+770002204151|0.0|Bebidas Azucaradas
+770002204152|0.0|Alimentos Procesados
+770002204153|19.0|Snacks
+770002204154|10.0|Canasta Básica
+770002204155|5.0|Alimentos Procesados
+770002204156|19.0|Alimentos Procesados
+770002204157|5.0|Lácteos
+770002204158|10.0|Bebidas Azucaradas
+770002204159|10.0|Snacks
+770002204160|10.0|Bebidas Azucaradas
+770002204161|19.0|Alimentos Procesados
+770002204162|0.0|Lácteos
+770002204163|19.0|Lácteos
+770002204164|5.0|Bebidas Azucaradas
+770002204165|19.0|Canasta Básica
+770002204166|10.0|Lácteos
+770002204167|5.0|Snacks
+770002204168|0.0|Lácteos
+770002204169|10.0|Alimentos Procesados
+770002204170|19.0|Bebidas Azucaradas
+770002204171|5.0|Bebidas Azucaradas
+770002204172|5.0|Alimentos Procesados
+770002204173|19.0|Lácteos
+770002204174|0.0|Snacks
+770002204175|5.0|Bebidas Azucaradas
+770002204176|19.0|Alimentos Procesados
+770002204177|10.0|Lácteos
+770002204178|5.0|Alimentos Procesados
+770002204179|5.0|Canasta Básica
+770002204180|10.0|Alimentos Procesados
+770002204181|19.0|Bebidas Azucaradas
+770002204182|19.0|Snacks
+770002204183|5.0|Lácteos
+770002204184|10.0|Lácteos
+770002204185|19.0|Snacks
+770002204186|19.0|Canasta Básica
+770002204187|10.0|Lácteos
+770002204188|5.0|Lácteos
+770002204189|0.0|Lácteos
+770002204190|19.0|Lácteos
+770002204191|10.0|Snacks
+770002204192|0.0|Snacks
+770002204193|10.0|Canasta Básica
+770002204194|19.0|Alimentos Procesados
+770002204195|5.0|Snacks
+770002204196|0.0|Lácteos
+770002204197|5.0|Alimentos Procesados
+770002204198|19.0|Snacks
+770002204199|5.0|Lácteos
+770002204200|5.0|Alimentos Procesados
+770002204201|19.0|Bebidas Azucaradas
+770002204202|10.0|Snacks
+770002204203|19.0|Alimentos Procesados
+770002204204|0.0|Bebidas Azucaradas
+770002204205|19.0|Lácteos
+770002204206|5.0|Bebidas Azucaradas
+770002204207|10.0|Alimentos Procesados
+770002204208|10.0|Canasta Básica
+770002204209|10.0|Canasta Básica
+770002204210|10.0|Snacks
+770002204211|19.0|Canasta Básica
+770002204212|5.0|Alimentos Procesados
+770002204213|19.0|Canasta Básica
+770002204214|0.0|Lácteos
+770002204215|5.0|Snacks
+770002204216|0.0|Snacks
+770002204217|10.0|Alimentos Procesados
+770002204218|10.0|Alimentos Procesados
+770002204219|10.0|Alimentos Procesados
+770002204220|10.0|Bebidas Azucaradas
+770002204221|10.0|Canasta Básica
+770002204222|10.0|Canasta Básica
+770002204223|10.0|Canasta Básica
+770002204224|19.0|Bebidas Azucaradas
+770002204225|10.0|Lácteos
+770002204226|5.0|Snacks
+770002204227|10.0|Snacks
+770002204228|5.0|Lácteos
+770002204229|0.0|Lácteos
+770002204230|19.0|Bebidas Azucaradas
+770002204231|10.0|Lácteos
+770002204232|10.0|Canasta Básica
+770002204233|0.0|Lácteos
+770002204234|0.0|Lácteos
+770002204235|10.0|Bebidas Azucaradas
+770002204236|19.0|Alimentos Procesados
+770002204237|5.0|Alimentos Procesados
+770002204238|19.0|Lácteos
+770002204239|5.0|Bebidas Azucaradas
+770002204240|19.0|Bebidas Azucaradas
+770002204241|19.0|Snacks
+770002204242|19.0|Canasta Básica
+770002204243|10.0|Lácteos
+770002204244|19.0|Canasta Básica
+770002204245|19.0|Snacks
+770002204246|5.0|Bebidas Azucaradas
+770002204247|0.0|Canasta Básica
+770002204248|5.0|Lácteos
+770002204249|19.0|Lácteos
+770002204250|0.0|Canasta Básica
+770002204251|10.0|Canasta Básica
+770002204252|0.0|Snacks
+770002204253|19.0|Alimentos Procesados
+770002204254|19.0|Snacks
+770002204255|19.0|Bebidas Azucaradas
+770002204256|19.0|Lácteos
+770002204257|10.0|Bebidas Azucaradas
+770002204258|19.0|Lácteos
+770002204259|10.0|Alimentos Procesados
+770002204260|0.0|Canasta Básica
+770002204261|19.0|Bebidas Azucaradas
+770002204262|19.0|Bebidas Azucaradas
+770002204263|0.0|Canasta Básica
+770002204264|19.0|Alimentos Procesados
+770002204265|10.0|Bebidas Azucaradas
+770002204266|19.0|Canasta Básica
+770002204267|10.0|Snacks
+770002304268|10.0|Snacks
+770002304269|10.0|Canasta Básica
+770002304270|0.0|Lácteos
+770002304271|0.0|Canasta Básica
+770002304272|19.0|Lácteos
+770002304273|19.0|Alimentos Procesados
+770002304274|19.0|Alimentos Procesados
+770002304275|10.0|Canasta Básica
+770002304276|5.0|Canasta Básica
+770002304277|5.0|Lácteos
+770002304278|5.0|Bebidas Azucaradas
+770002304279|19.0|Snacks
+770002304280|10.0|Canasta Básica
+770002304281|19.0|Snacks
+770002304282|19.0|Alimentos Procesados
+770002304283|0.0|Bebidas Azucaradas
+770002304284|19.0|Alimentos Procesados
+770002304285|19.0|Lácteos
+770002304286|0.0|Alimentos Procesados
+770002304287|0.0|Lácteos
+770002304288|19.0|Alimentos Procesados
+770002304289|19.0|Snacks
+770002304290|0.0|Lácteos
+770002304291|10.0|Alimentos Procesados
+770002304292|5.0|Snacks
+770002304293|0.0|Canasta Básica
+770002304294|5.0|Snacks
+770002304295|5.0|Bebidas Azucaradas
+770002304296|0.0|Bebidas Azucaradas
+770002304297|19.0|Lácteos
+770002304298|5.0|Bebidas Azucaradas
+770002304299|19.0|Canasta Básica
+770002304300|19.0|Lácteos
+770002304301|0.0|Alimentos Procesados
+770002304302|0.0|Bebidas Azucaradas
+770002304303|0.0|Canasta Básica
+770002304304|19.0|Canasta Básica
+770002304305|10.0|Bebidas Azucaradas
+770002304306|0.0|Lácteos
+770002304307|5.0|Canasta Básica
+770002304308|10.0|Canasta Básica
+770002304309|10.0|Snacks
+770002304310|10.0|Canasta Básica
+770002304311|0.0|Snacks
+770002304312|19.0|Bebidas Azucaradas
+770002304313|0.0|Canasta Básica
+770002304314|10.0|Canasta Básica
+770002304315|0.0|Lácteos
+770002304316|5.0|Alimentos Procesados
+770002304317|0.0|Snacks
+770002304318|0.0|Alimentos Procesados
+770002304319|5.0|Lácteos
+770002304320|5.0|Lácteos
+770002304321|10.0|Canasta Básica
+770002304322|10.0|Canasta Básica
+770002304323|5.0|Lácteos
+770002304324|10.0|Snacks
+770002304325|10.0|Bebidas Azucaradas
+770002304326|10.0|Alimentos Procesados
+770002304327|19.0|Bebidas Azucaradas
+770002304328|0.0|Snacks
+770002304329|19.0|Canasta Básica
+770002304330|19.0|Canasta Básica
+770002304331|19.0|Alimentos Procesados
+770002304332|10.0|Alimentos Procesados
+770002304333|10.0|Snacks
+770002304334|5.0|Canasta Básica
+770002304335|19.0|Lácteos
+770002304336|0.0|Bebidas Azucaradas
+770002304337|10.0|Canasta Básica
+770002304338|10.0|Alimentos Procesados
+770002304339|19.0|Bebidas Azucaradas
+770002304340|5.0|Canasta Básica
+770002304341|0.0|Alimentos Procesados
+770002304342|0.0|Canasta Básica
+770002304343|19.0|Bebidas Azucaradas
+770002304344|5.0|Snacks
+770002304345|19.0|Bebidas Azucaradas
+770002304346|10.0|Lácteos
+770002304347|5.0|Snacks
+770002304348|5.0|Canasta Básica
+770002304349|0.0|Bebidas Azucaradas
+770002304350|10.0|Lácteos
+770002304351|19.0|Alimentos Procesados
+770002304352|5.0|Alimentos Procesados
+770002304353|0.0|Alimentos Procesados
+770002304354|0.0|Bebidas Azucaradas
+770002304355|0.0|Lácteos
+770002304356|10.0|Canasta Básica
+770002304357|10.0|Alimentos Procesados
+770002304358|19.0|Lácteos
+770002304359|10.0|Bebidas Azucaradas
+770002304360|10.0|Snacks
+770002304361|5.0|Lácteos
+770002304362|5.0|Canasta Básica
+770002304363|19.0|Snacks
+770002304364|10.0|Canasta Básica
+770002304365|0.0|Bebidas Azucaradas
+770002304366|19.0|Bebidas Azucaradas
+770002304367|5.0|Canasta Básica
+770002304368|10.0|Snacks
+770002304369|10.0|Bebidas Azucaradas
+770002304370|5.0|Alimentos Procesados
+770002304371|10.0|Canasta Básica
+770002304372|0.0|Lácteos
+770002304373|0.0|Lácteos
+770002304374|10.0|Lácteos
+770002304375|19.0|Lácteos
+770002304376|5.0|Bebidas Azucaradas
+770002304377|10.0|Bebidas Azucaradas
+770002304378|10.0|Lácteos
+770002304379|19.0|Snacks
+770002304380|10.0|Alimentos Procesados
+770002304381|10.0|Alimentos Procesados
+770002304382|19.0|Lácteos
+770002304383|10.0|Snacks
+770002304384|19.0|Alimentos Procesados
+770002304385|19.0|Alimentos Procesados
+770002304386|0.0|Alimentos Procesados
+770002304387|10.0|Canasta Básica
+770002304388|10.0|Bebidas Azucaradas
+770002304389|0.0|Snacks
+770002304390|19.0|Alimentos Procesados
+770002304391|19.0|Snacks
+770002304392|0.0|Canasta Básica
+770002304393|0.0|Snacks
+770002304394|19.0|Snacks
+770002304395|5.0|Alimentos Procesados
+770002304396|19.0|Bebidas Azucaradas
+770002304397|5.0|Alimentos Procesados
+770002304398|5.0|Canasta Básica
+770002304399|0.0|Snacks
+770002304400|0.0|Bebidas Azucaradas
+770002304401|0.0|Bebidas Azucaradas
+770002304402|10.0|Snacks
+770002304403|19.0|Alimentos Procesados
+770002304404|5.0|Lácteos
+770002304405|5.0|Lácteos
+770002304406|19.0|Snacks
+770002304407|5.0|Canasta Básica
+770002304408|5.0|Lácteos
+770002304409|0.0|Alimentos Procesados
+770002304410|0.0|Lácteos
+770002304411|10.0|Canasta Básica
+770002304412|0.0|Bebidas Azucaradas
+770002304413|0.0|Canasta Básica
+770002304414|0.0|Snacks
+770002304415|5.0|Bebidas Azucaradas
+770002304416|5.0|Alimentos Procesados
+770002304417|5.0|Bebidas Azucaradas
+770002304418|10.0|Snacks
+770002304419|5.0|Alimentos Procesados
+770002304420|19.0|Bebidas Azucaradas
+770002304421|5.0|Alimentos Procesados
+770002304422|10.0|Snacks
+770002304423|19.0|Canasta Básica
+770002304424|10.0|Bebidas Azucaradas
+770002304425|5.0|Lácteos
+770002304426|19.0|Snacks
+770002304427|0.0|Lácteos
+770002304428|10.0|Alimentos Procesados
+770002304429|19.0|Snacks
+770002304430|19.0|Canasta Básica
+770002304431|0.0|Alimentos Procesados
+770002304432|0.0|Alimentos Procesados
+770002304433|10.0|Bebidas Azucaradas
+770002304434|19.0|Snacks
+770002304435|10.0|Bebidas Azucaradas
+770002304436|0.0|Bebidas Azucaradas
+770002304437|10.0|Snacks
+770002304438|5.0|Lácteos
+770002304439|0.0|Bebidas Azucaradas
+770002304440|0.0|Alimentos Procesados
+770002304441|19.0|Alimentos Procesados
+770002304442|10.0|Lácteos
+770002304443|0.0|Snacks
+770002304444|19.0|Bebidas Azucaradas
+770002304445|10.0|Bebidas Azucaradas
+770002304446|5.0|Lácteos
+770002304447|0.0|Alimentos Procesados
+770002304448|5.0|Canasta Básica
+770002304449|5.0|Alimentos Procesados
+770002304450|0.0|Alimentos Procesados
+770002304451|19.0|Snacks
+770002304452|0.0|Bebidas Azucaradas
+770002304453|10.0|Snacks
+770002304454|19.0|Bebidas Azucaradas
+770002304455|0.0|Bebidas Azucaradas
+770002304456|5.0|Canasta Básica
+770002304457|19.0|Snacks
+770002304458|5.0|Lácteos
+770002304459|19.0|Alimentos Procesados
+770002304460|0.0|Bebidas Azucaradas
+770002304461|10.0|Canasta Básica
+770002404462|5.0|Alimentos Procesados
+770002404463|19.0|Bebidas Azucaradas
+770002404464|5.0|Alimentos Procesados
+770002404465|19.0|Bebidas Azucaradas
+770002404466|19.0|Canasta Básica
+770002404467|5.0|Canasta Básica
+770002404468|0.0|Bebidas Azucaradas
+770002404469|10.0|Canasta Básica
+770002404470|5.0|Snacks
+770002404471|0.0|Alimentos Procesados
+770002404472|19.0|Lácteos
+770002404473|0.0|Snacks
+770002404474|0.0|Canasta Básica
+770002404475|5.0|Alimentos Procesados
+770002404476|5.0|Bebidas Azucaradas
+770002404477|19.0|Alimentos Procesados
+770002404478|5.0|Snacks
+770002404479|19.0|Lácteos
+770002404480|10.0|Bebidas Azucaradas
+770002404481|5.0|Lácteos
+770002404482|0.0|Snacks
+770002404483|5.0|Alimentos Procesados
+770002404484|0.0|Canasta Básica
+770002404485|5.0|Alimentos Procesados
+770002404486|5.0|Lácteos
+770002404487|19.0|Alimentos Procesados
+770002404488|10.0|Alimentos Procesados
+770002404489|10.0|Bebidas Azucaradas
+770002404490|19.0|Canasta Básica
+770002404491|10.0|Alimentos Procesados
+770002404492|5.0|Canasta Básica
+770002404493|5.0|Bebidas Azucaradas
+770002404494|19.0|Bebidas Azucaradas
+770002404495|5.0|Canasta Básica
+770002404496|0.0|Canasta Básica
+770002404497|10.0|Alimentos Procesados
+770002404498|10.0|Canasta Básica
+770002404499|19.0|Alimentos Procesados
+770002404500|10.0|Lácteos
+770002404501|19.0|Bebidas Azucaradas
+770002404502|5.0|Alimentos Procesados
+770002404503|0.0|Canasta Básica
+770002404504|19.0|Bebidas Azucaradas
+770002404505|19.0|Lácteos
+770002404506|5.0|Canasta Básica
+770002404507|19.0|Snacks
+770002404508|0.0|Bebidas Azucaradas
+770002404509|0.0|Lácteos
+770002404510|5.0|Snacks
+770002404511|5.0|Bebidas Azucaradas
+770002404512|19.0|Alimentos Procesados
+770002404513|10.0|Snacks
+770002404514|0.0|Alimentos Procesados
+770002404515|10.0|Snacks
+770002404516|0.0|Bebidas Azucaradas
+770002404517|19.0|Alimentos Procesados
+770002404518|19.0|Alimentos Procesados
+770002404519|19.0|Canasta Básica
+770002404520|10.0|Alimentos Procesados
+770002404521|5.0|Canasta Básica
+770002404522|10.0|Canasta Básica
+770002404523|5.0|Lácteos
+770002404524|19.0|Bebidas Azucaradas
+770002404525|19.0|Canasta Básica
+770002404526|10.0|Bebidas Azucaradas
+770002404527|0.0|Canasta Básica
+770002404528|0.0|Alimentos Procesados
+770002404529|19.0|Canasta Básica
+770002404530|5.0|Alimentos Procesados
+770002404531|19.0|Canasta Básica
+770002404532|0.0|Canasta Básica
+770002404533|5.0|Bebidas Azucaradas
+770002404534|19.0|Canasta Básica
+770002404535|5.0|Alimentos Procesados
+770002404536|0.0|Lácteos
+770002404537|0.0|Alimentos Procesados
+770002404538|5.0|Lácteos
+770002404539|5.0|Canasta Básica
+770002404540|19.0|Bebidas Azucaradas
+770002404541|19.0|Lácteos
+770002404542|0.0|Snacks
+770002404543|5.0|Alimentos Procesados
+770002404544|0.0|Snacks
+770002404545|19.0|Lácteos
+770002404546|5.0|Snacks
+770002404547|10.0|Bebidas Azucaradas
+770002404548|0.0|Bebidas Azucaradas
+770002404549|0.0|Bebidas Azucaradas
+770002404550|0.0|Lácteos
+770002404551|0.0|Bebidas Azucaradas
+770002404552|10.0|Lácteos
+770002404553|0.0|Canasta Básica
+770002404554|0.0|Canasta Básica
+770002404555|10.0|Snacks
+770002404556|5.0|Canasta Básica
+770002404557|10.0|Canasta Básica
+770002404558|10.0|Snacks
+770002404559|0.0|Bebidas Azucaradas
+770002404560|0.0|Lácteos
+770002404561|10.0|Bebidas Azucaradas
+770002404562|10.0|Lácteos
+770002404563|19.0|Canasta Básica
+770002404564|10.0|Alimentos Procesados
+770002404565|5.0|Lácteos
+770002404566|0.0|Snacks
+770002404567|10.0|Canasta Básica
+770002404568|19.0|Alimentos Procesados
+770002404569|0.0|Snacks
+770002404570|5.0|Alimentos Procesados
+770002404571|5.0|Alimentos Procesados
+770002404572|19.0|Bebidas Azucaradas
+770002404573|10.0|Snacks
+770002404574|5.0|Snacks
+770002404575|19.0|Lácteos
+770002404576|19.0|Lácteos
+770002404577|0.0|Lácteos
+770002404578|0.0|Canasta Básica
+770002404579|5.0|Canasta Básica
+770002404580|0.0|Lácteos
+770002404581|19.0|Snacks
+770002404582|0.0|Bebidas Azucaradas
+770002404583|5.0|Snacks
+770002404584|10.0|Bebidas Azucaradas
+770002404585|10.0|Alimentos Procesados
+770002404586|19.0|Alimentos Procesados
+770002404587|19.0|Canasta Básica
+770002404588|5.0|Canasta Básica
+770002404589|10.0|Snacks
+770002404590|10.0|Canasta Básica
+770002404591|5.0|Bebidas Azucaradas
+770002404592|0.0|Alimentos Procesados
+770002404593|10.0|Alimentos Procesados
+770002404594|19.0|Snacks
+770002404595|19.0|Canasta Básica
+770002404596|5.0|Snacks
+770002404597|19.0|Canasta Básica
+770002404598|10.0|Bebidas Azucaradas
+770002404599|19.0|Snacks
+770002404600|0.0|Canasta Básica
+770002404601|10.0|Snacks
+770002404602|10.0|Canasta Básica
+770002404603|10.0|Canasta Básica
+770002404604|5.0|Bebidas Azucaradas
+770002404605|0.0|Alimentos Procesados
+770002404606|5.0|Canasta Básica
+770002404607|19.0|Canasta Básica
+770002404608|19.0|Canasta Básica
+770002404609|19.0|Alimentos Procesados
+770002404610|10.0|Canasta Básica
+770002404611|19.0|Alimentos Procesados
+770002404612|10.0|Snacks
+770002404613|10.0|Bebidas Azucaradas
+770002404614|0.0|Bebidas Azucaradas
+770002404615|5.0|Bebidas Azucaradas
+770002404616|10.0|Alimentos Procesados
+770002404617|10.0|Alimentos Procesados
+770002404618|5.0|Alimentos Procesados
+770002404619|5.0|Lácteos
+770002404620|0.0|Canasta Básica
+770002404621|19.0|Snacks
+770002404622|5.0|Bebidas Azucaradas
+770002404623|19.0|Canasta Básica
+770002404624|5.0|Canasta Básica
+770002404625|19.0|Alimentos Procesados
+770002404626|19.0|Canasta Básica
+770002404627|0.0|Canasta Básica
+770002404628|19.0|Snacks
+770002404629|5.0|Bebidas Azucaradas
+770002404630|5.0|Lácteos
+770002404631|10.0|Bebidas Azucaradas
+770002404632|19.0|Bebidas Azucaradas
+770002404633|0.0|Canasta Básica
+770002404634|5.0|Canasta Básica
+770002404635|5.0|Canasta Básica
+770002404636|19.0|Bebidas Azucaradas
+770002404637|10.0|Snacks
+770002404638|5.0|Alimentos Procesados
+770002404639|19.0|Alimentos Procesados
+770002404640|5.0|Bebidas Azucaradas
+770002404641|10.0|Alimentos Procesados
+770002404642|5.0|Lácteos
+770002404643|10.0|Bebidas Azucaradas
+770002404644|10.0|Snacks
+770002404645|19.0|Bebidas Azucaradas
+770002404646|5.0|Lácteos
+770002404647|10.0|Alimentos Procesados
+770002404648|0.0|Snacks
+770002404649|0.0|Lácteos
+770002404650|10.0|Alimentos Procesados
+770002404651|0.0|Alimentos Procesados
+770002404652|10.0|Snacks
+770002404653|0.0|Alimentos Procesados
+770002404654|10.0|Canasta Básica
+770002404655|0.0|Bebidas Azucaradas
+770002504656|0.0|Bebidas Azucaradas
+770002504657|5.0|Bebidas Azucaradas
+770002504658|0.0|Snacks
+770002504659|0.0|Bebidas Azucaradas
+770002504660|10.0|Alimentos Procesados
+770002504661|5.0|Snacks
+770002504662|5.0|Canasta Básica
+770002504663|10.0|Canasta Básica
+770002504664|5.0|Lácteos
+770002504665|5.0|Canasta Básica
+770002504666|10.0|Canasta Básica
+770002504667|0.0|Lácteos
+770002504668|19.0|Canasta Básica
+770002504669|19.0|Bebidas Azucaradas
+770002504670|19.0|Snacks
+770002504671|5.0|Canasta Básica
+770002504672|10.0|Canasta Básica
+770002504673|19.0|Lácteos
+770002504674|5.0|Lácteos
+770002504675|10.0|Alimentos Procesados
+770002504676|10.0|Bebidas Azucaradas
+770002504677|5.0|Bebidas Azucaradas
+770002504678|19.0|Snacks
+770002504679|19.0|Bebidas Azucaradas
+770002504680|19.0|Bebidas Azucaradas
+770002504681|19.0|Lácteos
+770002504682|19.0|Alimentos Procesados
+770002504683|5.0|Canasta Básica
+770002504684|10.0|Snacks
+770002504685|5.0|Canasta Básica
+770002504686|10.0|Snacks
+770002504687|19.0|Alimentos Procesados
+770002504688|19.0|Alimentos Procesados
+770002504689|10.0|Snacks
+770002504690|10.0|Alimentos Procesados
+770002504691|10.0|Canasta Básica
+770002504692|19.0|Lácteos
+770002504693|19.0|Canasta Básica
+770002504694|19.0|Alimentos Procesados
+770002504695|10.0|Snacks
+770002504696|10.0|Bebidas Azucaradas
+770002504697|0.0|Bebidas Azucaradas
+770002504698|10.0|Lácteos
+770002504699|5.0|Alimentos Procesados
+770002504700|5.0|Lácteos
+770002504701|19.0|Lácteos
+770002504702|10.0|Snacks
+770002504703|5.0|Canasta Básica
+770002504704|0.0|Lácteos
+770002504705|5.0|Lácteos
+770002504706|5.0|Snacks
+770002504707|5.0|Snacks
+770002504708|0.0|Canasta Básica
+770002504709|5.0|Snacks
+770002504710|5.0|Alimentos Procesados
+770002504711|5.0|Snacks
+770002504712|10.0|Lácteos
+770002504713|10.0|Lácteos
+770002504714|0.0|Canasta Básica
+770002504715|0.0|Lácteos
+770002504716|5.0|Lácteos
+770002504717|19.0|Canasta Básica
+770002504718|5.0|Canasta Básica
+770002504719|5.0|Lácteos
+770002504720|5.0|Canasta Básica
+770002504721|19.0|Canasta Básica
+770002504722|10.0|Lácteos
+770002504723|19.0|Canasta Básica
+770002504724|0.0|Alimentos Procesados
+770002504725|10.0|Snacks
+770002504726|10.0|Alimentos Procesados
+770002504727|0.0|Canasta Básica
+770002504728|19.0|Lácteos
+770002504729|5.0|Canasta Básica
+770002504730|5.0|Snacks
+770002504731|19.0|Alimentos Procesados
+770002504732|0.0|Lácteos
+770002504733|5.0|Lácteos
+770002504734|19.0|Bebidas Azucaradas
+770002504735|5.0|Snacks
+770002504736|5.0|Lácteos
+770002504737|10.0|Lácteos
+770002504738|10.0|Canasta Básica
+770002504739|19.0|Canasta Básica
+770002504740|5.0|Alimentos Procesados
+770002504741|10.0|Bebidas Azucaradas
+770002504742|19.0|Bebidas Azucaradas
+770002504743|5.0|Bebidas Azucaradas
+770002504744|5.0|Lácteos
+770002504745|19.0|Snacks
+770002504746|5.0|Alimentos Procesados
+770002504747|19.0|Alimentos Procesados
+770002504748|19.0|Alimentos Procesados
+770002504749|10.0|Lácteos
+770002504750|19.0|Bebidas Azucaradas
+770002504751|10.0|Canasta Básica
+770002504752|5.0|Lácteos
+770002504753|19.0|Lácteos
+770002504754|0.0|Canasta Básica
+770002504755|0.0|Lácteos
+770002504756|19.0|Lácteos
+770002504757|19.0|Lácteos
+770002504758|5.0|Alimentos Procesados
+770002504759|5.0|Bebidas Azucaradas
+770002504760|0.0|Lácteos
+770002504761|5.0|Alimentos Procesados
+770002504762|5.0|Snacks
+770002504763|5.0|Snacks
+770002504764|5.0|Bebidas Azucaradas
+770002504765|10.0|Alimentos Procesados
+770002504766|0.0|Alimentos Procesados
+770002504767|0.0|Canasta Básica
+770002504768|0.0|Bebidas Azucaradas
+770002504769|5.0|Canasta Básica
+770002504770|5.0|Snacks
+770002504771|0.0|Snacks
+770002504772|10.0|Bebidas Azucaradas
+770002504773|19.0|Snacks
+770002504774|10.0|Bebidas Azucaradas
+770002504775|10.0|Alimentos Procesados
+770002504776|0.0|Alimentos Procesados
+770002504777|19.0|Snacks
+770002504778|5.0|Canasta Básica
+770002504779|10.0|Snacks
+770002504780|19.0|Canasta Básica
+770002504781|10.0|Canasta Básica
+770002504782|5.0|Lácteos
+770002504783|10.0|Lácteos
+770002504784|19.0|Canasta Básica
+770002504785|10.0|Bebidas Azucaradas
+770002504786|5.0|Lácteos
+770002504787|5.0|Snacks
+770002504788|10.0|Snacks
+770002504789|5.0|Canasta Básica
+770002504790|10.0|Canasta Básica
+770002504791|19.0|Canasta Básica
+770002504792|10.0|Snacks
+770002504793|19.0|Canasta Básica
+770002504794|10.0|Lácteos
+770002504795|0.0|Canasta Básica
+770002504796|5.0|Canasta Básica
+770002504797|5.0|Snacks
+770002504798|5.0|Canasta Básica
+770002504799|19.0|Canasta Básica
+770002504800|19.0|Bebidas Azucaradas
+770002504801|5.0|Snacks
+770002504802|0.0|Canasta Básica
+770002504803|19.0|Canasta Básica
+770002504804|19.0|Alimentos Procesados
+770002504805|19.0|Snacks
+770002504806|10.0|Snacks
+770002504807|5.0|Snacks
+770002504808|5.0|Snacks
+770002504809|0.0|Canasta Básica
+770002504810|19.0|Lácteos
+770002504811|10.0|Canasta Básica
+770002504812|5.0|Canasta Básica
+770002504813|10.0|Bebidas Azucaradas
+770002504814|5.0|Canasta Básica
+770002504815|5.0|Alimentos Procesados
+770002504816|19.0|Canasta Básica
+770002504817|0.0|Bebidas Azucaradas
+770002504818|19.0|Bebidas Azucaradas
+770002504819|19.0|Alimentos Procesados
+770002504820|19.0|Snacks
+770002504821|10.0|Snacks
+770002504822|10.0|Lácteos
+770002504823|5.0|Canasta Básica
+770002504824|19.0|Lácteos
+770002504825|19.0|Lácteos
+770002504826|19.0|Bebidas Azucaradas
+770002504827|5.0|Snacks
+770002504828|19.0|Alimentos Procesados
+770002504829|10.0|Bebidas Azucaradas
+770002504830|19.0|Snacks
+770002504831|5.0|Bebidas Azucaradas
+770002504832|10.0|Canasta Básica
+770002504833|5.0|Alimentos Procesados
+770002504834|10.0|Bebidas Azucaradas
+770002504835|0.0|Bebidas Azucaradas
+770002504836|19.0|Canasta Básica
+770002504837|0.0|Snacks
+770002504838|0.0|Alimentos Procesados
+770002504839|19.0|Lácteos
+770002504840|10.0|Canasta Básica
+770002504841|5.0|Snacks
+770002504842|0.0|Alimentos Procesados
+770002504843|19.0|Alimentos Procesados
+770002504844|10.0|Alimentos Procesados
+770002504845|5.0|Canasta Básica
+770002504846|0.0|Canasta Básica
+770002504847|10.0|Lácteos
+770002504848|0.0|Alimentos Procesados
+770002504849|10.0|Alimentos Procesados
+770002604850|10.0|Bebidas Azucaradas
+770002604851|19.0|Alimentos Procesados
+770002604852|19.0|Snacks
+770002604853|5.0|Bebidas Azucaradas
+770002604854|19.0|Lácteos
+770002604855|5.0|Lácteos
+770002604856|0.0|Canasta Básica
+770002604857|19.0|Lácteos
+770002604858|5.0|Lácteos
+770002604859|0.0|Alimentos Procesados
+770002604860|0.0|Bebidas Azucaradas
+770002604861|0.0|Alimentos Procesados
+770002604862|0.0|Lácteos
+770002604863|10.0|Alimentos Procesados
+770002604864|0.0|Alimentos Procesados
+770002604865|0.0|Canasta Básica
+770002604866|19.0|Alimentos Procesados
+770002604867|10.0|Bebidas Azucaradas
+770002604868|5.0|Lácteos
+770002604869|19.0|Lácteos
+770002604870|0.0|Canasta Básica
+770002604871|5.0|Alimentos Procesados
+770002604872|10.0|Lácteos
+770002604873|5.0|Snacks
+770002604874|0.0|Snacks
+770002604875|5.0|Bebidas Azucaradas
+770002604876|19.0|Bebidas Azucaradas
+770002604877|5.0|Bebidas Azucaradas
+770002604878|19.0|Bebidas Azucaradas
+770002604879|19.0|Lácteos
+770002604880|19.0|Lácteos
+770002604881|5.0|Bebidas Azucaradas
+770002604882|19.0|Snacks
+770002604883|0.0|Bebidas Azucaradas
+770002604884|10.0|Bebidas Azucaradas
+770002604885|10.0|Lácteos
+770002604886|5.0|Canasta Básica
+770002604887|10.0|Canasta Básica
+770002604888|19.0|Snacks
+770002604889|10.0|Alimentos Procesados
+770002604890|0.0|Canasta Básica
+770002604891|10.0|Bebidas Azucaradas
+770002604892|0.0|Canasta Básica
+770002604893|10.0|Alimentos Procesados
+770002604894|19.0|Alimentos Procesados
+770002604895|5.0|Bebidas Azucaradas
+770002604896|0.0|Bebidas Azucaradas
+770002604897|0.0|Lácteos
+770002604898|10.0|Bebidas Azucaradas
+770002604899|0.0|Bebidas Azucaradas
+770002604900|5.0|Canasta Básica
+770002604901|19.0|Lácteos
+770002604902|19.0|Alimentos Procesados
+770002604903|10.0|Lácteos
+770002604904|0.0|Canasta Básica
+770002604905|10.0|Canasta Básica
+770002604906|0.0|Canasta Básica
+770002604907|5.0|Bebidas Azucaradas
+770002604908|10.0|Alimentos Procesados
+770002604909|5.0|Alimentos Procesados
+770002604910|0.0|Snacks
+770002604911|0.0|Bebidas Azucaradas
+770002604912|0.0|Snacks
+770002604913|10.0|Bebidas Azucaradas
+770002604914|0.0|Bebidas Azucaradas
+770002604915|0.0|Snacks
+770002604916|0.0|Lácteos
+770002604917|5.0|Bebidas Azucaradas
+770002604918|19.0|Alimentos Procesados
+770002604919|0.0|Canasta Básica
+770002604920|5.0|Bebidas Azucaradas
+770002604921|19.0|Alimentos Procesados
+770002604922|19.0|Lácteos
+770002604923|19.0|Snacks
+770002604924|19.0|Lácteos
+770002604925|5.0|Bebidas Azucaradas
+770002604926|19.0|Bebidas Azucaradas
+770002604927|10.0|Lácteos
+770002604928|19.0|Alimentos Procesados
+770002604929|0.0|Lácteos
+770002604930|5.0|Bebidas Azucaradas
+770002604931|19.0|Snacks
+770002604932|0.0|Bebidas Azucaradas
+770002604933|19.0|Bebidas Azucaradas
+770002604934|10.0|Canasta Básica
+770002604935|19.0|Snacks
+770002604936|0.0|Canasta Básica
+770002604937|19.0|Canasta Básica
+770002604938|0.0|Bebidas Azucaradas
+770002604939|19.0|Canasta Básica
+770002604940|10.0|Snacks
+770002604941|0.0|Alimentos Procesados
+770002604942|5.0|Bebidas Azucaradas
+770002604943|19.0|Lácteos
+770002604944|10.0|Bebidas Azucaradas
+770002604945|0.0|Lácteos
+770002604946|10.0|Bebidas Azucaradas
+770002604947|19.0|Alimentos Procesados
+770002604948|10.0|Alimentos Procesados
+770002604949|19.0|Snacks
+770002604950|0.0|Alimentos Procesados
+770002604951|5.0|Alimentos Procesados
+770002604952|5.0|Lácteos
+770002604953|19.0|Canasta Básica
+770002604954|19.0|Alimentos Procesados
+770002604955|0.0|Snacks
+770002604956|19.0|Lácteos
+770002604957|5.0|Bebidas Azucaradas
+770002604958|19.0|Alimentos Procesados
+770002604959|0.0|Alimentos Procesados
+770002604960|0.0|Bebidas Azucaradas
+770002604961|5.0|Lácteos
+770002604962|0.0|Canasta Básica
+770002604963|0.0|Lácteos
+770002604964|19.0|Snacks
+770002604965|5.0|Alimentos Procesados
+770002604966|19.0|Alimentos Procesados
+770002604967|5.0|Bebidas Azucaradas
+770002604968|19.0|Alimentos Procesados
+770002604969|19.0|Snacks
+770002604970|10.0|Canasta Básica
+770002604971|19.0|Lácteos
+770002604972|5.0|Alimentos Procesados
+770002604973|19.0|Snacks
+770002604974|19.0|Snacks
+770002604975|19.0|Canasta Básica
+770002604976|5.0|Bebidas Azucaradas
+770002604977|5.0|Alimentos Procesados
+770002604978|0.0|Snacks
+770002604979|19.0|Canasta Básica
+770002604980|5.0|Lácteos
+770002604981|0.0|Snacks
+770002604982|0.0|Canasta Básica
+770002604983|5.0|Bebidas Azucaradas
+770002604984|5.0|Snacks
+770002604985|19.0|Alimentos Procesados
+770002604986|5.0|Lácteos
+770002604987|10.0|Bebidas Azucaradas
+770002604988|5.0|Canasta Básica
+770002604989|19.0|Alimentos Procesados
+770002604990|0.0|Bebidas Azucaradas
+770002604991|5.0|Lácteos
+770002604992|10.0|Alimentos Procesados
+770002604993|19.0|Canasta Básica
+770002604994|10.0|Canasta Básica
+770002604995|0.0|Lácteos
+770002604996|19.0|Lácteos
+770002604997|19.0|Lácteos
+770002604998|0.0|Bebidas Azucaradas
+770002604999|10.0|Lácteos

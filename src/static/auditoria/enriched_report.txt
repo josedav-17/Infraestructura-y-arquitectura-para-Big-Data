@@ -1,4 +1,14 @@
-=== REPORTE DE ENRIQUECIMIENTO ===
-Fecha: 2026-09-20 12:11:07.048585
-Base: 5000
-Enriquecidos: 5000
+REPORTE DE AUDITORIA DE ENRIQUECIMIENTO (EA3)
+Fecha: 2026-09-20 13:41:54.475603
+Registros base: 5000
+Registros finales: 5000
+Columnas iniciales: 10
+Columnas finales: 25
+
+Detalle de las fuentes unidas:
+JSON Precios: 5000 registros leidos, 5000 coincidencias.
+XLSX Paises: 5000 registros leidos, 5000 coincidencias.
+CSV Fabricantes: 5000 registros leidos, 5000 coincidencias.
+XML Empaque: 5000 registros leidos, 5000 coincidencias.
+HTML Popularidad: 5000 registros leidos, 5000 coincidencias.
+TXT Impuestos: 5000 registros leidos, 5000 coincidencias.
