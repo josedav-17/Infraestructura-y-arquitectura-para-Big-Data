@@ -1,29 +1,5 @@
-=== INFORME DE AUDITORIA Y LIMPIEZA DE DATOS ===
-Fecha de ejecucion: 2026-09-03 05:51:28.970858
-
-1. ESTADISTICAS INICIALES:
-   - Total registros extraidos: 100
-   - Registros duplicados detectados: 0
-   - Valores nulos por columna:
-     * code: 0
-     * product_name: 0
-     * brands: 0
-     * categories: 0
-     * nutriscore_grade: 0
-     * energy_kcal_100g: 0
-     * fat_100g: 0
-     * sugars_100g: 0
-     * proteins_100g: 0
-     * salt_100g: 0
-     * fecha_ingesta: 0
-
-2. OPERACIONES DE LIMPIEZA REALIZADAS:
-   - Registros duplicados eliminados: 0
-   - Imputacion de nulos: Cadenas a 'Desconocido/NA', Numericos a 0.0
-   - Correccion de tipos: Conversion explicita a float64 y string
-   - Outliers acotados (IQR): 11 valores ajustados al limite superior
-   - Normalizacion: Escala Min-Max aplicada a 'energy_kcal_100g' -> 'energy_kcal_norm'
-
-3. RESULTADO FINAL:
-   - Total registros despues de limpieza: 100
-   - Estado de calidad: LIMPIO Y REGLAMENTADO
+=== REPORTE DE LIMPIEZA ===
+Fecha: 2026-09-20 12:09:36.990394
+Iniciales: 5000
+Sin duplicados: 5000
+Finales: 5000

@@ -1,0 +1,7 @@
+README.md
+setup.py
+jose_cardona_bigdata.egg-info/PKG-INFO
+jose_cardona_bigdata.egg-info/SOURCES.txt
+jose_cardona_bigdata.egg-info/dependency_links.txt
+jose_cardona_bigdata.egg-info/requires.txt
+jose_cardona_bigdata.egg-info/top_level.txt

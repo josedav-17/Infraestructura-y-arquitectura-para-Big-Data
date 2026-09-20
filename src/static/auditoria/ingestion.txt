@@ -1,6 +1,6 @@
-AUDITORIA DE INGESTION BIG DATA
-Fecha ejecucion: 2026-09-03 05:44:34.464846
-Registros extraidos API: 100
-Registros unicos procesados: 100
-Registros persistidos Mongo: 100
-Estado validacion: OK
+=== REPORTE DE AUDITORIA DE INGESTION MASIVA (EA1) ===
+Fecha: 2026-09-20 17:08:50.499293
+Fuente principal: API DummyJSON (Expanded Dataset)
+Registros totales guardados en SQLite: 5000
+Ubicacion Base de Datos: c:\Users\david\OneDrive\Escritorio\carpetas\Infraestructura-y-arquitectura-para-Big-Data\src\db\ingestion.db
+Estado: OK

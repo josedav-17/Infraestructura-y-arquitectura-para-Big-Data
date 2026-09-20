@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: jose_cardona_bigdata
+Version: 0.3
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: pymongo
+Requires-Dist: openpyxl
+Requires-Dist: lxml
+Requires-Dist: html5lib
+Dynamic: requires-dist

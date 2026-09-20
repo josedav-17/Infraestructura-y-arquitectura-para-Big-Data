@@ -1,13 +1,15 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="ingestion_bigdata",
-    version="0.1",
+    name="jose_cardona_bigdata",
+    version="0.3",
     packages=find_packages(),
     install_requires=[
         "requests",
         "pandas",
         "pymongo",
-        "openpyxl"
+        "openpyxl",
+        "lxml",
+        "html5lib"
     ],
 )

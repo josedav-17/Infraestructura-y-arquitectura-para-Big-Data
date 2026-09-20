@@ -1,0 +1,4 @@
+=== REPORTE DE ENRIQUECIMIENTO ===
+Fecha: 2026-09-20 12:11:07.048585
+Base: 5000
+Enriquecidos: 5000

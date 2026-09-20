@@ -1,4 +1,4 @@
-name: Pipeline Big Data Ingesta y Limpieza
+name: Pipeline Big Data - EA1, EA2 y EA3
 
 on:
   push:
@@ -6,40 +6,49 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-pipeline:
+  run-full-pipeline:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout Repositorio
+      uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: Configurar Python 3.10
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    - name: Install dependencies
+    - name: Instalar Dependencias
       run: |
         pip install --upgrade pip
         pip install -e .
 
-    - name: Run Ingestion (Actividad 1)
+    - name: Ejecutar Actividad 1 - Ingesta de Datos
       env:
         MONGO_URI: ${{ secrets.MONGO_URI }}
       run: |
         python src/ingestion.py
 
-    - name: Run Processing and Cleaning (Actividad 2)
+    - name: Ejecutar Actividad 2 - Limpieza y Procesamiento
       env:
         MONGO_URI: ${{ secrets.MONGO_URI }}
       run: |
         python src/processing.py
 
-    - name: Upload artifacts
+    - name: Ejecutar Actividad 3 - Enriquecimiento de Datos
+      env:
+        MONGO_URI: ${{ secrets.MONGO_URI }}
+      run: |
+        python src/enrichment.py
+
+    - name: Subir Evidencias y Artefactos de las 3 Actividades
       uses: actions/upload-artifact@v4
       with:
-        name: evidencias
+        name: evidencias-pipeline-bigdata
         path: |
           src/xlsx/ingestion.xlsx
           src/xlsx/cleaned_data.xlsx
+          src/xlsx/enriched_data.xlsx
           src/static/auditoria/ingestion.txt
           src/static/auditoria/cleaning_report.txt
+          src/static/auditoria/enriched_report.txt
