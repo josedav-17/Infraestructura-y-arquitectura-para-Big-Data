@@ -3,6 +3,11 @@
 ## UNIVERSIDAD DIGITAL DE ANTIOQUIA - 2026
 
 ---
+# El siguiente proyecto ha sido modificado, adaptado y configurado de acuerdo a las observaciones dadas por el docente en las actividades, el presente readme es una recolección de los pasos dados en las actividades (EA1 - EA2) - Dando como actividad actual EA3
+
+---
+
+---
 
 ## 1. Descripción del Proyecto
 
@@ -99,8 +104,8 @@ jose_cardona/
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git https://github.com/josedav-17/Infraestructura-y-arquitectura-para-Big-Data.git
+cd Infraestructura-y-arquitectura-para-Big-Data.git
 ```
 
 ### Paso 2: Crear y Activar un Entorno Virtual (Opcional pero recomendado)
@@ -122,13 +127,13 @@ pip install -e .
 ```
 
 ### Paso 4: Configurar Variables de Entorno (Opcional para MongoDB)
-Si dispones de una instancia de MongoDB Atlas, puedes configurar la variable:
+Si tienes de una instancia de MongoDB, también puedes configurar la variable:
 ```bash
 # En Linux / macOS:
-export MONGO_URI="mongodb+srv://tu_usuario:tu_clave@cluster.mongodb.net/"
+export MONGO_URI="mongodb+srv://alguna:clave@cluster.mongodb.net/"
 
 # En Windows (CMD):
-set MONGO_URI="mongodb+srv://tu_usuario:tu_clave@cluster.mongodb.net/"
+set MONGO_URI="mongodb+srv://alguna:clave@cluster.mongodb.net/"
 ```
 *Nota: Si no se configura `MONGO_URI`, el sistema funcionará de forma completamente autónoma utilizando **SQLite** localmente.*
 
@@ -156,7 +161,7 @@ set MONGO_URI="mongodb+srv://tu_usuario:tu_clave@cluster.mongodb.net/"
 
 ## 7. Automatización con GitHub Actions
 
-El proyecto cuenta con un flujo CI/CD automatizado configurado en `.github/workflows/bigdata.yml`.
+Este proyecto cuenta con un flujo CI/CD automatizado configurado en `.github/workflows/bigdata.yml`.
 
 ### Funcionamiento del Workflow:
 - **Disparadores (Triggers):** Se ejecuta automáticamente ante cualquier evento `push` a la rama `main` o de forma manual mediante `workflow_dispatch`.
